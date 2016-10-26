@@ -1,0 +1,15 @@
+{
+  "name": "manual-tag",
+  "version": "0.1.0",
+  "description": "Manual evaluation tagging",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://150.164.10.208:10101/andregomesh/manual_tag.git"
+  },
+  "author": "André Heringer, Fabiano Belem",
+  "license": "ISC"
+}
