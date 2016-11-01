@@ -4,7 +4,7 @@
     <header id="home" class="header">
       <section class="container">
         <h4 class="title"><center>{{ obj.title }}</center></h4>
-          <center><img class="img" src="{{url_for('static', filename='img/mumford.jpg')}}"></center>
+          <center><img class="img" src="{{ obj.img }}"></center>
           <p class="description">{{ obj.description }}</p>
       </section>
     </header>
@@ -13,14 +13,32 @@
         <fieldset>
           <p></p>
           <h6>Quais dessas palavras caracterizam a banda / artista acima? (Marque qualquer quantidade de palavras)</h6>
-          <div class="row">
-          {% for tag in tags %}
-            <div class="column">
+
+
+       <table>
+       <tbody>
+       <tr>
+          {% for tag in obj.tags[:7] %}
+            <td>
               <input id="confirmField" type="checkbox">
               <label class="label-inline" for="confirmField">{{ tag }}</label>
-            </div>
+            </td>
           {% endfor %}
-          </div>
+
+       </tr>
+          
+       <tr>
+          
+          {% for tag in obj.tags[7:] %}
+            <td>
+              <input id="confirmField" type="checkbox">
+              <label class="label-inline" for="confirmField">{{ tag }}</label>
+            </td>
+          {% endfor %}
+
+       </tr>
+       </table>
+       </tbody>
 
           <p></p>
           <input class="button-primary" value="Pular" type="submit">
