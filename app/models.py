@@ -26,6 +26,8 @@ obj_tags = db.Table('obj_tags',
 class Object(db.Model):
     id = db.Column(db.String, primary_key=True)
     title = db.Column(db.String)
+    description = db.Column(db.String)
+    img = db.Column(db.String)
     
     # 0 = regular object
     # 1 = only trivial relevant tags

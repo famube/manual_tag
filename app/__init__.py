@@ -7,4 +7,3 @@ db = SQLAlchemy(mantag)
 
 from app import views, models
 
-
