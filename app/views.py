@@ -1,12 +1,22 @@
-from flask import render_template
-from app import mantag
+from flask import render_template, flash, session, url_for, redirect, request, g
+from app import mantag, db
+from .forms import RegisterForm
+from .models import User
 
-@mantag.route('/')
-@mantag.route('/index')
+@mantag.route('/', methods = ['GET', 'POST'])
 def index():
-    obj = {
-        'title': 'Mumford & Sons',
-        'description': 'Mumford & Sons é uma banda de bluegrass/folk/indie fundada em Londres, Inglaterra em dezembro de 2007. Surgiu de um fenômeno que alguns da mídia local chamavam de “cena folk do oeste de Londres”, junto com artistas como Laura Marling, Johnny Flynn e Noah and the Whale. O grupo gravou um EP, Love Your Ground, e começou uma turnê no Reino Unido para ganhar audiência para sua música, ganhando suporte para um eventual álbum.'
-    } 
-    tags = ['folk', 'indie', 'british', 'bluegrass', 'free', 'test']
-    return render_template('index.html', obj=obj, tags=tags)
+    form = RegisterForm()
+    if form.validate_on_submit:
+        user = User(form.name.data, form.age.data, form.gender.data)
+        db.session.add(user)
+        db.session.commit
+        flash('We can start now')
+        return redirect(url_for('evaluate'))
+    else:
+        return render_template('index.html', form=form)
+
+
+@mantag.route('/evaluate')
+def evaluate():
+    obj = models.Object.query.get(obj_id)
+    #return render_template('index.html', obj=obj)

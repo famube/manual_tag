@@ -4,23 +4,48 @@
     <header id="home" class="header">
       <section class="container">
         <h4 class="title"><center>{{ obj.title }}</center></h4>
-          <center><img class="img" src="{{url_for('static', filename='img/mumford.jpg')}}"></center>
-          <p class="description">{{ obj.description }}</p>
+          <center><img class="img" src="{{ obj.img }}"></center>
+          
+          <p>
+          <h6>Voc&ecirc; conhece algo sobre essa banda / artista?</h6>
+          <input type="radio" name="knowledge" value="muito"> Muito 
+          <input type="radio" name="knowledge" value="pouco"> Pouco 
+          <input type="radio" name="knowledge" value="nada" > Nada 
+          </p>
+
       </section>
     </header>
   <div class="container">
       <form>
         <fieldset>
           <p></p>
-          <h6>Quais dessas palavras caracterizam a banda / artista acima? (Marque qualquer quantidade de palavras)</h6d>
-          <div class="row">
-          {% for tag in tags %}
-            <div class="column">
+          <h6>Quais dessas palavras caracterizam a banda / artista acima? (Marque qualquer quantidade de palavras)</h6>
+
+
+       <table>
+       <tbody>
+       <tr>
+          {% for tag in obj.tags[:7] %}
+            <td>
               <input id="confirmField" type="checkbox">
               <label class="label-inline" for="confirmField">{{ tag }}</label>
-            </div>
+            </td>
           {% endfor %}
-          </div>
+
+       </tr>
+          
+       <tr>
+          
+          {% for tag in obj.tags[7:] %}
+            <td>
+              <input id="confirmField" type="checkbox">
+              <label class="label-inline" for="confirmField">{{ tag }}</label>
+            </td>
+          {% endfor %}
+
+       </tr>
+       </table>
+       </tbody>
 
           <p></p>
           <input class="button-primary" value="Pular" type="submit">
