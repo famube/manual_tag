@@ -11,6 +11,7 @@ def index():
         db.session.add(user)
         db.session.commit
         flash('We can start now')
+        session['user_id'] = user.id
         return redirect(url_for('evaluate'))
     else:
         return render_template('index.html', form=form)
@@ -18,5 +19,12 @@ def index():
 
 @mantag.route('/evaluate')
 def evaluate():
-    obj = models.Object.query.get(obj_id)
-    #return render_template('index.html', obj=obj)
+    if "id" in session:
+        current_id = session['id']
+        #evaluated = [object.query...]
+        #random select the objs to be avaluated, compare the objsctes returned by the query
+        #with the one already evaluated by the user 
+        obj = models.Object.query.get(obj_id)
+        return render_template('index.html', obj=obj)
+    else:
+        return rendirect(url_for('index'))
