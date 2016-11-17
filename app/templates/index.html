@@ -1,57 +1,32 @@
 {% extends "base.html" %}
 {% block content %}
-<main class="wrapper">
-    <header id="home" class="header">
-      <section class="container">
-        <h4 class="title"><center>{{ obj.title }}</center></h4>
-          <center><img class="img" src="{{ obj.img }}"></center>
-          
-          <p>
-          <h6>Voc&ecirc; conhece algo sobre essa banda / artista?</h6>
-          <input type="radio" name="knowledge" value="muito"> Muito 
-          <input type="radio" name="knowledge" value="pouco"> Pouco 
-          <input type="radio" name="knowledge" value="nada" > Nada 
-          </p>
 
-      </section>
-    </header>
-  <div class="container">
-      <form>
-        <fieldset>
-          <p></p>
-          <h6>Quais dessas palavras caracterizam a banda / artista acima? (Marque qualquer quantidade de palavras)</h6>
+ <div class="container">
+        Preencha os campos abaixo e clique em Iniciar:
+        <form action="" method="post" name="login">
+            {{ form.hidden_tag() }}
+            <p>
+              Nome: {{ form.name(size=30) }}
+            </p>
+            
+            <p>
+              Idade: {{ form.age }}  
+            </p>
+            
+            <p>
+              Sexo:
+            </p> 
+              <tr>
+                {% for subfield in form.gender %}
+                    <td>{{ subfield.label }}</td>
+                    <td>{{ subfield }}</td>
+                {% endfor %}
+            </tr>
+            
+            <p>
+              <input class="button-primary" value="Iniciar" type="submit">
+            </p>
+        </form>
+</div>
 
-
-       <table>
-       <tbody>
-       <tr>
-          {% for tag in obj.tags[:7] %}
-            <td>
-              <input id="confirmField" type="checkbox">
-              <label class="label-inline" for="confirmField">{{ tag }}</label>
-            </td>
-          {% endfor %}
-
-       </tr>
-          
-       <tr>
-          
-          {% for tag in obj.tags[7:] %}
-            <td>
-              <input id="confirmField" type="checkbox">
-              <label class="label-inline" for="confirmField">{{ tag }}</label>
-            </td>
-          {% endfor %}
-
-       </tr>
-       </table>
-       </tbody>
-
-          <p></p>
-          <input class="button-primary" value="Pular" type="submit">
-          <input class="button float-right" value="Enviar" type="submit">
-        </fieldset>
-      </form>
-  </div>
-</main>
 {%endblock%}
