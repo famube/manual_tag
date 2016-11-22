@@ -15,14 +15,18 @@
             
             <p>
               Sexo:
-            </p> 
+            </p>
+                
+            <table>
+            <tbody> 
               <tr>
                 {% for subfield in form.gender %}
                     <td>{{ subfield.label }}</td>
                     <td>{{ subfield }}</td>
                 {% endfor %}
             </tr>
-            
+            </table>
+            </tbody>             
             <p>
               <input class="button-primary" value="Iniciar" type="submit">
             </p>
