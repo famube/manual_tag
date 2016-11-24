@@ -1,5 +1,5 @@
 from app import db
-
+from datetime import datetime
 
 class User(db.Model):
     __tablename__ = "users"
@@ -71,6 +71,14 @@ class Judgement(db.Model):
     #relevance label
     relevant = db.Column('label', db.Boolean)   
 
+    def __init__(self, eval_id, tag, relevant):
+        self.eval_id = eval_id
+        self.tag = tag
+        self.relevant = relevant
+        
+    def __repr__(self):
+        return '<Tag: %s RelevanceLabel: %r>' % (self.tag.string, self.relevant)
+
 
 #judgements = db.Table('judgements',
 #    db.Column('user_id', db.Integer, db.ForeignKey('user.id')),
@@ -89,6 +97,22 @@ class Evaluation(db.Model):
     timestamp = db.Column('timestamp', db.DateTime)
    
     judgements = db.relationship('Judgement', backref='evaluation', lazy='dynamic')
+
+
+    def __init__(self, user_id, obj_id, previous_knowledge):
+        self.user_id = user_id
+        self.obj_id = obj_id
+        self.previous_knowledge = previous_knowledge
+        #self.judgements = judgements
+        timestamp = datetime.utcnow()
+
+    def print_judgements(self):
+        for judgement in self.judgements:
+            print (judgement)
+
+    def __repr__(self):
+        return '<UserID: %s, ObjID: %s, Knowledge: %d>' % (self.user_id, self.obj_id, self.previous_knowledge)
+
 
 
 

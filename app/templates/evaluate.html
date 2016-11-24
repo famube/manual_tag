@@ -7,8 +7,6 @@
           
           
           <form action="" method="post" name="evaluate">
-          
-          {{ form.hidden_tag() }}
           <p>
           <h6>Voc&ecirc; conhece algo sobre essa banda / artista?</h6>
           </p>
@@ -16,8 +14,10 @@
               <tbody>
               <tr>
                 {% for subfield in form.prev_knowledge %}
-                    <td>{{ subfield.label }}</td>
-                    <td>{{ subfield }}</td>
+                    <td>
+                        {{ subfield }}
+                        {{ subfield.label }}
+                    </td>
                 {% endfor %}
               </tr>
               </table>
@@ -28,19 +28,31 @@
         <fieldset>
           <p></p>
           <h6>Quais dessas palavras caracterizam a banda / artista acima? (Marque qualquer quantidade de palavras)</h6>
+              
 
        <table>
        <tbody>
        <tr>
-          {% for tag in form.evaluation_tags % }
-               <td>{{ tag.label }}</td>
-               <td>{{ tag }}</td>
+          {% for tag in obj.tags[:7] %}
+            <td>
+              <input type="checkbox" id="id_{{ tag.string }}" name="tagchoice"> {{ tag.string }} </input>
+            </td>
+          {% endfor %}
+
+       </tr>
+          
+       <tr>
+          
+          {% for tag in obj.tags[7:] %}
+            <td>
+              <input type="checkbox" id="id_{{ tag.string }}" name="tagchoice"> {{ tag.string }} </input>
+            </td>
           {% endfor %}
 
        </tr>
        </table>
        </tbody>
-
+            
           <p></p>
           <input class="button-primary" value="Pular" type="submit">
           <input class="button float-right" value="Enviar" type="submit">
