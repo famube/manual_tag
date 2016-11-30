@@ -77,7 +77,7 @@ class Judgement(db.Model):
         self.relevant = relevant
         
     def __repr__(self):
-        return '<Tag: %s RelevanceLabel: %r>' % (self.tag.string, self.relevant)
+        return '<Tag: %s RelevanceLabel: %r>' % (self.tag, self.relevant)
 
 
 #judgements = db.Table('judgements',

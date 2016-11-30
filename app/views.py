@@ -1,19 +1,19 @@
 from flask import render_template, flash, session, url_for, redirect, request, g
 from app import mantag, db
 from .forms import RegisterForm, EvaluationForm
-from .models import User, Object, Evaluation
+from .models import User, Object, Evaluation, Judgement, Tag
 from random import shuffle
 
-@mantag.route('/index', methods = ['GET', 'POST'])
+@mantag.route('/', methods = ['GET', 'POST'])
 def index():
     form = RegisterForm()
     #return render_template('index.html', form=form)
-    if form.validate_on_submit:
+    if form.validate_on_submit():
         if 'user_id' in session:
             print("session_userid=", session['user_id'])
 #            session.pop('user_id')
-        if form.name.data == None:
-            return render_template('index.html', form=form)
+#        if form.name.data == None:
+#            return render_template('index.html', form=form)
         user = User(form.name.data, form.age.data, form.gender.data)
         db.session.add(user)
         db.session.commit()
@@ -41,9 +41,45 @@ def evaluate():
         
         objs = Object.query.all()
         
-        for obj in shuffle(objs):
+        for obj in objs:
+            print(obj)
             if obj.id not in evaluated_ids:
-                form = EvaluationForm(obj)
+                form = EvaluationForm()
+                #form.evaluation_tags.choices = [(tag.string, tag.string) for tag in obj.tags]
+                print("request:", request.form)
+                print("request.method:", request.method)
+                print ("PrevKnowledge", form.prev_knowledge.data)
+                
+                chosen_tags = []
+                for tag in obj.tags:
+                    if tag.string in request.form:
+                        chosen_tags.append(tag.string)
+                        
+                print("Chosen tags:", chosen_tags)            
+                
+                if request.method == 'POST':    #if form.validate_on_submit(): #and form.prev_knowledge.data != None:
+                    print("request.form:", request.form)
+                    know = form.prev_knowledge.data
+                    if know == 'None':
+                        know = -1
+                    eva = Evaluation(current_id, obj.id, int(know))
+                    judgements = []
+                    if form.submit.data: #request.form['submit'] == 'Enviar':
+                        print("Formulario enviado")
+                        chosen_tags = request.form.getlist("tagchoice")
+                        print ("Chosen Tags:", chosen_tags)
+                        for tag in obj.tags:
+                            judgements.append(Judgement(eva.id, tag.string, (tag.string in request.form)))
+
+                    eva.judgements = judgements
+                    print("Evaluation:\n", eva)
+                    for j in eva.judgements:
+                        print(j)
+                    db.session.add(eva)
+                    db.session.commit()
+                    return redirect(url_for('evaluate'))
+
+                #if not validate_on_submmit
                 return render_template('evaluate.html', obj=obj, form=form)
     else:
         return redirect(url_for('index'))

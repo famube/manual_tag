@@ -4,7 +4,13 @@
  <div class="container">
         Preencha os campos abaixo e clique em Iniciar:
         <form action="" method="post" name="login">
-            {{ form.hidden_tag() }}
+        
+            {{ form.hidden_tag() }} 
+        
+            {% for error in form.errors %}
+            <span style="color: red;">[{{ error }}]</span>
+            {% endfor %}<br>
+            
             <p>
               Nome: {{ form.name(size=30) }}
             </p>
