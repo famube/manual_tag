@@ -32,7 +32,8 @@ class EvaluationForm(Form):
     prev_knowledge = RadioField('Knowledge', choices=[(2, 'Muito'), (1, 'Pouco'), (0, 'Nada')])
     submit = SubmitField(label='Enviar')
     skip = SubmitField(label='Pular')
-    
+    addtags = TextField('AddTags')
+ 
     #evaluation_tags = SelectMultipleField('ChosenTags', widget=SelectCheckbox()) 
     
     #def set_choices(taglist):

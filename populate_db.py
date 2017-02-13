@@ -19,6 +19,7 @@ tag_map = {}
 clear_data(db.session)
 
 for line in txt:
+    print(line)
     (id, title, sanity, tags, img) = line.split(" | ")
     obj = models.Object(id=id, title=title, description="", sanity_test=int(sanity), img=img)
     for string in tags.split():

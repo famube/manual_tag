@@ -72,9 +72,12 @@ def evaluate():
                             judgements.append(Judgement(eva.id, tag.string, (tag.string in request.form)))
 
                     eva.judgements = judgements
+                    eva.additional_tags = form.addtags.data
                     print("Evaluation:\n", eva)
                     for j in eva.judgements:
                         print(j)
+                    print ("Additional tags:", eva.additional_tags)
+                    
                     db.session.add(eva)
                     db.session.commit()
                     return redirect(url_for('evaluate'))

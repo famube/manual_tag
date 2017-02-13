@@ -88,16 +88,16 @@ Maroon+5 | Maroon 5 | 0 | en love indie live rock seen alternative | https://las
 Simply+Red | Simply Red | 0 | just dance rnb favorite pop indie british female artists blues electronic funk | https://lastfm-img2.akamaized.net/i/u/avatar300s/549d31e77f614f269ca04a6bc156bda2.jpg
 Marisa+Monte | Marisa Monte | 0 | duvidoso brasil classic roda na nacional live female rock vocalist bossa | https://lastfm-img2.akamaized.net/i/u/avatar300s/3d548392d9254381bb30b711cb8474f0.jpg
 Daft+Punk | Daft Punk | 0 | love metal artists favorite pop live rock electronic vocalist |  http://img2-ak.lst.fm/i/u/avatar300s/9fd718d4c80e4ac89107c6c0bb908440.jpg
-RPM | RPM | 0 | juara don indie live pop seixas anyzio california nova rap caracarai seen argeu junior roraima |  http://img2-ak.lst.fm/i/u/avatar300s/e71e6ff5f29e4c8a9518d091cf2fc8ba.jpg
+RPM | RPM | 0 | juara don indie live pop seixas anyzio california nova rap caracarai seen argeu junior roraima | http://img2-ak.lst.fm/i/u/avatar300s/e71e6ff5f29e4c8a9518d091cf2fc8ba.jpg
 Enya | Enya | 0 | irish watermark canadian pop live rock seen new vocalist folk |  http://img2-ak.lst.fm/i/u/avatar300s/c71f6619c0a540fbb76639d0d71a6702.jpg
 Muse | Muse | 0 | classic favourite awesome favorite live rock alternative vocalist |  http://img2-ak.lst.fm/i/u/avatar300s/ad48fe890afa4461a75acf1a10861884.jpg
 The+Divine+Comedy | The Divine Comedy | 0 | alt-countri africa pop live his rock seen electronic vocalist | https://lastfm-img2.akamaized.net/i/u/avatar300s/1a2d3d1625f8446eab6cb3eef5dcd3ea.jpg
 Alicia+Keys | Alicia Keys | 0 | love indie artists live hop new seen vocalist |  http://img2-ak.lst.fm/i/u/avatar300s/5ff6505b3769501cfee1dda60080895e.jpg
-Rod+Stewart | Rod Stewart | 0 | heavy indie punk metal british juara california nova raul silvio argeu mucajai |  http://img2-ak.lst.fm/i/u/avatar300s/df3a1356b08e464ca51b1aa292a5c38a.jpg
+Rod+Stewart | Rod Stewart | 0 | heavy indie punk metal british juara california nova raul silvio argeu mucajai | http://img2-ak.lst.fm/i/u/avatar300s/df3a1356b08e464ca51b1aa292a5c38a.jpg
 Charlie+Brown+Jr. | Charlie Brown Jr. | 0 | love valkyeriex brasil power scry edwards pop live haruka brazilian seen vocalist | https://lastfm-img2.akamaized.net/i/u/avatar300s/26e3a81a47084beda263c51bd2f83c82.jpg
 Madonna | Madonna | 0 | swedish favourite artists favorite singer-songwriter dance live female rock seen sexy girl |  http://img2-ak.lst.fm/i/u/avatar300s/925f0d0d6be4482492ebe26b92222795.jpg
 The+All-American+Rejects | The All-American Rejects | 0 | good love acoustic heights soundtrack american swing seen alternative wave vocalist |  http://img2-ak.lst.fm/i/u/avatar300s/f992444ad00047319413865502c2ef5d.jpg
-Vanessa+Hudgens | Vanessa Hudgens | 0 | alternative pipczeni dance american pop live seen gabriella girl se |  http://img2-ak.lst.fm/i/u/avatar300s/ee98f982e8f87ed78b84eac71e733ca6.jpg
+Vanessa+Hudgens | Vanessa Hudgens | 0 | alternative pipczeni dance american pop live seen gabriella girl se | http://img2-ak.lst.fm/i/u/avatar300s/ee98f982e8f87ed78b84eac71e733ca6.jpg
 Amy+Lee | Amy Lee | 0 | metal pop live gothic female rock vocalist |  http://img2-ak.lst.fm/i/u/avatar300s/bfc02d08e6365d6f420b67e96ff068f4.jpg
 Christina+Aguilera | Christina Aguilera | 0 | 00s latin female indie artists pop listening rock pleasure vocalist | https://lastfm-img2.akamaized.net/i/u/avatar300s/309976a7cee941429c28494c009448eb.jpg
 Guns+N%27+Roses | Guns N' Roses | 0 | indie hard vocalist seen psychedelic |  http://img2-ak.lst.fm/i/u/avatar300s/bf5c018dff564565b146e16af5332438.jpg
@@ -113,4 +113,3 @@ Ingrid+Michaelson | Ingrid Michaelson | 0 | indie artists favorite american sing
 Missy+Higgins | Missy Higgins | 0 | seen live alternative pop rock |  http://img2-ak.lst.fm/i/u/avatar300s/a2623cf1d9b64f89a80d03b367c9a70e.jpg
 The+Cardigans | The Cardigans | 0 | indie rock artists pop singer-songwriter seen |  http://img2-ak.lst.fm/i/u/avatar300s/ee4513b8db6043f0942a7cf29c60939c.jpg
 Erasmo+Carlos | Erasmo Carlos | 0 | brasil silvio live pop juara rocha nova california seen vocalist |  http://img2-ak.lst.fm/i/u/avatar300s/6aa1e85c7464412e9786df63ce4dee4e.jpg
-

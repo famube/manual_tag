@@ -95,6 +95,7 @@ class Evaluation(db.Model):
     obj_id = db.Column('obj_id', db.String, db.ForeignKey('object.id'))
     previous_knowledge = db.Column(db.Integer)
     timestamp = db.Column('timestamp', db.DateTime)
+    additional_tags = db.Column(db.String)
    
     judgements = db.relationship('Judgement', backref='evaluation', lazy='dynamic')
 
@@ -105,6 +106,7 @@ class Evaluation(db.Model):
         self.previous_knowledge = previous_knowledge
         #self.judgements = judgements
         timestamp = datetime.utcnow()
+
 
     def print_judgements(self):
         for judgement in self.judgements:

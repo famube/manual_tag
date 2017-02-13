@@ -3,9 +3,9 @@ from flask.ext.migrate import Migrate, MigrateCommand
 import os
 
 from app import mantag, db
-app.config.from_object('config')
-migrate = Migrate(app, db)
-manager = Manager(app)
+mantag.config.from_object('config')
+migrate = Migrate(mantag, db)
+manager = Manager(mantag)
 
 manager.add_command('db', MigrateCommand)
 
