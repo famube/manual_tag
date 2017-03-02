@@ -4,6 +4,10 @@ from .forms import RegisterForm, EvaluationForm, LFQuestions, MLQuestions
 from .models import User, Object, Evaluation, Judgement, Tag
 from random import shuffle
 
+@mantag.route('/<obj_type>')
+def home(obj_type):
+    return render_template('home.html', objtype=obj_type)
+
 @mantag.route('/index/<obj_type>', methods = ['GET', 'POST'])
 def index(obj_type):
     form = RegisterForm()
@@ -84,8 +88,4 @@ def evaluate(obj_type):
                 return render_template('evaluate.html', obj=obj, form=form, questions=questions)
     else:
         return redirect(url_for('index', obj_type=obj_type))
-
-
-
-
 

@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="container">
+    <h3>Manual-Tag</h3>
+
+    <h5>Objetivo da pesquisa:</h5>
+    <p>Avaliar a qualidade de tags recomendadas para páginas da Web 2.0 (e.g., páginas relacionadas a artistas do LastFM e filmes do MovieLens). Os dados coletados serão utilizados para avaliar e desenvolver novos métodos de recomendação de tags.</p>
+
+    <p></p>
+
+    <h5>Que dados serão coletados? Quais serão disponibilizados?</h5>
+    <p>Serão coletados dados pessoais básicos (nome, idade, sexo, profissão, nível de escolaridade) e as tags que você julgar relevantes para cada objeto. Todas as informações serão anonimizadas.</p>
+
+    <p>A participação é voluntária. Contamos com a sua participação! Ao todo, você avaliará 20 artistas (ou filmes), o que não deve demorar mais de 15 minutos. Clique no link abaixo para iniciar o questionário.</p>
+
+    <a class="button" href="{{ url_for('evaluate', obj_type=objtype) }}">Começar</a>
+</div>
+{%endblock%}
