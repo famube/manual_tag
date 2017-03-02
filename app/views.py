@@ -1,31 +1,29 @@
 from flask import render_template, flash, session, url_for, redirect, request, g
 from app import mantag, db
-from .forms import RegisterForm, EvaluationForm
+from .forms import RegisterForm, EvaluationForm, LFQuestions, MLQuestions
 from .models import User, Object, Evaluation, Judgement, Tag
 from random import shuffle
 
-@mantag.route('/', methods = ['GET', 'POST'])
-def index():
+@mantag.route('/index/<obj_type>', methods = ['GET', 'POST'])
+def index(obj_type):
     form = RegisterForm()
-    #return render_template('index.html', form=form)
     if form.validate_on_submit():
         if 'user_id' in session:
             print("session_userid=", session['user_id'])
-#            session.pop('user_id')
-#        if form.name.data == None:
-#            return render_template('index.html', form=form)
         user = User(form.name.data, form.age.data, form.gender.data)
         db.session.add(user)
         db.session.commit()
         flash('We can start now')
         session['user_id'] = user.id
         print("Registered user:", user)
-        return redirect(url_for('evaluate'))
+        return redirect(url_for('evaluate', obj_type=obj_type))
     return render_template('index.html', form=form)
 
 
-@mantag.route('/evaluate', methods=['GET', 'POST'])
-def evaluate():
+
+@mantag.route('/evaluate/<obj_type>', methods=['GET', 'POST'])
+def evaluate(obj_type):
+    questions = LFQuestions()
     if 'user_id' in session:
         current_id = session['user_id']
         print("session_userid=", current_id)
@@ -39,7 +37,7 @@ def evaluate():
         #random select the objs to be avaluated, compare the objects returned by the query
         #with the one already evaluated by the user
         
-        objs = Object.query.all()
+        objs = Object.query.filter_by(obj_type=obj_type).all()
         
         for obj in objs:
             print(obj)
@@ -80,12 +78,14 @@ def evaluate():
                     
                     db.session.add(eva)
                     db.session.commit()
-                    return redirect(url_for('evaluate'))
+                    return redirect(url_for('evaluate', obj_type=obj_type))
 
                 #if not validate_on_submmit
-                return render_template('evaluate.html', obj=obj, form=form)
+                return render_template('evaluate.html', obj=obj, form=form, questions=questions)
     else:
-        return redirect(url_for('index'))
+        return redirect(url_for('index', obj_type=obj_type))
+
+
 
 
 

@@ -40,3 +40,15 @@ class EvaluationForm(Form):
     #    evaluation_tags.choices = [(tag, tag) for tag in taglist]
 
 
+
+class LFQuestions:
+    first = "Você conhece algo sobre essa banda / artista?"
+    second = "Quais dessas palavras caracterizam a banda / artista acima? (Marque qualquer quantidade de palavras)"
+    #third = "(Opcional) Inclua até 5 tags (palavras-chave separadas por ";") que você considera relevantes e que não foram citadas acima:"
+
+class MLQuestions:
+    first = "Você conhece algo sobre esse filme?"
+    second = "Quais dessas palavras caracterizam o filme acima? (Marque qualquer quantidade de palavras)"
+
+
+

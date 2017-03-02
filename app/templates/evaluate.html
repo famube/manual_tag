@@ -3,12 +3,17 @@
 
   <div class="container">
         <h4 class="title"><center>{{ obj.title }}</center></h4>
-          <center><img class="img" src="{{ obj.img }}"></center>
+        
+          {% if obj.obj_type == "artist" %}
+              <center><img class="img" src="{{ obj.img }}"></center>
+          {% else %}
+              <center><iframe width="560" height="315" src="https://www.youtube.com/embed/{{ obj.img }}" frameborder="0" allowfullscreen></iframe></center>
           
+          {% endif %}
           
           <form action="" method="post" name="evaluate">
           <p>
-          <h6>Voc&ecirc; conhece algo sobre essa banda / artista?</h6>
+          <h6> {{ questions.first }} </h6>
           </p>
               <table>
               <tbody>
@@ -27,7 +32,7 @@
 
         <fieldset>
           <p></p>
-          <h6>Quais dessas palavras caracterizam a banda / artista acima? (Marque qualquer quantidade de palavras)</h6>
+          <h6> {{ questions.second }} </h6>
               
 
        <table>

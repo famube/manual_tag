@@ -26,12 +26,13 @@ obj_tags = db.Table('obj_tags', db.Model.metadata,
 )
 
 
+
 class Object(db.Model):
     id = db.Column(db.String, primary_key=True)
     title = db.Column(db.String)
     description = db.Column(db.String)
     img = db.Column(db.String)
-    
+    obj_type = db.Column(db.String)
     # 0 = regular object
     # 1 = only trivially relevant tags
     #-1 = only trivially irrelevant tags
@@ -42,12 +43,13 @@ class Object(db.Model):
     tags = db.relationship('Tag', secondary=obj_tags,
         backref=db.backref('objects', lazy='dynamic'))
 
-    def __init__(self, id, title, description, img, sanity_test):
+    def __init__(self, id, title, description, img, sanity_test, obj_type):
         self.id = id
         self.title = title
         self.description = description
         self.img = img
         self.sanity_test = sanity_test
+        self.obj_type = obj_type
 
     def __repr__(self):
         return '<Object ID:%s>' % (self.id)
@@ -113,7 +115,7 @@ class Evaluation(db.Model):
             print (judgement)
 
     def __repr__(self):
-        return '<UserID: %s, ObjID: %s, Knowledge: %d>' % (self.user_id, self.obj_id, self.previous_knowledge)
+        return '<UserID: %s, ObjID: %s, Knowledge: %d>\nAddTags: %s' % (self.user_id, self.obj_id, self.previous_knowledge, self.additional_tags)
 
 
 
