@@ -6,7 +6,7 @@ from random import shuffle
 
 @mantag.route('/<obj_type>')
 def home(obj_type):
-    return render_template('home.html', objtype=obj_type)
+    return render_template('home.html', obj_type=obj_type)
 
 @mantag.route('/index/<obj_type>', methods = ['GET', 'POST'])
 def index(obj_type):

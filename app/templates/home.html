@@ -10,10 +10,10 @@
     <p></p>
 
     <h5>Que dados serão coletados? Quais serão disponibilizados?</h5>
-    <p>Serão coletados dados pessoais básicos (nome, idade, sexo, profissão, nível de escolaridade) e as tags que você julgar relevantes para cada objeto. Todas as informações serão anonimizadas.</p>
+    <p>Serão coletados dados pessoais básicos (nome, idade, sexo) e as tags que você julgar relevantes para cada objeto. Todas as informações serão anonimizadas.</p>
 
     <p>A participação é voluntária. Contamos com a sua participação! Ao todo, você avaliará 20 artistas (ou filmes), o que não deve demorar mais de 15 minutos. Clique no link abaixo para iniciar o questionário.</p>
 
-    <a class="button" href="{{ url_for('evaluate', obj_type=objtype) }}">Começar</a>
+    <a class="button" href="{{ url_for('index', obj_type=obj_type) }}">Começar</a>
 </div>
 {%endblock%}
