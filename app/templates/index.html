@@ -7,16 +7,29 @@
         
             {{ form.hidden_tag() }} 
         
-            {% for error in form.errors %}
-            <span style="color: red;">[{{ error }}]</span>
+            {% for field,error in form.errors.items() %}
+            <span style="color: red;"> {{ form.error_msg[field] }} : {{ form.labels[field] }}</span>
+            <br>
             {% endfor %}<br>
+ 
+            
+            <br>
             
             <p>
               Nome: {{ form.name(size=30) }}
             </p>
-            
+              Quantos anos você tem?:
             <p>
-              Idade: {{ form.age }}  
+            <table>
+            <tbody> 
+              <tr>
+                {% for subfield in form.age %}
+                    <td>{{ subfield }} {{ subfield.label }} </td>
+                    <td>  &nbsp;  </td> 
+
+                {% endfor %}
+            </tr>
+            </table> 
             </p>
             
             <p>
@@ -27,8 +40,8 @@
             <tbody> 
               <tr>
                 {% for subfield in form.gender %}
-                    <td>{{ subfield.label }}</td>
-                    <td>{{ subfield }}</td>
+                    <td>{{ subfield }} {{ subfield.label }} </td>
+                    <td>  &nbsp;  </td> 
                 {% endfor %}
             </tr>
             </table>

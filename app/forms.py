@@ -2,13 +2,20 @@ from flask_wtf import Form
 from wtforms import TextField, BooleanField, SubmitField, RadioField, SelectMultipleField
 from wtforms.validators import DataRequired, EqualTo, Length, NumberRange
 from flask_wtf.html5 import IntegerField
-
+from flask import flash
 
 class RegisterForm(Form):
-    age = IntegerField('Age', validators=[DataRequired()]) 
-    name = TextField('Name', validators=[Length(min=4, max=120), DataRequired()])
-    gender = RadioField('Gender', choices=[('M', 'Masculino'),('F', 'Feminino')])
+    age = RadioField('Idade', choices=[('20', 'Menos de 20'),('25', '20-24'),('30', '25-29'),('35', '30-34'),('40', '35-39'),('45', '40-44'),('50', 'Mais de 50')])
+    name = TextField('Nome', validators=[Length(min=4, max=120), DataRequired()])
+    gender = RadioField('Sexo', choices=[('M', 'Masculino'),('F', 'Feminino')])
 
+    labels = {'age': 'Idade', 'name': 'Nome', 'gender': 'Sexo'}
+    error_msg = {'age': 'Escolha uma opção', 'name': 'Campo de preenchimento obrigatório', 'gender': 'Escolha uma opção'}
+    
+    def flash_errors(self):
+        for field, errors in self.errors.items():
+            for error in errors:
+                flash(u"Error in the %s field - %s" % (getattr(self, field).label.text, error), "error")
 
 #class SelectCheckbox(object): 
 #
@@ -43,7 +50,7 @@ class EvaluationForm(Form):
 
 class LFQuestions:
     first = "Você conhece algo sobre essa banda / artista?"
-    second = "Quais dessas palavras caracterizam a banda / artista acima? (Marque qualquer quantidade de palavras)"
+    second = "Quais dessas palavras caracterizam a banda / artista acima? (Marque todas as palavras que julgar relevante)"
     #third = "(Opcional) Inclua até 5 tags (palavras-chave separadas por ";") que você considera relevantes e que não foram citadas acima:"
 
 class MLQuestions:

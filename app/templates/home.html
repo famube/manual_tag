@@ -2,18 +2,28 @@
 {% block content %}
 
 <div class="container">
-    <h3>Manual-Tag</h3>
-
-    <h5>Objetivo da pesquisa:</h5>
-    <p>Avaliar a qualidade de tags recomendadas para páginas da Web 2.0 (e.g., páginas relacionadas a artistas do LastFM e filmes do MovieLens). Os dados coletados serão utilizados para avaliar e desenvolver novos métodos de recomendação de tags.</p>
+    <h3>Avaliação de Recomendações de Tags</h3>
+    
+    <h5>Introdução</h5>
+    
+    Olá,
+    
+    Sou Fabiano Belém, aluno de doutorado em Ciência da Computação na UFMG. Eu e meu grupo de pesquisa estamos desenvolvendo e avaliando novos métodos de recomendação de tags (palavras-chave associadas, por exemplo, a artistas do LastFM e filmes do MovieLens). Para tal, solicitamos a sua participação voluntária para avaliar a qualidade de tags recomendadas por diferentes métodos para descrever o conteúdo de páginas da Web 2.0.
 
     <p></p>
 
-    <h5>Que dados serão coletados? Quais serão disponibilizados?</h5>
-    <p>Serão coletados dados pessoais básicos (nome, idade, sexo) e as tags que você julgar relevantes para cada objeto. Todas as informações serão anonimizadas.</p>
+    <h5>Que dados serão coletados?</h5>
+    <p>Serão coletados dados pessoais básicos (nome, idade, sexo) e as tags que você julgar relevantes para cada item mostrado. Todas as informações coletadas serão anonimizadas.</p>
 
-    <p>A participação é voluntária. Contamos com a sua participação! Ao todo, você avaliará 20 artistas (ou filmes), o que não deve demorar mais de 15 minutos. Clique no link abaixo para iniciar o questionário.</p>
+    <p>Contamos com a sua participação! Ao todo, você avaliará 20 artistas (ou filmes), o que não deve demorar mais de 15 minutos. Clique no botão abaixo para iniciar o questionário.</p>
 
-    <a class="button" href="{{ url_for('index', obj_type=obj_type) }}">Começar</a>
+    <a class="button" href="{{ url_for('index', obj_type=obj_type) }}">Iniciar</a>
+    
+    <p></p>
+    
+   <a href="fmuniz [at] dcc.ufmg.br"
+   rel="nofollow"
+   onclick="this.href='mailto:' + 'fmuniz' + '@' + 'dcc.ufmg.br'">Contato: fmuniz [at] dcc.ufmg.br</a>
+    
 </div>
 {%endblock%}

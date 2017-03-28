@@ -14,7 +14,7 @@ def index(obj_type):
     if form.validate_on_submit():
         if 'user_id' in session:
             print("session_userid=", session['user_id'])
-        user = User(form.name.data, form.age.data, form.gender.data)
+        user = User(form.name.data, int(form.age.data), form.gender.data)
         db.session.add(user)
         db.session.commit()
         flash('We can start now')
