@@ -1,0 +1,14 @@
+#skip{
+    background-color: #F22613
+}
+
+#submit{
+    background-color: #26A65B
+}
+
+input[type="radio"] ~ input {
+    display: none;
+}
+input[type="radio"]:checked ~ input {
+    display: inline-block;
+}

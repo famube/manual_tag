@@ -1,0 +1,15 @@
+#skip{
+    background-color: #F22613
+}
+
+#submit{
+    background-color: #26A65B
+}
+
+
+#style-form input[type="radio"] ~ input {
+    display: none;
+}
+#style-form input[type="radio"]:checked ~ input {
+    display: inline-block;
+}
