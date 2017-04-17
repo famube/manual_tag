@@ -1,11 +1,11 @@
 from flask_wtf import Form
-from wtforms import TextField, BooleanField, SubmitField, RadioField, SelectMultipleField
+from wtforms import TextField, StringField, BooleanField, SubmitField, RadioField, SelectField
 from wtforms.validators import DataRequired, EqualTo, Length, NumberRange
 from flask_wtf.html5 import IntegerField
 from flask import flash
 
 class RegisterForm(Form):
-    age = RadioField('Idade', choices=[('20', 'Menos de 20'),('25', '20-24'),('30', '25-29'),('35', '30-34'),('40', '35-39'),('45', '40-44'),('50', 'Mais de 50')])
+    age = SelectField('Idade', choices=[('20', 'Menos de 20'),('25', '20-24'),('30', '25-29'),('35', '30-34'),('40', '35-39'),('45', '40-44'),('50', 'Mais de 50')])
     name = TextField('Nome', validators=[Length(min=4, max=120), DataRequired()])
     gender = RadioField('Sexo', choices=[('M', 'Masculino'),('F', 'Feminino')])
 
@@ -37,10 +37,11 @@ class RegisterForm(Form):
 
 class EvaluationForm(Form):        
     prev_knowledge = RadioField('Knowledge', choices=[(2, 'Muito'), (1, 'Pouco'), (0, 'Nada')])
-    submit = SubmitField(label='Enviar')
+    submit = SubmitField(label='Enviar', render_kw={'disabled':'disabled'})
+    #submit = SubmitField(label='Enviar')
     skip = SubmitField(label='Pular')
-    addtags = TextField('AddTags')
- 
+    #addtags = StringField('AddTags')
+    
     #evaluation_tags = SelectMultipleField('ChosenTags', widget=SelectCheckbox()) 
     
     #def set_choices(taglist):
@@ -55,7 +56,7 @@ class LFQuestions:
 
 class MLQuestions:
     first = "Você conhece algo sobre esse filme?"
-    second = "Quais dessas palavras caracterizam o filme acima? (Marque qualquer quantidade de palavras)"
+    second = "Quais dessas palavras caracterizam o filme acima? (Marque todas as palavras que julgar relevante)"
 
 
 

@@ -1,6 +1,31 @@
 {% extends "base.html" %}
 {% block content %}
 
+
+<script>
+    function enableSending() {
+        var html_str = ""
+        html_str += " <p></p> <h6> {{ questions.second }} </h6> <table> <tbody> <tr> {% for tag in obj.tags[:7] %} <td> <input type=\"checkbox\" id=\"id_{{ tag.string }}\" name=\"{{ tag.string }}\"> {{ tag.string }} </input> </td> {% endfor %} </tr>";
+        
+        html_str += " <tr> {% for tag in obj.tags[7:] %} <td> <input type=\"checkbox\" id=\"id_{{ tag.string }}\" name=\"{{ tag.string }}\"> {{ tag.string }} </input> </td> {% endfor %} </tr> </table> </tbody> <p></p> ";
+        
+        html_str += " <h6> (Opcional) Inclua até 5 tags (palavras-chave separadas por \";\") que você considera relevantes e que não foram citadas acima:</h6> ";
+        
+        html_str += "<p> Tags adicionais: <input id=\"addtags\" name=\"addtags\" type=\"text\" value=\"\"> </p>";
+        
+        html_str += "<input id=\"submit\" name=\"submit\" type=\"submit\" value=\"Enviar\">"
+        
+
+  
+        //html_str += "<p> Tags adicionais: {{ eva_form.addtags }} </p>";
+ 
+        document.getElementById("second_part").innerHTML = html_str;
+
+    }
+</script>
+
+   
+
   <div class="container">
         <h4 class="title"><center>{{ obj.title }}</center></h4>
         
@@ -11,69 +36,49 @@
           
           {% endif %}
           
+          <p id="test"> </p>
+          
           <form action="" method="post" name="evaluate">
           <p>
           <h6> {{ questions.first }} </h6>
           </p>
               <table>
-              <tbody>
+              <tbody id= style-form>
               <tr>
-                {% for subfield in form.prev_knowledge %}
-                    <td>
-                        {{ subfield }}
-                        {{ subfield.label }}
-                    </td>
-                {% endfor %}
+<td>
+<input onclick= "enableSending();"  id="prev_knowledge-0" name="prev_knowledge" type="radio" value="2" /> 
+<label for="prev_knowledge-0">Muito</label>
+</td>
+
+<td>
+<input onclick="enableSending();"  id="prev_knowledge-1" name="prev_knowledge" type="radio" value="1" /> 
+<label for="prev_knowledge-1">Pouco</label>
+</td>
+
+<td>
+<input id="prev_knowledge-2" name="prev_knowledge" type="radio" value="0"/> 
+<label for="prev_knowledge-2">Nada</label>
+</td>
+
               </tr>
               </table>
               </tbody>            
 
       </section>
 
-        <fieldset>
-          <p></p>
-          <h6> {{ questions.second }} </h6>
-              
 
-       <table>
-       <tbody>
-       <tr>
-          {% for tag in obj.tags[:7] %}
-            <td>
-              <input type="checkbox" id="id_{{ tag.string }}" name="{{ tag.string }}"> {{ tag.string }} </input>
-            </td>
-          {% endfor %}
-
-       </tr>
+<section id="second_part">
           
-       <tr>
-          
-          {% for tag in obj.tags[7:] %}
-            <td>
-              <input type="checkbox" id="id_{{ tag.string }}" name="{{ tag.string }}"> {{ tag.string }} </input>
-            </td>
-          {% endfor %}
-
-       </tr>
-       </table>
-       </tbody>
-            
-          <p></p>
-          
-           <h6> (Opcional) Inclua até 5 tags (palavras-chave separadas por ";") que você considera relevantes e que não foram citadas acima:</h6>
-            <p>
-              Tags adicionais: {{ form.addtags(size=30) }}
-            </p>
-          
-          {{ form.submit }}
-          
-          {{ form.skip}}
+</section>
+          {{  eva_form.skip }}
           
           
-
-
-        </fieldset>
+     
+            <center><h4> Progresso: {{ progress }} / 20  </h4></center>
+   
       </form>
+      
+
   </div>
 
 {%endblock%}

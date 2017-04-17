@@ -1,0 +1,64 @@
+{% extends "base.html" %}
+{% block content %}
+
+  <div class="container">
+        <h4 class="title"><center>{{ obj.title }}</center></h4>
+          <center><img class="img" src="{{ obj.img }}"></center>
+          
+          
+          <form action="" method="post" name="evaluate">
+          
+          {{ form.hidden_tag() }}
+          <p>
+          <h6>Voc&ecirc; conhece algo sobre essa banda / artista?</h6>
+          </p>
+              <table>
+              <tbody>
+              <tr>
+                {% for subfield in form.prev_knowledge %}
+                    <td>{{ subfield.label }}</td>
+                    <td>{{ subfield }}</td>
+                {% endfor %}
+              </tr>
+              </table>
+              </tbody>            
+
+      </section>
+
+        <fieldset>
+          <p></p>
+          <h6>Quais dessas palavras caracterizam a banda / artista acima? (Marque qualquer quantidade de palavras)</h6>
+
+       <table>
+       <tbody>
+       <tr>
+          {% for tag in obj.tags[:7] %}
+            <td>
+              <input id="confirmField" type="checkbox">
+              <label class="label-inline" for="confirmField">{{ tag.string }}</label>
+            </td>
+          {% endfor %}
+
+       </tr>
+          
+       <tr>
+          
+          {% for tag in obj.tags[7:] %}
+            <td>
+              <input id="confirmField" type="checkbox">
+              <label class="label-inline" for="confirmField">{{ tag.string }}</label>
+            </td>
+          {% endfor %}
+
+       </tr>
+       </table>
+       </tbody>
+
+          <p></p>
+          <input class="button-primary" value="Pular" type="submit">
+          <input class="button float-right" value="Enviar" type="submit">
+        </fieldset>
+      </form>
+  </div>
+
+{%endblock%}

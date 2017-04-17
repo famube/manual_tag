@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="container">
+
+    <center><h3>Obrigado!</h3></center>
+    
+     Você concluiu as 20 avaliações requisitadas. Caso desejar fazer mais avaliações, clique no botão a seguir:
+
+    <p></p>
+
+    <a class="button" href="{{ url_for('evaluate', obj_type=obj_type) }}"> Iniciar </a>
+    
+    <p></p>
+
+</div>
+{%endblock%}
