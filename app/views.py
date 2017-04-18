@@ -6,6 +6,17 @@ from random import shuffle
 
 NEVALS=20
 
+def load_objs(filename):
+    objs = {}
+    obj_file = open(filename)
+    for line in obj_file:
+        (id, title, sanity, tags, img) = line.split(" | ")
+        objs[id] = (title, sanity, tags.split(), img)
+    obj_file.close()
+    return objs
+
+
+
 @mantag.route('/<obj_type>')
 def home(obj_type):
     return render_template('home.html', obj_type=obj_type)
@@ -32,10 +43,16 @@ def thanks(obj_type):
 
 @mantag.route('/evaluate/<obj_type>', methods=['GET', 'POST'])
 def evaluate(obj_type):
+
     if obj_type == 'artist':
         questions = LFQuestions()
+        selected = load_objs('data/selected_objects.txt')
+        
     else:
         questions = MLQuestions()
+        selected = load_objs('data/selected_objects_movielens.txt')
+
+    print (selected)
 
     if 'user_id' in session:
         current_id = session['user_id']
@@ -62,8 +79,11 @@ def evaluate(obj_type):
         
         for obj in objs:
             #print(obj)
-            if obj.id not in evaluated_ids:
+            if obj.id not in evaluated_ids and obj.id in selected:
                 form = EvaluationForm()
+                #(title, sanity, tags, img) = selected[obj.id]
+                #obj.tags = tags
+                #obj.img = img
                 #form.prev_knowledge(onclick_="enableSending();")
                 #form.submit(disabled_="disabled")
                 
