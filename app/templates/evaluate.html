@@ -20,8 +20,19 @@
         //html_str += "<p> Tags adicionais: {{ eva_form.addtags }} </p>";
  
         document.getElementById("second_part").innerHTML = html_str;
-
+        document.getElementById("third_part").innerHTML = "";
     }
+    
+    
+        function showSkipMsg() {
+        
+        var html_str = "<p> Ok. Clique em \"Pular\" para prosseguir </p>";
+        document.getElementById("third_part").innerHTML = html_str;
+        document.getElementById("second_part").innerHTML = "";
+    }
+    
+    
+    
 </script>
 
    
@@ -56,7 +67,7 @@
 </td>
 
 <td>
-<input id="prev_knowledge-2" name="prev_knowledge" type="radio" value="0"/> 
+<input onclick="showSkipMsg();" id="prev_knowledge-2" name="prev_knowledge" type="radio" value="0"/> 
 <label for="prev_knowledge-2">Nada</label>
 </td>
 
@@ -67,9 +78,10 @@
       </section>
 
 
-<section id="second_part">
-          
-</section>
+<section id="second_part"> </section>
+
+<section id="third_part"> </section>
+
           {{  eva_form.skip }}
           
           

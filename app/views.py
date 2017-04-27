@@ -105,10 +105,10 @@ def evaluate(obj_type):
                     if tag.string in request.form:
                         chosen_tags.append(tag.string)
                         
-                print("Chosen tags:", chosen_tags)            
+                #print("Chosen tags:", chosen_tags)            
                 
                 if request.method == 'POST':    #if form.validate_on_submit(): #and form.prev_knowledge.data != None:
-                    print("request.form:", request.form)
+                    #print("request.form:", request.form)
                     know = form.prev_knowledge.data
                     if know == 'None':
                         know = -1
@@ -120,9 +120,9 @@ def evaluate(obj_type):
                     #    return redirect(url_for('evaluate', obj_type=obj_type))
                     
                     if form.submit.data: #request.form['submit'] == 'Enviar':
-                        print("Formulario enviado")
+                        #print("Formulario enviado")
                         chosen_tags = request.form.getlist("tagchoice")
-                        print ("Chosen Tags:", chosen_tags)
+                        #print ("Chosen Tags:", chosen_tags)
                         for tag in obj.tags:
                             judgements.append(Judgement(eva.id, tag.string, (tag.string in request.form)))
 
@@ -131,10 +131,10 @@ def evaluate(obj_type):
                     if not form.skip.data:
                         eva.additional_tags = request.form['addtags']
                         #print ("ADD:", eva.additional_tags)
-                        print("Evaluation:\n", eva)
-                        for j in eva.judgements:
-                            print(j)
-                        print ("Additional tags:", eva.additional_tags)
+                        #print("Evaluation:\n", eva)
+                        #for j in eva.judgements:
+                        #    print(j)
+                        #print ("Additional tags:", eva.additional_tags)
                     
                     db.session.add(eva)
                     db.session.commit()
