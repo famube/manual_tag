@@ -1,11 +1,11 @@
 Dido | Dido | 0 | jazz favorite pop artists female singer-songwriter seen vocalist | https://lastfm-img2.akamaized.net/i/u/avatar300s/20f3b4442da048dea6da8e86a12eeef1.jpg
 Ricky+Martin | Ricky Martin | 0 | latin love dance favorite indie american female alternative |  http://img2-ak.lst.fm/i/u/avatar300s/9005ce5dd0604229b60ec76d1e6a81f1.jpg
-Coldplay | Coldplay | 0 | good love american pop norwegian live british listening electronic |  http://img2-ak.lst.fm/i/u/avatar300s/96caef91f25502d7cc5c9edb40a63494.jpg
+Coldplay | Coldplay | 0 | good love pop live british listening electronic |  http://img2-ak.lst.fm/i/u/avatar300s/96caef91f25502d7cc5c9edb40a63494.jpg
 Fatboy+Slim | Fatboy Slim | 0 | ken love electronica intelligent punk guetta indie dance seen alternative electronic |  http://img2-ak.lst.fm/i/u/avatar300s/e4dfb624fa5647cc916a74e64618adaf.jpg
 Queen | Queen | 1 | classic rock freddie mercury 80s glam |  http://img2-ak.lst.fm/i/u/avatar300s/6b7da50f1e0e4001b2e01f678b68bc26.jpg
 Creed | Creed | 0 | christian pinch tu metal tallahassee live ojala pop seen alternative te |  http://img2-ak.lst.fm/i/u/avatar300s/aa68582cdca64af0b98c41bf6ac8a98e.jpg
 Jason+Mraz | Jason Mraz | 0 | love indie rock allsop pop new seen | https://lastfm-img2.akamaized.net/i/u/avatar300s/18d532bc9c77405eb9a1132a83cfb4df.jpg
-Xuxa | Xuxa | 0 | roda merda pobre pop nacional seen live que rock american macumba vocalist |  http://img2-ak.lst.fm/i/u/avatar300s/f9c881e0232146d3c6ada1e434cc0547.jpg
+Xuxa | Xuxa | 0 | roda pobre pop nacional seen live rock american vocalist |  http://img2-ak.lst.fm/i/u/avatar300s/f9c881e0232146d3c6ada1e434cc0547.jpg
 John+Legend | John Legend | 0 | classic tych na artists soul hop posluchac seen alternative |  http://img2-ak.lst.fm/i/u/avatar300s/f2b1f19663b64391b1d5baf8e60ea0c2.jpg
 Michael+Jackson | Michael Jackson | -1 | hip hop rap rock punk jazz |  http://img2-ak.lst.fm/i/u/avatar300s/7a9b0f69d51f41a888ef29df9cfe3594.jpg
 Linkin+Park | Linkin Park | 0 | death punk indie metal favorite pop artists new vocalist |  http://img2-ak.lst.fm/i/u/avatar300s/bfbdd6b613244661a1f17e5f3415440d.jpg

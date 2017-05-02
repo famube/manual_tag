@@ -5,7 +5,7 @@ from flask_wtf.html5 import IntegerField
 from flask import flash
 
 class RegisterForm(Form):
-    age = SelectField('Idade', choices=[('20', 'Menos de 20'),('25', '20-24'),('30', '25-29'),('35', '30-34'),('40', '35-39'),('45', '40-44'),('50', 'Mais de 50')])
+    age = SelectField('Idade', choices=[('20', 'Menos de 20'),('25', '20-24'),('30', '25-29'),('35', '30-34'),('40', '35-39'),('45', '40-44'), ('50', '45-49'), ('55', 'Mais de 50')])
     name = TextField('Nome', validators=[Length(min=4, max=120), DataRequired()])
     gender = RadioField('Sexo', choices=[('M', 'Masculino'),('F', 'Feminino')])
 
@@ -17,23 +17,7 @@ class RegisterForm(Form):
             for error in errors:
                 flash(u"Error in the %s field - %s" % (getattr(self, field).label.text, error), "error")
 
-#class SelectCheckbox(object): 
-#
-#    def __call__(self, field, **kwargs): 
-#        html = [''] 
-#        for val, label, selected in field.iter_choices(): 
-#            html.append(self.render_option(field.name, val, label, selected)) 
-#        return HTMLString(u''.join(html)) 
 
-
-#    def render_option(cls, name, value, label, selected): 
-#        options = {'value': value} 
-#        if selected: 
-#            options['checked'] = u'checked' 
-#        return HTMLString(u'<input type="checkbox" name="%s" %s>%s</input>' % (name, html_params(**options), escape(unicode(label)))) 
-
-
-  
 
 class EvaluationForm(Form):        
     prev_knowledge = RadioField('Knowledge', choices=[(2, 'Muito'), (1, 'Pouco'), (0, 'Nada')])
