@@ -43,6 +43,12 @@ def index(obj_type):
 def thanks(obj_type):
     return render_template('thanks.html', obj_type=obj_type, nevals=NEVALS)
 
+
+@mantag.route('/superthanks')
+def superthanks():
+    return render_template('superthanks.html')
+
+
 @mantag.route('/evaluate/<obj_type>', methods=['GET', 'POST'])
 def evaluate(obj_type):
 
@@ -65,7 +71,10 @@ def evaluate(obj_type):
         
         evaluated = Evaluation.query.filter_by(user_id=current_id)
         evaluated_ids = set([evaluation.obj_id for evaluation in evaluated])
-       
+
+        if len(evaluated_ids) == len(selected):
+            print ("superthanks!")
+            return redirect(url_for('superthanks'))
         
         if 'nevaluated' in session:
             nevaluated = session['nevaluated']
@@ -80,6 +89,10 @@ def evaluate(obj_type):
         evaluations = Evaluation.query.all()
         
         nevaluations = {}
+        
+        for oid in selected:
+            nevaluations[oid] = 0
+        
         for eva in evaluations:
             if eva.obj_id in selected:
                 if eva.obj_id not in nevaluations:
@@ -90,7 +103,11 @@ def evaluate(obj_type):
 
         
         #for obj in objs:
-        for (oid, freq) in sorted(nevaluations.items(), key=itemgetter(1)):
+        
+        sorted_nevaluations = sorted(nevaluations.items(), key=itemgetter(1))
+        #print (sorted_nevaluations)
+        
+        for (oid, freq) in sorted_nevaluations:
             if oid not in evaluated_ids: #and obj.id in selected:
             
                 obj = Object.query.filter_by(id=oid).first()
@@ -169,7 +186,7 @@ def evaluate(obj_type):
 
                 #if not validate_on_submmit
                 return render_template('evaluate.html', obj=obj, updated_info=updated_info, eva_form=form, questions=questions, progress=nevaluated+1, nevals=NEVALS)
-            return redirect(url_for('thanks', obj_type=obj_type, nevals=NEVALS))
+            #return redirect(url_for('thanks', obj_type=obj_type, nevals=NEVALS))
     else:
         return redirect(url_for('index', obj_type=obj_type))
 
