@@ -9,7 +9,7 @@
         
         html_str += " <tr> {% for tag in obj.tags[7:] %} <td> <input type=\"checkbox\" id=\"id_{{ tag.string }}\" name=\"{{ tag.string }}\"> {{ tag.string }} </input> </td> {% endfor %} </tr> </table> </tbody> <p></p> ";
         
-        html_str += " <h6> (Opcional) Inclua até 5 tags (palavras-chave separadas por \";\") que você considera relevantes e que não foram citadas acima:</h6> ";
+        html_str += " <h6> (Opcional) Inclua até 5 tags em inglês (palavras separadas por \";\") que você considera relevantes e que não foram citadas acima:</h6> ";
         
         html_str += "<p> Tags adicionais: <input id=\"addtags\" name=\"addtags\" type=\"text\" value=\"\"> </p>";
         
@@ -38,12 +38,12 @@
    
 
   <div class="container">
-        <h4 class="title"><center>{{ obj.title }}</center></h4>
+        <h4 class="title"><center>{{ updated_info[0] }}</center></h4>
         
           {% if obj.obj_type == "artist" %}
-              <center><img class="img" src="{{ obj.img }}"></center>
+              <center><img class="img" src="{{ updated_info[3] }}"></center>
           {% else %}
-              <center><iframe width="560" height="315" src="https://www.youtube.com/embed/{{ obj.img }}" frameborder="0" allowfullscreen></iframe></center>
+              <center><iframe width="560" height="315" src="https://www.youtube.com/embed/{{ updated_info[3] }}" frameborder="0" allowfullscreen></iframe></center>
           
           {% endif %}
           
@@ -83,10 +83,8 @@
 <section id="third_part"> </section>
 
           {{  eva_form.skip }}
-          
-          
      
-            <center><h4> Progresso: {{ progress }} / 20  </h4></center>
+            <center><h4> Progresso: {{ progress }} / {{ nevals }}  </h4></center>
    
       </form>
       

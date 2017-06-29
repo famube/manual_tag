@@ -3,8 +3,10 @@ from app import mantag, db
 from .forms import RegisterForm, EvaluationForm, LFQuestions, MLQuestions
 from .models import User, Object, Evaluation, Judgement, Tag
 from random import shuffle
+from operator import itemgetter
 
-NEVALS=20
+
+NEVALS=10
 
 def load_objs(filename):
     objs = {}
@@ -39,7 +41,7 @@ def index(obj_type):
 
 @mantag.route('/thanks/<obj_type>')
 def thanks(obj_type):
-    return render_template('thanks.html', obj_type=obj_type)
+    return render_template('thanks.html', obj_type=obj_type, nevals=NEVALS)
 
 @mantag.route('/evaluate/<obj_type>', methods=['GET', 'POST'])
 def evaluate(obj_type):
@@ -52,7 +54,7 @@ def evaluate(obj_type):
         questions = MLQuestions()
         selected = load_objs('data/selected_objects_movielens.txt')
 
-    print (selected)
+    #print (selected)
 
     if 'user_id' in session:
         current_id = session['user_id']
@@ -63,24 +65,41 @@ def evaluate(obj_type):
         
         evaluated = Evaluation.query.filter_by(user_id=current_id)
         evaluated_ids = set([evaluation.obj_id for evaluation in evaluated])
+       
         
         if 'nevaluated' in session:
             nevaluated = session['nevaluated']
         else:
             nevaluated = len(evaluated_ids) % (NEVALS)
         
-        
-     
-        
         #random select the objs to be evaluated, compare the objects returned by the query
         #with the one already evaluated by the user
         
-        objs = Object.query.filter_by(obj_type=obj_type).all()
+        #objs = Object.query.filter_by(obj_type=obj_type).all()
+
+        evaluations = Evaluation.query.all()
         
-        for obj in objs:
-            #print(obj)
-            if obj.id not in evaluated_ids and obj.id in selected:
+        nevaluations = {}
+        for eva in evaluations:
+            if eva.obj_id in selected:
+                if eva.obj_id not in nevaluations:
+                    nevaluations[eva.obj_id] = 0
+                if eva.previous_knowledge != -1:
+                    nevaluations[eva.obj_id] += 1
+
+
+        
+        #for obj in objs:
+        for (oid, freq) in sorted(nevaluations.items(), key=itemgetter(1)):
+            if oid not in evaluated_ids: #and obj.id in selected:
+            
+                obj = Object.query.filter_by(id=oid).first()
+                
+                #(title, sanity, tags, img)
+                updated_info = selected[oid]
+                
                 form = EvaluationForm()
+                
                 #(title, sanity, tags, img) = selected[obj.id]
                 #obj.tags = tags
                 #obj.img = img
@@ -141,7 +160,7 @@ def evaluate(obj_type):
                     
                     if session['nevaluated'] == (NEVALS-1):
                         session['nevaluated'] = 0
-                        return redirect(url_for('thanks', obj_type=obj_type))
+                        return redirect(url_for('thanks', obj_type=obj_type, nevals=NEVALS))
             
                     session['nevaluated'] += 1
     
@@ -149,7 +168,8 @@ def evaluate(obj_type):
                     return redirect(url_for('evaluate', obj_type=obj_type))
 
                 #if not validate_on_submmit
-                return render_template('evaluate.html', obj=obj, eva_form=form, questions=questions, progress=nevaluated+1)
+                return render_template('evaluate.html', obj=obj, updated_info=updated_info, eva_form=form, questions=questions, progress=nevaluated+1, nevals=NEVALS)
+            return redirect(url_for('thanks', obj_type=obj_type, nevals=NEVALS))
     else:
         return redirect(url_for('index', obj_type=obj_type))
 
