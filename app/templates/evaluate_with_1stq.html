@@ -1,0 +1,107 @@
+{% extends "base.html" %}
+{% block content %}
+
+
+<script>
+    function enableSending() {
+        var html_str = ""
+        html_str += " <p></p> <h6> {{ questions.second }} </h6> <table> <tbody> <tr> {% for tag in obj.tags[:6] %} <td> <input type=\"checkbox\" id=\"id_{{ tag.string }}\" name=\"{{ tag.string }}\"> {{ tag.string }} </input> </td> {% endfor %} </tr>";
+        
+        html_str += " <tr> {% for tag in obj.tags[6:12] %} <td> <input type=\"checkbox\" id=\"id_{{ tag.string }}\" name=\"{{ tag.string }}\"> {{ tag.string }} </input> </td> {% endfor %} </tr> </table> </tbody> <p></p> ";
+
+        html_str += " <tr> {% for tag in obj.tags[12:18] %} <td> <input type=\"checkbox\" id=\"id_{{ tag.string }}\" name=\"{{ tag.string }}\"> {{ tag.string }} </input> </td> {% endfor %} </tr> </table> </tbody> <p></p> ";
+
+        html_str += " <tr> {% for tag in obj.tags[18:24] %} <td> <input type=\"checkbox\" id=\"id_{{ tag.string }}\" name=\"{{ tag.string }}\"> {{ tag.string }} </input> </td> {% endfor %} </tr> </table> </tbody> <p></p> ";
+
+        html_str += " <tr> {% for tag in obj.tags[24:] %} <td> <input type=\"checkbox\" id=\"id_{{ tag.string }}\" name=\"{{ tag.string }}\"> {{ tag.string }} </input> </td> {% endfor %} </tr> </table> </tbody> <p></p> ";
+
+
+        
+        html_str += " <h6> (Opcional) Inclua até 5 palavras-chave separadas por \";\") que você considera relevantes e que não foram citadas acima:</h6> ";
+        
+        html_str += "<p> Palavras-chave adicionais: <input id=\"addtags\" name=\"addtags\" type=\"text\" value=\"\"> </p>";
+        
+        html_str += "<input id=\"submit\" name=\"submit\" type=\"submit\" value=\"Enviar\">"
+        
+
+  
+        //html_str += "<p> Tags adicionais: {{ eva_form.addtags }} </p>";
+ 
+        document.getElementById("second_part").innerHTML = html_str;
+        document.getElementById("third_part").innerHTML = "";
+    }
+    
+    
+        function showSkipMsg() {
+        
+        var html_str = "<p> Ok. Clique em \"Pular\" para prosseguir </p>";
+        document.getElementById("third_part").innerHTML = html_str;
+        document.getElementById("second_part").innerHTML = "";
+    }
+    
+    
+    
+</script>
+
+   
+
+  <div class="container">
+        <h4 class="title"><center>{{ updated_info[0] }}</center></h4>
+        
+          {% if obj.obj_type == "artist" %}
+              <center><img class="img" src="{{ updated_info[3] }}"></center>
+
+          {% else if obj.obj_type == "product" %}
+              <center><img class="img" src="{{ updated_info[3] }}"></center>
+
+          {% else %}
+              <center><iframe width="560" height="315" src="https://www.youtube.com/embed/{{ updated_info[3] }}" frameborder="0" allowfullscreen></iframe></center>
+          
+          {% endif %}
+          
+          <p id="test"> </p>
+          
+          <form action="" method="post" name="evaluate">
+          <p>
+          <h6> {{ questions.first }} </h6>
+          </p>
+              <table>
+              <tbody id= style-form>
+              <tr>
+<td>
+<input onclick= "enableSending();"  id="prev_knowledge-0" name="prev_knowledge" type="radio" value="2" /> 
+<label for="prev_knowledge-0">Muito</label>
+</td>
+
+<td>
+<input onclick="enableSending();"  id="prev_knowledge-1" name="prev_knowledge" type="radio" value="1" /> 
+<label for="prev_knowledge-1">Pouco</label>
+</td>
+
+<td>
+<input onclick="showSkipMsg();" id="prev_knowledge-2" name="prev_knowledge" type="radio" value="0"/> 
+<label for="prev_knowledge-2">Nada</label>
+</td>
+
+              </tr>
+              </table>
+              </tbody>            
+
+      </section>
+
+
+<section id="second_part"> </section>
+
+<section id="third_part"> </section>
+
+          {{  eva_form.skip }}
+     
+            <center><h4> Progresso: {{ progress }} / {{ nevals }}  </h4></center>
+   
+      </form>
+      
+
+  </div>
+
+{%endblock%}
+

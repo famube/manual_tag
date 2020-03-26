@@ -6,15 +6,16 @@ from app import db, models
 #db.session.add(u)
 #db.session.commit()
 
-users = models.User.query.all()
+#users = models.User.query.all()
 
-#objs = models.Object.query.all()
+objs = models.Object.query.all()
 
-#for obj in objs:
-#    print (obj),
-#    for tag in obj.tags:
-#        print (tag),
-#    print
+for obj in objs:
+    print (obj),
+    print ("type=", obj.obj_type)
+    for tag in obj.tags:
+        print (tag),
+    print
 
 
 #print ("Users:")
@@ -23,5 +24,5 @@ users = models.User.query.all()
 #    print (user)
 
 
-for eva in models.Evaluation.query.all():
-    print (eva)
+#for eva in models.Evaluation.query.all():
+#    print (eva)

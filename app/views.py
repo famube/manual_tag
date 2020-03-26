@@ -1,22 +1,29 @@
 from flask import render_template, flash, session, url_for, redirect, request, g
 from app import mantag, db
-from .forms import RegisterForm, EvaluationForm, LFQuestions, MLQuestions
+from .forms import RegisterForm, EvaluationForm, LFQuestions, MLQuestions, Elo7Questions
 from .models import User, Object, Evaluation, Judgement, Tag
 from random import shuffle
 from operator import itemgetter
+import pandas
 
+NEVALS=20
 
-NEVALS=10
-
-def load_objs(filename):
+def load_objs(filename, sep=" "):
     objs = {}
     obj_file = open(filename)
     for line in obj_file:
         (id, title, sanity, tags, img) = line.split(" | ")
-        objs[id] = (title, sanity, tags.split(), img)
+        objs[id] = (title, sanity, tags.split(sep), img)
     obj_file.close()
     return objs
 
+def load_objs_elo7(filename):
+    d = pandas.read_csv(filename)
+    objs = {}
+    for idx, row in d.iterrows():
+        oid = row["oid"]
+        objs[oid] = (row["title"], 0, row["tags"].split(","), row["img"], row["description"])
+    return objs
 
 
 @mantag.route('/<obj_type>')
@@ -55,10 +62,17 @@ def evaluate(obj_type):
     if obj_type == 'artist':
         questions = LFQuestions()
         selected = load_objs('data/selected_objects.txt')
-        
-    else:
+    elif obj_type == 'product':
+        questions = Elo7Questions()
+        selected = load_objs_elo7('data/objects_elo7.txt')    
+    elif obj_type == 'film':
         questions = MLQuestions()
         selected = load_objs('data/selected_objects_movielens.txt')
+    else:
+        obj_type = 'product'
+        questions = Elo7Questions()
+        selected = load_objs_elo7('data/objects_elo7.txt')
+
 
     #print (selected)
 
@@ -89,7 +103,7 @@ def evaluate(obj_type):
         evaluations = Evaluation.query.all()
         
         nevaluations = {}
-        
+        print("len(selected) =", len(selected)) 
         for oid in selected:
             nevaluations[oid] = 0
         
@@ -100,6 +114,7 @@ def evaluate(obj_type):
                 if eva.previous_knowledge != -1:
                     nevaluations[eva.obj_id] += 1
 
+        #print (nevaluations)
 
         
         #for obj in objs:
@@ -114,7 +129,7 @@ def evaluate(obj_type):
                 
                 #(title, sanity, tags, img)
                 updated_info = selected[oid]
-                
+
                 form = EvaluationForm()
                 
                 #(title, sanity, tags, img) = selected[obj.id]
@@ -147,7 +162,7 @@ def evaluate(obj_type):
                     #print("request.form:", request.form)
                     know = form.prev_knowledge.data
                     if know == 'None':
-                        know = -1
+                        know = 0
                     eva = Evaluation(current_id, obj.id, int(know))
                     judgements = []
                     

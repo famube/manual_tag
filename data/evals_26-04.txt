@@ -1,0 +1,111 @@
+224 | 25 | 33493 | 2 | None | star wars; lucasfilm; lucas; sci-fi; galaxy; futuristic-movie | jackson:0 cinema:0 darth:1 skywalker:1 anakin:1 award:0 action:1 saturn:0 seen:0 com:0 george:1 good:1 
+225 | 25 | 45499 | 2 | None | x-men; jean grey; phoenix; magneto; mutants; action; sci-fi | nudity:0 genetics:1 comic:1 marvel:1 mckellen:1 biology:1 based:1 dvd:0 hugh:1 miracle:0 foster:0 adaptation:1 good:0 
+226 | 25 | 6539 | 1 | None |  | cinema:0 action:0 classic:0 swashbuckling:0 pirates:1 wolski:0 jack:1 oscar:0 based:0 dvd:0 good:0 
+227 | 25 | 208 | 2 | None |  | action:0 seen:0 pirates:1 com:0 mutant:0 budget:1 reality:0 book:0 future:1 spaceship:0 based:0 dvd:0 good:0 
+228 | 25 | 648 | 1 | None | None | 
+229 | 25 | 592 | 1 | None |  | action:1 booth:0 bruce:1 mask:1 joker:1 wayne:1 oscar:0 atmospheric:0 super-hero:1 york:0 based:0 dvd:0 adaptation:0 
+230 | 25 | 596 | -1 | None | None | 
+231 | 25 | 8360 | 1 | None | ogre; fantasy; fiona; shrek | features:0 comedy:1 antonio:0 cameron:0 seen:0 book:0 based:0 dvd:0 animation:1 prince:1 
+232 | 25 | 6874 | 1 | None |  | cinema:0 seen:0 dvd:0 good:0 thurman:1 murder:1 tense:1 killer:1 watch:0 protagonist:0 imdb:0 science:0 assassin:1 
+233 | 25 | 2023 | -1 | None | None | 
+234 | 25 | 253 | -1 | None | None | 
+235 | 25 | 7438 | 1 | None |  | action:0 seen:0 classic:0 dvd:0 good:0 murder:1 great:0 leon:0 martial:1 kirsten:0 assassin:1 
+236 | 25 | 59725 | -1 | None | None | 
+237 | 25 | 6377 | -1 | None | None | 
+238 | 25 | 150 | -1 | None | None | 
+239 | 25 | 6365 | -1 | None | None | 
+240 | 25 | 2124 | -1 | None | None | 
+241 | 25 | 2160 | -1 | None | None | 
+242 | 25 | 6534 | -1 | None | None | 
+243 | 25 | 59784 | -1 | None | None | 
+155 | 17 | 1441 | 0 | 2017-04-19 14:17:48.926854 |  | 
+156 | 17 | 1013 | -1 | 2017-04-19 14:17:48.932029 |  | 
+157 | 17 | 33493 | -1 | 2017-04-19 14:17:48.935076 |  | 
+158 | 17 | 45499 | -1 | 2017-04-19 14:17:48.938066 |  | 
+159 | 17 | 6539 | -1 | 2017-04-19 14:17:48.940856 |  | 
+160 | 19 | 1441 | -1 | 2017-04-19 14:17:48.944010 |  | 
+161 | 19 | 1013 | -1 | 2017-04-19 14:17:48.946629 |  | 
+162 | 19 | 33493 | -1 | 2017-04-19 14:17:48.949077 |  | 
+163 | 19 | 45499 | -1 | 2017-04-19 14:17:48.952278 |  | 
+164 | 20 | Dido | 0 | 2017-04-19 14:17:48.954676 |  | 
+165 | 20 | Ricky+Martin | 1 | 2017-04-19 14:17:48.957303 | gay | latin:1 love:1 dance:1 favorite:0 indie:0 american:0 female:0 alternative:0 
+166 | 20 | Coldplay | 1 | 2017-04-19 14:17:48.970410 |  | 
+167 | 20 | Fatboy+Slim | 0 | 2017-04-19 14:17:48.972988 |  | 
+168 | 20 | Queen | 2 | 2017-04-19 14:17:48.975749 |  | classic:0 rock:1 freddie:1 mercury:1 80s:1 glam:0 
+169 | 20 | Creed | -1 | 2017-04-19 14:17:48.985064 |  | 
+170 | 20 | Jason+Mraz | -1 | 2017-04-19 14:17:48.987465 |  | 
+171 | 20 | Xuxa | 2 | 2017-04-19 14:17:48.989956 | infantil | roda:1 merda:0 pobre:0 pop:0 nacional:1 seen:0 live:0 que:0 rock:0 american:0 macumba:0 vocalist:0 
+172 | 20 | John+Legend | -1 | 2017-04-19 14:17:49.003136 |  | 
+173 | 20 | Michael+Jackson | 2 | 2017-04-19 14:17:49.005774 | 80 | hip:0 hop:0 rap:0 rock:0 punk:0 jazz:0 
+174 | 20 | Linkin+Park | -1 | 2017-04-19 14:17:49.012691 |  | 
+175 | 20 | Leonard+Cohen | 1 | 2017-04-19 14:17:49.014992 | haleluia  | 
+176 | 20 | 30+Seconds+to+Mars | -1 | 2017-04-19 14:17:49.017210 |  | 
+177 | 20 | Ivete+Sangalo | 2 | 2017-04-19 14:17:49.019422 | bahia; axé | 
+178 | 20 | Miley+Cyrus | 2 | 2017-04-19 14:17:49.021621 | teen crazy | things:0 brutal:0 soundtrack:0 pop:1 female:0 rock:0 seen:0 alternative:0 vocalist:0 
+179 | 20 | Cazuza | 2 | 2017-04-19 14:17:49.029638 |  | pop:0 rock:1 brazilian:1 barao-vermelho:1 
+180 | 20 | Foo+Fighters | -1 | 2017-04-19 14:17:49.034581 |  | 
+181 | 20 | Amy+Winehouse | 1 | 2017-04-19 14:17:49.036570 | crazy drunk dead r&b | deepsoul:0 blues:1 indie:0 jazz:1 favorite:0 soul:1 pop:0 british:1 grozaca:0 alternative:0 vocalist:1 
+182 | 20 | Stevie+Wonder | 2 | 2017-04-19 14:17:49.045207 | blind | hip:0 reggae:1 wilson:0 don:0 live:0 seixas:0 crowley:0 california:0 hop:0 rock:1 alternative:0 argeu:0 vocalist:0 
+183 | 20 | Alanis+Morissette | 2 | 2017-04-19 14:17:49.054759 | canadian | love:0 favorite:0 pop:0 live:0 female:0 rock:1 singer-songwriter:1 
+184 | 20 | 1441 | -1 | 2017-04-19 14:17:49.061133 |  | 
+185 | 20 | 1013 | 1 | 2017-04-19 14:17:49.062972 | infantil | egan:0 good:0 nancy:0 classic:1 dvd:0 malden:0 olson:0 oscar:0 seen:0 
+186 | 20 | 33493 | 1 | 2017-04-19 14:17:49.070485 |  | 
+187 | 20 | 45499 | -1 | 2017-04-19 14:17:49.072258 |  | 
+188 | 20 | 6539 | -1 | 2017-04-19 14:17:49.074054 |  | 
+189 | 20 | 208 | 1 | 2017-04-19 14:17:49.075878 | fiction | mutant:0 based:0 pirates:0 dvd:0 budget:0 reality:0 good:0 book:0 action:0 seen:0 future:1 com:0 spaceship:0 
+190 | 20 | 648 | 1 | 2017-04-19 14:29:28.215250 |  | easily:0 good:0 based:0 classic:0 dvd:0 futuristic-movie:0 brian:0 own:0 jean:0 clouseau:0 mole:1 espionage:1 
+191 | 20 | 592 | -1 | 2017-04-19 14:29:28.272816 |  | booth:0 based:0 bruce:1 oscar:0 mask:0 joker:1 wayne:1 adaptation:0 dvd:0 action:1 atmospheric:0 super-hero:1 york:0 
+192 | 20 | 596 | 2 | 2017-04-19 14:29:28.281789 | pinnochio whale gepeto  | muppets:0 based:0 features:0 oscar:0 national:0 puppet:1 dvd:0 seen:0 musical:0 disney:1 
+193 | 20 | 8360 | 2 | 2017-04-19 14:29:28.289059 | ogre | comedy:1 based:0 features:0 dvd:0 antonio:1 book:0 cameron:0 seen:0 animation:0 prince:0 
+194 | 20 | 6874 | -1 | 2017-04-19 14:29:28.296681 |  | 
+195 | 20 | 2023 | -1 | 2017-04-19 14:29:28.299196 |  | good:0 coppola:0 bruce:0 oscar:0 keaton:0 sofia:0 diane:0 ford:0 corleone:0 imdb:0 nudity:0 seen:0 francis:0 
+196 | 20 | 253 | -1 | 2017-04-19 14:29:28.307871 |  | good:0 love:0 dunst:0 classic:0 series:0 louis:0 7n:0 vampire:0 seen:0 book:0 gothic:0 brad:0 banderas:0 oscar:0 
+197 | 20 | 7438 | -1 | 2017-04-19 14:29:28.317271 |  | great:0 murder:0 classic:0 dvd:0 leon:0 martial:0 good:0 action:0 seen:0 assassin:0 kirsten:0 
+198 | 20 | 59725 | -1 | 2017-04-19 14:29:28.326955 |  | good:0 relationship:0 dvd:0 steve:0 failed:0 brooklyn:0 series:0 test:0 seen:0 cold:0 comedy:0 friends:0 oscar:0 
+199 | 20 | 6377 | 2 | 2017-04-19 14:29:28.337422 |  | 
+200 | 20 | 150 | 2 | 2017-04-19 14:29:28.339298 | space; nasa; tom hanks; moon | futuristic-movie:0 end:0 howard:0 jim:0 biopic:0 imdb:0 classic:0 action:0 seen:0 comedy:0 best:0 based:0 
+201 | 21 | Dido | 1 | 2017-04-19 14:29:28.348980 | English | jazz:1 favorite:0 pop:1 artists:0 female:1 singer-songwriter:0 seen:0 vocalist:0 
+202 | 21 | Ricky+Martin | 2 | 2017-04-19 14:29:28.358003 | Menudo | latin:1 love:1 dance:1 favorite:0 indie:0 american:0 female:0 alternative:0 
+203 | 21 | Coldplay | 2 | 2017-04-19 14:29:28.366370 | Olympics | good:1 love:1 american:0 pop:1 norwegian:0 live:0 british:1 listening:0 electronic:1 
+204 | 21 | Fatboy+Slim | 0 | 2017-04-19 14:29:28.373925 |  | 
+205 | 21 | Queen | 2 | 2017-04-19 14:29:28.375846 | best bands; all time | classic:1 rock:1 freddie:0 mercury:1 80s:1 glam:0 
+206 | 21 | Creed | 0 | 2017-04-19 14:29:28.381446 |  | 
+207 | 21 | Jason+Mraz | 1 | 2017-04-19 14:29:28.383397 |  | love:1 indie:1 rock:0 allsop:0 pop:1 new:0 seen:0 
+208 | 21 | Xuxa | 2 | 2017-04-19 14:29:28.389736 |  | roda:1 merda:0 pobre:0 pop:1 nacional:1 seen:0 live:0 que:0 rock:0 american:0 macumba:0 vocalist:0 
+209 | 21 | John+Legend | 2 | 2017-04-19 14:29:28.398644 | oscar; grammy | classic:0 tych:0 na:0 artists:0 soul:1 hop:1 posluchac:0 seen:0 alternative:1 
+210 | 21 | Michael+Jackson | 2 | 2017-04-19 14:29:28.405823 |  | hip:0 hop:0 rap:0 rock:0 punk:0 jazz:0 
+211 | 21 | Linkin+Park | 1 | 2017-04-19 14:29:28.411018 |  | death:0 punk:1 indie:0 metal:1 favorite:0 pop:1 artists:0 new:1 vocalist:0 
+212 | 21 | Leonard+Cohen | -1 | 2017-04-19 14:29:28.417677 |  | 
+213 | 21 | 30+Seconds+to+Mars | -1 | 2017-04-19 14:29:28.419312 |  | 
+214 | 21 | Ivete+Sangalo | 2 | 2017-04-19 14:29:28.420973 |  | gosto:0 brasil:1 rock:0 favorite:0 live:0 lixo:0 brazilian:1 alternative:1 macumba:0 vocalist:1 
+215 | 21 | Miley+Cyrus | 1 | 2017-04-19 14:29:28.428063 |  | things:0 brutal:0 soundtrack:0 pop:1 female:0 rock:0 seen:0 alternative:1 vocalist:0 
+216 | 21 | Cazuza | 2 | 2017-04-19 14:29:28.438079 |  | pop:1 rock:1 brazilian:1 barao-vermelho:1 
+217 | 21 | Foo+Fighters | 1 | 2017-04-19 14:29:28.444497 |  | pop:0 live:0 rock:1 thrash:0 seen:0 alternative:1 
+218 | 21 | Amy+Winehouse | 2 | 2017-04-19 14:29:28.451543 |  | deepsoul:1 blues:1 indie:1 jazz:1 favorite:1 soul:1 pop:0 british:1 grozaca:0 alternative:1 vocalist:1 
+219 | 21 | Stevie+Wonder | 2 | 2017-04-19 14:29:28.460799 |  | hip:0 reggae:1 wilson:0 don:0 live:0 seixas:0 crowley:0 california:0 hop:0 rock:0 alternative:1 argeu:0 vocalist:1 
+220 | 21 | Alanis+Morissette | 2 | 2017-04-19 14:29:28.470747 |  | love:1 favorite:1 pop:1 live:1 female:1 rock:1 singer-songwriter:1 
+221 | 24 | 1441 | 0 | 2017-04-19 14:29:28.477105 | None | 
+222 | 24 | 1013 | 0 | 2017-04-19 14:29:28.479151 | None | 
+223 | 24 | 33493 | 1 | 2017-04-19 14:29:28.481018 | None | 
+244 | 26 | Dido | 1 | None | chillout | jazz:0 favorite:0 pop:1 artists:0 female:1 singer-songwriter:1 seen:0 vocalist:1 
+245 | 26 | Ricky+Martin | 1 | None | gay; pop | favorite:0 female:0 latin:1 love:1 dance:1 indie:0 american:0 alternative:0 
+246 | 27 | 33493 | 1 | None | star; wars | jackson:0 cinema:0 darth:1 skywalker:1 anakin:1 award:0 action:0 saturn:0 seen:0 com:0 george:1 good:0 
+247 | 27 | 45499 | 0 | None | None | 
+248 | 27 | 6539 | 1 | None |  | cinema:0 action:1 classic:0 swashbuckling:0 pirates:1 wolski:0 jack:1 oscar:0 based:0 dvd:0 good:0 
+249 | 27 | 208 | 0 | None | None | 
+250 | 27 | 648 | 2 | None |  | classic:0 clouseau:0 mole:1 espionage:1 based:0 dvd:0 easily:0 futuristic-movie:0 brian:0 own:0 jean:0 good:0 
+251 | 27 | 592 | 0 | None | None | 
+252 | 27 | 596 | 1 | None |  | muppets:0 features:0 national:0 puppet:1 musical:0 disney:1 seen:0 oscar:1 based:0 dvd:0 
+253 | 27 | 8360 | 1 | None |  | features:0 comedy:0 antonio:1 cameron:1 seen:0 book:0 based:0 dvd:0 animation:1 prince:1 
+254 | 27 | 6874 | 0 | None | None | 
+255 | 27 | 2023 | 0 | None | None | 
+256 | 27 | 253 | 1 | None |  | seen:0 classic:0 love:1 oscar:0 book:0 gothic:1 dunst:1 series:0 louis:1 good:0 7n:0 vampire:1 brad:1 banderas:1 
+257 | 27 | 7438 | 0 | None |  | action:0 seen:0 classic:0 dvd:0 good:0 murder:0 great:0 leon:0 martial:0 kirsten:0 assassin:0 
+258 | 27 | 59725 | 1 | None |  | comedy:0 seen:0 oscar:0 relationship:1 steve:0 failed:1 brooklyn:0 test:0 cold:0 friends:1 dvd:0 series:1 good:0 
+259 | 27 | 6377 | 2 | None | fish father  | features:0 award:0 seen:0 classic:0 relationship:1 screen:0 based:0 dvd:0 animation:1 
+260 | 27 | 150 | 0 | None | None | 
+261 | 27 | 6365 | 1 | None |  | sci-fi:1 reeves:1 smith:1 evil:0 fantasy:0 action:1 booth:0 com:0 book:0 based:0 great:0 imdb:0 
+262 | 27 | 2124 | 1 | None |  | charles:0 illusionist:0 resistance:0 fight:0 uncle:1 classic:1 nudity:0 book:0 based:0 dvd:0 good:0 
+263 | 27 | 2160 | 1 | None |  | classic:0 versus:0 deal:0 author:0 actor:0 thrilling:1 grows:0 oscar:1 based:0 good:0 great:0 
+264 | 27 | 6534 | 1 | None |  | father:1 nerd:1 breakthrough:0 aviator:0 action:0 seen:0 blind:0 tissue:1 book:0 dvd:0 good:0 
+265 | 27 | 59784 | 1 | None | po; dragao; gerreiro | cooking:1 refresh:0 human:0 lifestyle:0 vegan:0 horror:0 

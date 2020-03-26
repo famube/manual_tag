@@ -42,5 +42,9 @@ class MLQuestions:
     first = "Você conhece algo sobre esse filme?"
     second = "Quais dessas palavras caracterizam o filme acima? (Marque todas as palavras que julgar relevante)"
 
+class Elo7Questions:
+    first = "Você sabe do que se trata esse produto?"
+    second = "Quais dessas palavras-chave caracterizam o produto acima? (Marque todas as palavras que julgar relevante)"
+
 
 

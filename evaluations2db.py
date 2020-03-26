@@ -6,6 +6,9 @@ import sys
 
 def db_insert_evals(filename, offset):
     eval_file = open(filename)
+    tags = set()
+    for db_tag in models.Tag.query.all():
+        tags.add(db_tag.string)
     for line in eval_file:
         print(line)
         (eid, uid, oid, know, timestamp, addtags, judgs) = line[:len(line)-1].split(" | ")
@@ -17,13 +20,17 @@ def db_insert_evals(filename, offset):
         eva.additional_tags = addtags
         judgements = []
         
-        for elem in judgs.split():
+        for elem in judgs.split(","):
+            if len(elem) != 2:
+                continue
             (tag, label) = elem.split(":")
             if label == "0":
                 rel = False
             else:
                 rel = True
-            judgements.append(models.Judgement(eva.id, tag, rel))
+            tag = tag.strip()
+            if tag in tags:
+                judgements.append(models.Judgement(eva.id, tag, rel))
         eva.judgements = judgements
         
         db.session.add(eva)

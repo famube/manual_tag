@@ -1,0 +1,436 @@
+<UserID: 17, ObjID: 1441, Knowledge: 0>
+AddTags: 
+Added tags: 
+
+
+<UserID: 17, ObjID: 1013, Knowledge: -1>
+AddTags: 
+Added tags: 
+
+
+<UserID: 17, ObjID: 33493, Knowledge: -1>
+AddTags: 
+Added tags: 
+
+
+<UserID: 17, ObjID: 45499, Knowledge: -1>
+AddTags: 
+Added tags: 
+
+
+<UserID: 17, ObjID: 6539, Knowledge: -1>
+AddTags: 
+Added tags: 
+
+
+<UserID: 19, ObjID: 1441, Knowledge: -1>
+AddTags: 
+Added tags: 
+
+
+<UserID: 19, ObjID: 1013, Knowledge: -1>
+AddTags: 
+Added tags: 
+
+
+<UserID: 19, ObjID: 33493, Knowledge: -1>
+AddTags: 
+Added tags: 
+
+
+<UserID: 19, ObjID: 45499, Knowledge: -1>
+AddTags: 
+Added tags: 
+
+
+<UserID: 20, ObjID: Dido, Knowledge: 0>
+AddTags: 
+Added tags: 
+
+
+<UserID: 20, ObjID: Ricky+Martin, Knowledge: 1>
+AddTags: gay
+Added tags: gay
+✓ latin
+✓ love
+✓ dance
+favorite
+indie
+american
+female
+alternative
+
+
+<UserID: 20, ObjID: Coldplay, Knowledge: 1>
+AddTags: 
+Added tags: 
+
+
+<UserID: 20, ObjID: Fatboy+Slim, Knowledge: 0>
+AddTags: 
+Added tags: 
+
+
+<UserID: 20, ObjID: Queen, Knowledge: 2>
+AddTags: 
+Added tags: 
+classic
+✓ rock
+✓ freddie
+✓ mercury
+✓ 80s
+glam
+
+
+<UserID: 20, ObjID: Creed, Knowledge: -1>
+AddTags: 
+Added tags: 
+
+
+<UserID: 20, ObjID: Jason+Mraz, Knowledge: -1>
+AddTags: 
+Added tags: 
+
+
+<UserID: 20, ObjID: Xuxa, Knowledge: 2>
+AddTags: infantil
+Added tags: infantil
+✓ roda
+merda
+pobre
+pop
+✓ nacional
+seen
+live
+que
+rock
+american
+macumba
+vocalist
+
+
+<UserID: 20, ObjID: John+Legend, Knowledge: -1>
+AddTags: 
+Added tags: 
+
+
+<UserID: 20, ObjID: Michael+Jackson, Knowledge: 2>
+AddTags: 80
+Added tags: 80
+hip
+hop
+rap
+rock
+punk
+jazz
+
+
+<UserID: 20, ObjID: Linkin+Park, Knowledge: -1>
+AddTags: 
+Added tags: 
+
+
+<UserID: 20, ObjID: Leonard+Cohen, Knowledge: 1>
+AddTags: haleluia 
+Added tags: haleluia 
+
+
+<UserID: 20, ObjID: 30+Seconds+to+Mars, Knowledge: -1>
+AddTags: 
+Added tags: 
+
+
+<UserID: 20, ObjID: Ivete+Sangalo, Knowledge: 2>
+AddTags: bahia; axé
+Added tags: bahia; axé
+
+
+<UserID: 20, ObjID: Miley+Cyrus, Knowledge: 2>
+AddTags: teen crazy
+Added tags: teen crazy
+things
+brutal
+soundtrack
+✓ pop
+female
+rock
+seen
+alternative
+vocalist
+
+
+<UserID: 20, ObjID: Cazuza, Knowledge: 2>
+AddTags: 
+Added tags: 
+pop
+✓ rock
+✓ brazilian
+✓ barao-vermelho
+
+
+<UserID: 20, ObjID: Foo+Fighters, Knowledge: -1>
+AddTags: 
+Added tags: 
+
+
+<UserID: 20, ObjID: Amy+Winehouse, Knowledge: 1>
+AddTags: crazy drunk dead r&b
+Added tags: crazy drunk dead r&b
+deepsoul
+✓ blues
+indie
+✓ jazz
+favorite
+✓ soul
+pop
+✓ british
+grozaca
+alternative
+✓ vocalist
+
+
+<UserID: 20, ObjID: Stevie+Wonder, Knowledge: 2>
+AddTags: blind
+Added tags: blind
+hip
+✓ reggae
+wilson
+don
+live
+seixas
+crowley
+california
+hop
+✓ rock
+alternative
+argeu
+vocalist
+
+
+<UserID: 20, ObjID: Alanis+Morissette, Knowledge: 2>
+AddTags: canadian
+Added tags: canadian
+love
+favorite
+pop
+live
+female
+✓ rock
+✓ singer-songwriter
+
+
+<UserID: 20, ObjID: 1441, Knowledge: -1>
+AddTags: 
+Added tags: 
+
+
+<UserID: 20, ObjID: 1013, Knowledge: 1>
+AddTags: infantil
+Added tags: infantil
+egan
+good
+nancy
+✓ classic
+dvd
+malden
+olson
+oscar
+seen
+
+
+<UserID: 20, ObjID: 33493, Knowledge: 1>
+AddTags: 
+Added tags: 
+
+
+<UserID: 20, ObjID: 45499, Knowledge: -1>
+AddTags: 
+Added tags: 
+
+
+<UserID: 20, ObjID: 6539, Knowledge: -1>
+AddTags: 
+Added tags: 
+
+
+<UserID: 20, ObjID: 208, Knowledge: 1>
+AddTags: fiction
+Added tags: fiction
+mutant
+based
+pirates
+dvd
+budget
+reality
+good
+book
+action
+seen
+✓ future
+com
+spaceship
+
+
+<UserID: 20, ObjID: 648, Knowledge: 1>
+AddTags: 
+Added tags: 
+easily
+good
+based
+classic
+dvd
+futuristmovi
+brian
+own
+jean
+clouseau
+✓ mole
+✓ espionage
+
+
+<UserID: 20, ObjID: 592, Knowledge: -1>
+AddTags: 
+Added tags: 
+booth
+based
+✓ bruce
+oscar
+mask
+✓ joker
+✓ wayne
+adaptation
+dvd
+✓ action
+atmospheric
+✓ super-hero
+york
+
+
+<UserID: 20, ObjID: 596, Knowledge: 2>
+AddTags: pinnochio whale gepeto 
+Added tags: pinnochio whale gepeto 
+muppets
+based
+features
+oscar
+national
+✓ puppet
+dvd
+seen
+musical
+✓ disney
+
+
+<UserID: 20, ObjID: 8360, Knowledge: 2>
+AddTags: ogre
+Added tags: ogre
+✓ comedy
+based
+features
+dvd
+✓ antonio
+book
+cameron
+seen
+animation
+prince
+
+
+<UserID: 20, ObjID: 6874, Knowledge: -1>
+AddTags: 
+Added tags: 
+
+
+<UserID: 20, ObjID: 2023, Knowledge: -1>
+AddTags: 
+Added tags: 
+good
+coppola
+bruce
+oscar
+keaton
+sofia
+diane
+ford
+corleone
+imdb
+nudity
+seen
+francis
+
+
+<UserID: 20, ObjID: 253, Knowledge: -1>
+AddTags: 
+Added tags: 
+good
+love
+dunst
+classic
+series
+louis
+7n
+vampire
+seen
+book
+gothic
+brad
+banderas
+oscar
+
+
+<UserID: 20, ObjID: 7438, Knowledge: -1>
+AddTags: 
+Added tags: 
+great
+murder
+classic
+dvd
+leon
+martial
+good
+action
+seen
+assassin
+kirsten
+
+
+<UserID: 20, ObjID: 59725, Knowledge: -1>
+AddTags: 
+Added tags: 
+good
+relationship
+dvd
+steve
+failed
+brooklyn
+series
+test
+seen
+cold
+comedy
+friends
+oscar
+
+
+<UserID: 20, ObjID: 6377, Knowledge: 2>
+AddTags: 
+Added tags: 
+
+
+<UserID: 20, ObjID: 150, Knowledge: 2>
+AddTags: space; nasa; tom hanks; moon
+Added tags: space; nasa; tom hanks; moon
+futuristmovi
+end
+howard
+jim
+biopic
+imdb
+classic
+action
+seen
+comedy
+best
+based
+
+

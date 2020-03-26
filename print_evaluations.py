@@ -33,9 +33,9 @@ for eva in evaluations:
     for judg in eva.judgements:
         print (judg.tag, end=':')
         if judg.relevant:
-            print (1, end=' ')
+            print (1, end=',')
         else:
-            print (0, end=' ')
+            print (0, end=',')
     print ("")
 
 

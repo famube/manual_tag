@@ -1,0 +1,1110 @@
+224 | 25 | 33493 | 2 | 2017-05-02 11:26:32.756488 | star wars; lucasfilm; lucas; sci-fi; galaxy; futuristic-movie | jackson:0 cinema:0 darth:1 skywalker:1 anakin:1 award:0 action:1 saturn:0 seen:0 com:0 george:1 good:1 
+225 | 25 | 45499 | 2 | 2017-05-02 11:26:32.768219 | x-men; jean grey; phoenix; magneto; mutants; action; sci-fi | nudity:0 genetics:1 comic:1 marvel:1 mckellen:1 biology:1 based:1 dvd:0 hugh:1 miracle:0 foster:0 adaptation:1 good:0 
+226 | 25 | 6539 | 1 | 2017-05-02 11:26:32.777067 |  | cinema:0 action:0 classic:0 swashbuckling:0 pirates:1 wolski:0 jack:1 oscar:0 based:0 dvd:0 good:0 
+227 | 25 | 208 | 2 | 2017-05-02 11:26:32.784536 |  | action:0 seen:0 pirates:1 com:0 mutant:0 budget:1 reality:0 book:0 future:1 spaceship:0 based:0 dvd:0 good:0 
+228 | 25 | 648 | 1 | 2017-05-02 11:26:32.793471 | None | 
+229 | 25 | 592 | 1 | 2017-05-02 11:26:32.795633 |  | action:1 booth:0 bruce:1 mask:1 joker:1 wayne:1 oscar:0 atmospheric:0 super-hero:1 york:0 based:0 dvd:0 adaptation:0 
+230 | 25 | 596 | -1 | 2017-05-02 11:26:32.804131 | None | 
+231 | 25 | 8360 | 1 | 2017-05-02 11:26:32.805793 | ogre; fantasy; fiona; shrek | features:0 comedy:1 antonio:0 cameron:0 seen:0 book:0 based:0 dvd:0 animation:1 prince:1 
+232 | 25 | 6874 | 1 | 2017-05-02 11:26:32.813134 |  | cinema:0 seen:0 dvd:0 good:0 thurman:1 murder:1 tense:1 killer:1 watch:0 protagonist:0 imdb:0 science:0 assassin:1 
+233 | 25 | 2023 | -1 | 2017-05-02 11:26:32.821537 | None | 
+234 | 25 | 253 | -1 | 2017-05-02 11:26:32.823207 | None | 
+235 | 25 | 7438 | 1 | 2017-05-02 11:26:32.824805 |  | action:0 seen:0 classic:0 dvd:0 good:0 murder:1 great:0 leon:0 martial:1 kirsten:0 assassin:1 
+236 | 25 | 59725 | -1 | 2017-05-02 11:26:32.833274 | None | 
+237 | 25 | 6377 | -1 | 2017-05-02 11:26:32.835521 | None | 
+238 | 25 | 150 | -1 | 2017-05-02 11:26:32.838084 | None | 
+239 | 25 | 6365 | -1 | 2017-05-02 11:26:32.839832 | None | 
+240 | 25 | 2124 | -1 | 2017-05-02 11:26:32.841575 | None | 
+241 | 25 | 2160 | -1 | 2017-05-02 11:26:32.843185 | None | 
+242 | 25 | 6534 | -1 | 2017-05-02 11:26:32.844815 | None | 
+243 | 25 | 59784 | -1 | 2017-05-02 11:26:32.846484 | None | 
+155 | 17 | 1441 | 0 | 2017-05-02 11:26:32.848097 |  | 
+156 | 17 | 1013 | -1 | 2017-05-02 11:26:32.849832 |  | 
+157 | 17 | 33493 | -1 | 2017-05-02 11:26:32.851544 |  | 
+158 | 17 | 45499 | -1 | 2017-05-02 11:26:32.853198 |  | 
+159 | 17 | 6539 | -1 | 2017-05-02 11:26:32.854876 |  | 
+160 | 19 | 1441 | -1 | 2017-05-02 11:26:32.856509 |  | 
+161 | 19 | 1013 | -1 | 2017-05-02 11:26:32.858150 |  | 
+162 | 19 | 33493 | -1 | 2017-05-02 11:26:32.859803 |  | 
+163 | 19 | 45499 | -1 | 2017-05-02 11:26:32.861552 |  | 
+164 | 20 | Dido | 0 | 2017-05-02 11:26:32.863359 |  | 
+165 | 20 | Ricky+Martin | 1 | 2017-05-02 11:26:32.865035 | gay | latin:1 love:1 dance:1 favorite:0 indie:0 american:0 female:0 alternative:0 
+166 | 20 | Coldplay | 1 | 2017-05-02 11:26:32.871042 |  | 
+167 | 20 | Fatboy+Slim | 0 | 2017-05-02 11:26:32.872788 |  | 
+168 | 20 | Queen | 2 | 2017-05-02 11:26:32.874440 |  | classic:0 rock:1 freddie:1 mercury:1 80s:1 glam:0 
+169 | 20 | Creed | -1 | 2017-05-02 11:26:32.879753 |  | 
+170 | 20 | Jason+Mraz | -1 | 2017-05-02 11:26:32.881439 |  | 
+171 | 20 | Xuxa | 2 | 2017-05-02 11:26:32.883053 | infantil | roda:1 pobre:0 pop:0 nacional:1 seen:0 live:0 que:0 rock:0 american:0 macumba:0 vocalist:0 
+172 | 20 | John+Legend | -1 | 2017-05-02 11:26:32.890489 |  | 
+173 | 20 | Michael+Jackson | 2 | 2017-05-02 11:26:32.892261 | 80 | hip:0 hop:0 rap:0 rock:0 punk:0 jazz:0 
+174 | 20 | Linkin+Park | -1 | 2017-05-02 11:26:32.897436 |  | 
+175 | 20 | Leonard+Cohen | 1 | 2017-05-02 11:26:32.899100 | haleluia  | 
+176 | 20 | 30+Seconds+to+Mars | -1 | 2017-05-02 11:26:32.900714 |  | 
+177 | 20 | Ivete+Sangalo | 2 | 2017-05-02 11:26:32.902310 | bahia; axé | 
+178 | 20 | Miley+Cyrus | 2 | 2017-05-02 11:26:32.905993 | teen crazy | things:0 brutal:0 soundtrack:0 pop:1 female:0 rock:0 seen:0 alternative:0 vocalist:0 
+179 | 20 | Cazuza | 2 | 2017-05-02 11:26:32.912606 |  | pop:0 rock:1 brazilian:1 barao-vermelho:1 
+180 | 20 | Foo+Fighters | -1 | 2017-05-02 11:26:32.916755 |  | 
+181 | 20 | Amy+Winehouse | 1 | 2017-05-02 11:26:32.918402 | crazy drunk dead r&b | deepsoul:0 blues:1 indie:0 jazz:1 favorite:0 soul:1 pop:0 british:1 grozaca:0 alternative:0 vocalist:1 
+182 | 20 | Stevie+Wonder | 2 | 2017-05-02 11:26:32.925776 | blind | hip:0 reggae:1 wilson:0 don:0 live:0 seixas:0 crowley:0 california:0 hop:0 rock:1 alternative:0 argeu:0 vocalist:0 
+183 | 20 | Alanis+Morissette | 2 | 2017-05-02 11:26:32.934273 | canadian | love:0 favorite:0 pop:0 live:0 female:0 rock:1 singer-songwriter:1 
+184 | 20 | 1441 | -1 | 2017-05-02 11:26:32.939854 |  | 
+185 | 20 | 1013 | 1 | 2017-05-02 11:26:32.941491 | infantil | egan:0 good:0 nancy:0 classic:1 dvd:0 malden:0 olson:0 oscar:0 seen:0 
+186 | 20 | 33493 | 1 | 2017-05-02 11:26:32.947922 |  | 
+187 | 20 | 45499 | -1 | 2017-05-02 11:26:32.949588 |  | 
+188 | 20 | 6539 | -1 | 2017-05-02 11:26:32.951214 |  | 
+189 | 20 | 208 | 1 | 2017-05-02 11:26:32.952833 | fiction | mutant:0 based:0 pirates:0 dvd:0 budget:0 reality:0 good:0 book:0 action:0 seen:0 future:1 com:0 spaceship:0 
+190 | 20 | 648 | 1 | 2017-05-02 11:26:32.961148 |  | easily:0 good:0 based:0 classic:0 dvd:0 futuristic-movie:0 brian:0 own:0 jean:0 clouseau:0 mole:1 espionage:1 
+191 | 20 | 592 | -1 | 2017-05-02 11:26:32.968952 |  | booth:0 based:0 bruce:1 oscar:0 mask:0 joker:1 wayne:1 adaptation:0 dvd:0 action:1 atmospheric:0 super-hero:1 york:0 
+192 | 20 | 596 | 2 | 2017-05-02 11:26:32.977289 | pinnochio whale gepeto  | muppets:0 based:0 features:0 oscar:0 national:0 puppet:1 dvd:0 seen:0 musical:0 disney:1 
+193 | 20 | 8360 | 2 | 2017-05-02 11:26:32.984313 | ogre | comedy:1 based:0 features:0 dvd:0 antonio:1 book:0 cameron:0 seen:0 animation:0 prince:0 
+194 | 20 | 6874 | -1 | 2017-05-02 11:26:32.991271 |  | 
+195 | 20 | 2023 | -1 | 2017-05-02 11:26:32.992965 |  | good:0 coppola:0 bruce:0 oscar:0 keaton:0 sofia:0 diane:0 ford:0 corleone:0 imdb:0 nudity:0 seen:0 francis:0 
+196 | 20 | 253 | -1 | 2017-05-02 11:26:33.001282 |  | good:0 love:0 dunst:0 classic:0 series:0 louis:0 7n:0 vampire:0 seen:0 book:0 gothic:0 brad:0 banderas:0 oscar:0 
+197 | 20 | 7438 | -1 | 2017-05-02 11:26:33.010053 |  | great:0 murder:0 classic:0 dvd:0 leon:0 martial:0 good:0 action:0 seen:0 assassin:0 kirsten:0 
+198 | 20 | 59725 | -1 | 2017-05-02 11:26:33.017463 |  | good:0 relationship:0 dvd:0 steve:0 failed:0 brooklyn:0 series:0 test:0 seen:0 cold:0 comedy:0 friends:0 oscar:0 
+199 | 20 | 6377 | 2 | 2017-05-02 11:26:33.025678 |  | 
+200 | 20 | 150 | 2 | 2017-05-02 11:26:33.027348 | space; nasa; tom hanks; moon | futuristic-movie:0 end:0 howard:0 jim:0 biopic:0 imdb:0 classic:0 action:0 seen:0 comedy:0 best:0 based:0 
+201 | 21 | Dido | 1 | 2017-05-02 11:26:33.035775 | English | jazz:1 favorite:0 pop:1 artists:0 female:1 singer-songwriter:0 seen:0 vocalist:0 
+202 | 21 | Ricky+Martin | 2 | 2017-05-02 11:26:33.042698 | Menudo | latin:1 love:1 dance:1 favorite:0 indie:0 american:0 female:0 alternative:0 
+203 | 21 | Coldplay | 2 | 2017-05-02 11:26:33.049140 | Olympics | good:1 love:1 american:0 pop:1 norwegian:0 live:0 british:1 listening:0 electronic:1 
+204 | 21 | Fatboy+Slim | 0 | 2017-05-02 11:26:33.058707 |  | 
+205 | 21 | Queen | 2 | 2017-05-02 11:26:33.060798 | best bands; all time | classic:1 rock:1 freddie:0 mercury:1 80s:1 glam:0 
+206 | 21 | Creed | 0 | 2017-05-02 11:26:33.069384 |  | 
+207 | 21 | Jason+Mraz | 1 | 2017-05-02 11:26:33.072185 |  | love:1 indie:1 rock:0 allsop:0 pop:1 new:0 seen:0 
+208 | 21 | Xuxa | 2 | 2017-05-02 11:26:33.082492 |  | roda:1 pobre:0 pop:1 nacional:1 seen:0 live:0 que:0 rock:0 american:0 macumba:0 vocalist:0 
+209 | 21 | John+Legend | 2 | 2017-05-02 11:26:33.094942 | oscar; grammy | classic:0 tych:0 na:0 artists:0 soul:1 hop:1 posluchac:0 seen:0 alternative:1 
+210 | 21 | Michael+Jackson | 2 | 2017-05-02 11:26:33.104240 |  | hip:0 hop:0 rap:0 rock:0 punk:0 jazz:0 
+211 | 21 | Linkin+Park | 1 | 2017-05-02 11:26:33.110889 |  | death:0 punk:1 indie:0 metal:1 favorite:0 pop:1 artists:0 new:1 vocalist:0 
+212 | 21 | Leonard+Cohen | -1 | 2017-05-02 11:26:33.119982 |  | 
+213 | 21 | 30+Seconds+to+Mars | -1 | 2017-05-02 11:26:33.122238 |  | 
+214 | 21 | Ivete+Sangalo | 2 | 2017-05-02 11:26:33.124457 |  | gosto:0 brasil:1 rock:0 favorite:0 live:0 lixo:0 brazilian:1 alternative:1 macumba:0 vocalist:1 
+215 | 21 | Miley+Cyrus | 1 | 2017-05-02 11:26:33.132886 |  | things:0 brutal:0 soundtrack:0 pop:1 female:0 rock:0 seen:0 alternative:1 vocalist:0 
+216 | 21 | Cazuza | 2 | 2017-05-02 11:26:33.141138 |  | pop:1 rock:1 brazilian:1 barao-vermelho:1 
+217 | 21 | Foo+Fighters | 1 | 2017-05-02 11:26:33.146671 |  | pop:0 live:0 rock:1 thrash:0 seen:0 alternative:1 
+218 | 21 | Amy+Winehouse | 2 | 2017-05-02 11:26:33.152759 |  | deepsoul:1 blues:1 indie:1 jazz:1 favorite:1 soul:1 pop:0 british:1 grozaca:0 alternative:1 vocalist:1 
+219 | 21 | Stevie+Wonder | 2 | 2017-05-02 11:26:33.161429 |  | hip:0 reggae:1 wilson:0 don:0 live:0 seixas:0 crowley:0 california:0 hop:0 rock:0 alternative:1 argeu:0 vocalist:1 
+220 | 21 | Alanis+Morissette | 2 | 2017-05-02 11:26:33.171251 |  | love:1 favorite:1 pop:1 live:1 female:1 rock:1 singer-songwriter:1 
+221 | 24 | 1441 | 0 | 2017-05-02 11:26:33.177599 | None | 
+222 | 24 | 1013 | 0 | 2017-05-02 11:26:33.179480 | None | 
+223 | 24 | 33493 | 1 | 2017-05-02 11:26:33.181391 | None | 
+244 | 26 | Dido | 1 | 2017-05-02 11:26:33.183357 | chillout | jazz:0 favorite:0 pop:1 artists:0 female:1 singer-songwriter:1 seen:0 vocalist:1 
+245 | 26 | Ricky+Martin | 1 | 2017-05-02 11:26:33.189981 | gay; pop | favorite:0 female:0 latin:1 love:1 dance:1 indie:0 american:0 alternative:0 
+246 | 27 | 33493 | 1 | 2017-05-02 11:26:33.196520 | star; wars | jackson:0 cinema:0 darth:1 skywalker:1 anakin:1 award:0 action:0 saturn:0 seen:0 com:0 george:1 good:0 
+247 | 27 | 45499 | 0 | 2017-05-02 11:26:33.204825 | None | 
+248 | 27 | 6539 | 1 | 2017-05-02 11:26:33.206576 |  | cinema:0 action:1 classic:0 swashbuckling:0 pirates:1 wolski:0 jack:1 oscar:0 based:0 dvd:0 good:0 
+249 | 27 | 208 | 0 | 2017-05-02 11:26:33.215584 | None | 
+250 | 27 | 648 | 2 | 2017-05-02 11:26:33.217458 |  | classic:0 clouseau:0 mole:1 espionage:1 based:0 dvd:0 easily:0 futuristic-movie:0 brian:0 own:0 jean:0 good:0 
+251 | 27 | 592 | 0 | 2017-05-02 11:26:33.228561 | None | 
+252 | 27 | 596 | 1 | 2017-05-02 11:26:33.231804 |  | muppets:0 features:0 national:0 puppet:1 musical:0 disney:1 seen:0 oscar:1 based:0 dvd:0 
+253 | 27 | 8360 | 1 | 2017-05-02 11:26:33.247125 |  | features:0 comedy:0 antonio:1 cameron:1 seen:0 book:0 based:0 dvd:0 animation:1 prince:1 
+254 | 27 | 6874 | 0 | 2017-05-02 11:26:33.260874 | None | 
+255 | 27 | 2023 | 0 | 2017-05-02 11:26:33.263926 | None | 
+256 | 27 | 253 | 1 | 2017-05-02 11:26:33.266512 |  | seen:0 classic:0 love:1 oscar:0 book:0 gothic:1 dunst:1 series:0 louis:1 good:0 7n:0 vampire:1 brad:1 banderas:1 
+257 | 27 | 7438 | 0 | 2017-05-02 11:26:33.280749 |  | action:0 seen:0 classic:0 dvd:0 good:0 murder:0 great:0 leon:0 martial:0 kirsten:0 assassin:0 
+258 | 27 | 59725 | 1 | 2017-05-02 11:26:33.292751 |  | comedy:0 seen:0 oscar:0 relationship:1 steve:0 failed:1 brooklyn:0 test:0 cold:0 friends:1 dvd:0 series:1 good:0 
+259 | 27 | 6377 | 2 | 2017-05-02 11:26:33.303707 | fish father  | features:0 award:0 seen:0 classic:0 relationship:1 screen:0 based:0 dvd:0 animation:1 
+260 | 27 | 150 | 0 | 2017-05-02 11:26:33.312206 | None | 
+261 | 27 | 6365 | 1 | 2017-05-02 11:26:33.314216 |  | sci-fi:1 reeves:1 smith:1 evil:0 fantasy:0 action:1 booth:0 com:0 book:0 based:0 great:0 imdb:0 
+262 | 27 | 2124 | 1 | 2017-05-02 11:26:33.323974 |  | charles:0 illusionist:0 resistance:0 fight:0 uncle:1 classic:1 nudity:0 book:0 based:0 dvd:0 good:0 
+263 | 27 | 2160 | 1 | 2017-05-02 11:26:33.332858 |  | classic:0 versus:0 deal:0 author:0 actor:0 thrilling:1 grows:0 oscar:1 based:0 good:0 great:0 
+264 | 27 | 6534 | 1 | 2017-05-02 11:26:33.341301 |  | father:1 nerd:1 breakthrough:0 aviator:0 action:0 seen:0 blind:0 tissue:1 book:0 dvd:0 good:0 
+265 | 27 | 59784 | 1 | 2017-05-02 11:26:33.349888 | po; dragao; gerreiro | cooking:1 refresh:0 human:0 lifestyle:0 vegan:0 horror:0 
+266 | 29 | 33493 | 0 | 2017-05-02 11:26:33.355334 | None | 
+267 | 29 | 45499 | 0 | 2017-05-02 11:26:33.357161 | None | 
+268 | 29 | 6539 | 1 | 2017-05-02 11:26:33.358874 | None | 
+269 | 29 | 208 | 2 | 2017-05-02 11:26:33.360674 |  | action:1 seen:0 pirates:1 com:0 mutant:0 budget:0 reality:0 book:0 future:1 spaceship:0 based:0 dvd:0 good:0 
+270 | 32 | Dido | 0 | 2017-05-02 11:26:33.369129 | None | 
+271 | 32 | Ricky+Martin | 1 | 2017-05-02 11:26:33.370875 |  | favorite:0 female:0 latin:1 love:0 dance:1 indie:0 american:0 alternative:0 
+272 | 32 | Coldplay | 1 | 2017-05-02 11:26:33.377193 |  | pop:1 love:0 american:0 good:0 norwegian:0 live:0 british:0 listening:0 electronic:0 
+273 | 32 | Queen | 2 | 2017-05-02 11:26:33.383675 |  | classic:0 rock:1 freddie:1 mercury:1 80s:1 glam:0 
+274 | 32 | Jason+Mraz | 0 | 2017-05-02 11:26:33.388754 | None | 
+275 | 32 | Xuxa | 2 | 2017-05-02 11:26:33.390387 | infantil; apresentadora de tv;  | pop:0 seen:0 rock:0 vocalist:0 american:0 nacional:1 que:0 macumba:0 live:0 roda:0 pobre:0 
+276 | 32 | John+Legend | 0 | 2017-05-02 11:26:33.398261 | None | 
+277 | 32 | Michael+Jackson | 2 | 2017-05-02 11:26:33.399962 | pop | jazz:0 rock:0 hop:0 hip:0 rap:0 punk:0 
+278 | 32 | Linkin+Park | 0 | 2017-05-02 11:26:33.406625 | None | 
+279 | 32 | Leonard+Cohen | -1 | 2017-05-02 11:26:33.408583 | None | 
+280 | 32 | 30+Seconds+to+Mars | -1 | 2017-05-02 11:26:33.410317 | None | 
+281 | 32 | Ivete+Sangalo | 2 | 2017-05-02 11:26:33.412042 | axé; baiana; carnaval | favorite:0 rock:0 vocalist:0 alternative:0 macumba:0 gosto:0 brasil:1 lixo:0 brazilian:1 live:0 
+282 | 32 | Miley+Cyrus | 1 | 2017-05-02 11:26:33.419025 | teen star; | pop:0 female:1 things:0 brutal:0 soundtrack:0 seen:0 rock:1 vocalist:0 alternative:0 
+283 | 32 | Cazuza | 2 | 2017-05-02 11:26:33.425457 | aids; | pop:0 rock:1 barao-vermelho:1 brazilian:1 
+284 | 33 | Dido | 1 | None | None | 
+285 | 34 | Dido | -1 | None | None | 
+286 | 34 | Ricky+Martin | 1 | None | None | 
+287 | 34 | Coldplay | -1 | None | None | 
+288 | 35 | 33493 | -1 | None | None | 
+289 | 35 | 45499 | -1 | None | None | 
+290 | 35 | 6539 | 2 | None |  | swashbuckling:0 pirates:1 wolski:0 jack:1 oscar:0 based:0 dvd:0 good:0 cinema:1 action:0 classic:0 
+291 | 35 | 208 | -1 | None | None | 
+292 | 35 | 648 | 0 | None | None | 
+293 | 36 | Dido | 1 | None |  | jazz:0 favorite:0 pop:1 artists:0 female:1 singer-songwriter:1 seen:0 vocalist:1 
+294 | 36 | Ricky+Martin | 1 | None | pop singer  | favorite:0 female:0 latin:1 love:0 dance:1 indie:0 american:0 alternative:0 
+295 | 36 | Coldplay | 1 | None | rock  | good:0 live:0 british:1 listening:0 electronic:1 pop:1 love:0 
+296 | 36 | Queen | 2 | None |  | classic:1 rock:1 freddie:1 mercury:1 80s:1 glam:1 
+297 | 36 | Jason+Mraz | 1 | None |  | allsop:0 new:0 pop:1 seen:0 love:0 indie:0 rock:0 
+298 | 36 | Xuxa | 2 | None | children child | live:0 roda:0 pobre:0 nacional:1 pop:0 seen:0 vocalist:1 american:0 rock:0 
+299 | 37 | Dido | 1 | None | british | jazz:0 favorite:0 pop:1 artists:0 female:1 singer-songwriter:0 seen:0 vocalist:1 
+300 | 37 | Ricky+Martin | 1 | None | male | favorite:0 female:0 latin:1 love:0 dance:1 indie:0 american:0 alternative:0 
+301 | 37 | Coldplay | 2 | None | sad; rock | good:1 live:0 british:1 listening:0 electronic:1 pop:1 love:1 
+302 | 37 | Queen | 2 | None |  | classic:1 rock:1 freddie:1 mercury:1 80s:1 glam:1 
+303 | 37 | Jason+Mraz | 1 | None | acoustic | allsop:0 new:0 pop:1 seen:0 love:1 indie:0 rock:0 
+304 | 37 | Xuxa | 2 | None | children; 80s; 90s; | live:0 roda:0 pobre:0 nacional:1 pop:1 seen:0 vocalist:1 american:0 rock:0 
+305 | 37 | John+Legend | 1 | None | pop; love; male; vocalist | tych:0 na:0 soul:1 hop:0 posluchac:0 artists:1 seen:0 alternative:0 classic:0 
+306 | 37 | Michael+Jackson | 2 | None | pop; r&b; dance; 80s; icon | hop:0 hip:0 rap:0 punk:0 jazz:0 rock:0 
+307 | 37 | Linkin+Park | 2 | None | rock; electronic; 00s; band | death:0 metal:0 new:0 punk:0 favorite:0 pop:0 artists:0 vocalist:0 indie:0 
+308 | 37 | Leonard+Cohen | 1 | None |  | heavy:0 twinkle:0 favorite:0 pop:0 steven:0 emerald:0 usually:0 folk:1 seen:0 vocalist:1 alternative:1 
+309 | 37 | 30+Seconds+to+Mars | 2 | None | rock | norweski:0 punishment:0 norweskich:0 listening:0 new:0 jazz:0 kalectwem:0 najsurowszi:0 favourite:0 screamo:1 grozaca:0 male:1 latin:0 indie:0 american:0 
+310 | 37 | Ivete+Sangalo | 2 | None | axé; axé music; diva; female; | gosto:0 brasil:1 lixo:0 brazilian:1 macumba:0 live:1 favorite:1 vocalist:1 alternative:0 rock:0 
+311 | 38 | 33493 | 0 | None | None | 
+312 | 37 | Miley+Cyrus | 2 | None | r&b; dance; electronic; american; teen | things:0 brutal:0 soundtrack:1 pop:1 female:1 seen:0 vocalist:1 alternative:0 rock:0 
+313 | 37 | Cazuza | 1 | None |  | brazilian:1 pop:1 barao-vermelho:0 rock:1 
+314 | 37 | Foo+Fighters | 2 | None |  | live:1 pop:0 seen:0 thrash:0 alternative:1 rock:1 
+315 | 37 | Amy+Winehouse | 2 | None | icon;  | soul:1 british:1 jazz:1 favorite:1 pop:1 grozaca:0 vocalist:1 deepsoul:0 blues:1 indie:0 alternative:1 
+316 | 37 | Stevie+Wonder | 1 | None |  | hop:0 hip:0 live:0 california:0 argeu:0 vocalist:1 reggae:0 wilson:0 don:0 seixas:0 alternative:0 crowley:0 rock:0 
+317 | 38 | 45499 | 1 | None | super-hero; hero | genetics:0 comic:0 marvel:1 mckellen:0 biology:0 based:0 dvd:0 hugh:0 miracle:0 foster:0 adaptation:0 nudity:0 good:0 
+318 | 37 | Alanis+Morissette | 2 | None | icon; canadian; 90s; best | live:1 favorite:1 pop:1 female:1 singer-songwriter:1 love:1 rock:1 
+319 | 37 | Scorpions | 0 | None | None | 
+320 | 37 | Engenheiros+do+Hawaii | 1 | None |  | brazilian:1 porto-alegre:0 humberto:1 gessinger:1 progressive:0 alternative:0 rock:1 
+321 | 37 | Bon+Jovi | 2 | None |  | live:1 california:0 pop:1 love:0 don:0 alternative:0 rock:1 
+322 | 38 | 6539 | 1 | None |  | swashbuckling:0 pirates:1 wolski:0 jack:1 oscar:0 based:0 dvd:0 good:0 cinema:0 action:1 classic:0 
+323 | 37 | The+Cranberries | 2 | None | irish; rock | s2s:0 new:0 harukaexs2:0 scry:0 favorite:0 edwards:0 indie:0 american:0 alternative:1 classic:0 
+324 | 37 | Green+Day | 2 | None | band; rock; punk-pop; 90s | punk:1 pop:1 artists:0 indie:0 alternative:0 rock:1 
+325 | 38 | 208 | 0 | None | None | 
+326 | 37 | Tati+Quebra-Barraco | 2 | None | funk; rio de janeiro;  | lixo:0 brazilian:1 macumba:0 live:0 duvidoso:0 crap:0 plans:0 aff:0 musica:0 que:0 pop:1 seen:0 vocalist:0 rock:0 
+327 | 38 | 648 | 0 | None | None | 
+328 | 37 | Kelly+Clarkson | 2 | None | country;  | live:0 new:0 favorite:0 pop:1 artists:1 canadian:0 beto:0 juara:0 familia:0 mosca:0 don:0 crowley:0 rock:0 
+329 | 38 | 592 | 2 | None |  | oscar:0 booth:0 bruce:0 mask:0 joker:1 wayne:0 atmospheric:0 super-hero:1 york:0 based:0 dvd:0 adaptation:0 action:1 
+330 | 37 | Elvis+Presley | 1 | None | rock; icon | hop:0 hip:0 rap:0 punk:0 pop:0 teen:0 
+331 | 37 | Calvin+Harris | 2 | None | EDM | electronic:1 house:0 faves:0 electro:0 grozaca:0 seen:0 vocalist:0 love:0 dance:1 indie:0 
+332 | 37 | Pink+Floyd | 1 | None | band | live:0 electronic:0 artists:0 female:0 vocalist:0 indie:0 crowley:0 rock:1 
+333 | 38 | 596 | 2 | None | cartoon | oscar:0 based:0 dvd:0 muppets:0 features:0 national:0 seen:0 puppet:0 musical:0 disney:1 
+334 | 37 | Adriana+Calcanhotto | 2 | None | MPB | brasil:1 brazilian:1 brazil:1 bossa:0 nova:0 brasileira:0 female:1 love:1 indie:0 alternative:0 
+335 | 37 | Tim+Maia | 1 | None |  | brazilian:1 samba:0 anyzio:0 caracarai:0 roraima:0 bossa:0 nova:0 pop:0 familia:0 don:0 seixas:0 
+336 | 38 | 8360 | 2 | None |  | based:0 dvd:0 prince:0 book:0 features:0 seen:0 comedy:1 antonio:0 cameron:0 animation:1 
+337 | 37 | Laura+Pausini | 2 | None |  | live:0 italian:1 romantic:1 grammy-winner:0 pop:1 seen:0 latin:1 love:1 rock:0 
+338 | 38 | 6874 | 0 | None | None | 
+339 | 37 | Duffy | 2 | None |  | favorite:0 pop:1 artists:0 female:1 love:0 indie:0 alternative:1 
+340 | 38 | 2023 | 0 | None | None | 
+341 | 38 | 253 | 0 | None | None | 
+342 | 37 | Keane | 2 | None | british | pop:1 seen:0 vocalist:0 indie:1 rock:1 
+343 | 38 | 7438 | 0 | None | None | 
+344 | 38 | 59725 | 0 | None | None | 
+345 | 37 | Vanessa+da+Mata | 2 | None |  | mea:0 mpb:0 fm:0 fredrski:0 brasil:0 brazil:1 pop:1 artists:0 female:1 indie:0 alternative:0 rock:0 
+346 | 38 | 6377 | 2 | None | comedy | relationship:0 screen:0 based:0 dvd:0 award:0 features:0 seen:0 animation:1 classic:0 
+347 | 37 | Taylor+Swift | 2 | None | country | live:0 pop:1 female:1 singer-songwriter:1 seen:0 love:0 
+348 | 38 | 150 | 0 | None | None | 
+349 | 38 | 6365 | 0 | None | None | 
+350 | 38 | 2124 | 1 | None | comedy | uncle:0 based:0 dvd:0 nudity:0 good:0 book:0 charles:0 illusionist:0 resistance:0 fight:0 classic:0 
+351 | 38 | 2160 | 0 | None | None | 
+352 | 37 | Demi+Lovato | 2 | None | pop; teen;  | rocker:0 hard-rock:0 satan:0 metal:0 rock:0 
+353 | 37 | David+Guetta | 2 | None |  | french:1 techno:1 hip-hop:0 rap:0 live:0 electronic:1 house:0 pop:1 vocalist:0 rock:0 
+354 | 37 | Pearl+Jam | 1 | None |  | live:0 pop:0 seen:0 indie:0 rock:1 
+355 | 38 | 6534 | 2 | None | super-hero; hero; marvel | blind:0 tissue:0 dvd:0 good:0 book:0 action:1 father:0 nerd:0 breakthrough:0 aviator:0 seen:0 
+356 | 37 | Nando+Reis | 2 | None |  | brasil:1 brazilian:1 valkyeriex:0 power:0 suavesfabio:0 tracks:0 cronowish:0 pop:1 vocalist:1 love:1 indie:0 rock:1 
+357 | 37 | Oasis | 2 | None | british | shoegaze:0 live:1 pop:1 vocalist:0 alternative:1 rock:1 
+358 | 38 | 59784 | 2 | None | cartoon; animation; comedy | cooking:0 refresh:0 human:0 lifestyle:0 vegan:0 horror:0 
+359 | 37 | Os+Mutantes | 1 | None |  | brasil:1 twinkle:0 crown:0 records:0 samba:0 live:1 progressive:0 nova:0 seen:0 love:0 rock:1 80s:0 
+360 | 37 | Nelly+Furtado | 2 | None | 00s; independent; folk; canadian | instruments:0 timbaland:0 anyzio:0 caracarai:0 live:0 pop:1 female:0 beto:0 juara:0 seen:0 alternative:1 crowley:0 
+361 | 37 | Aerosmith | 2 | None | icon | rap:0 s2s:0 metal:0 pop:1 seen:0 alternative:0 rock:1 glam:1 
+362 | 37 | The+Police | 1 | None | rock | nova:0 favorite:0 seen:0 vocalist:0 love:1 reggae:0 alternative:0 crowley:0 
+363 | 37 | Avril+Lavigne | 2 | None | pop-punk; pop;  | things:0 live:0 artists:0 canadian:1 seen:0 vocalist:0 00:1 alternative:0 rock:1 
+364 | 37 | Fergie | 2 | None | pop | hot:0 hip-hop:1 brazilian:0 plans:0 electro:0 irish:0 gay:0 pipczeni:0 female:1 dance:1 indie:0 alternative:0 rock:0 
+365 | 37 | Nightwish | 1 | None | rock; metal | power:0 pop:1 favourite:0 symphonic:0 melodic:1 seen:0 vocalist:0 love:0 indie:0 crowley:0 
+366 | 37 | Nicole+Scherzinger | 1 | None | rock; metal | rnb:0 live:0 artists:0 female:0 seen:0 vocalist:0 dance:0 alternative:0 rock:0 
+367 | 39 | 33493 | 2 | None | iconic; adventure; spapce; sci-fi | george:1 good:1 jackson:0 cinema:0 darth:0 skywalker:0 anakin:0 award:0 action:1 saturn:0 com:0 seen:0 
+368 | 39 | Dido | 1 | None |  | jazz:0 favorite:0 pop:0 artists:0 female:0 singer-songwriter:0 seen:0 vocalist:0 
+369 | 39 | Ricky+Martin | 1 | None | None | 
+370 | 39 | Coldplay | -1 | None | None | 
+371 | 39 | Queen | -1 | None | None | 
+372 | 39 | Jason+Mraz | -1 | None | None | 
+373 | 39 | Xuxa | -1 | None | None | 
+374 | 39 | John+Legend | -1 | None | None | 
+375 | 39 | Michael+Jackson | -1 | None | None | 
+376 | 39 | Linkin+Park | -1 | None | None | 
+377 | 39 | Leonard+Cohen | -1 | None | None | 
+378 | 39 | 30+Seconds+to+Mars | -1 | None | None | 
+379 | 39 | Ivete+Sangalo | -1 | None | None | 
+380 | 39 | Miley+Cyrus | -1 | None | None | 
+381 | 39 | Cazuza | -1 | None | None | 
+382 | 39 | 45499 | 2 | None | adventure; super heroes; action | genetics:1 comic:1 marvel:1 mckellen:0 biology:0 based:0 dvd:0 hugh:0 miracle:0 foster:0 adaptation:1 nudity:0 good:0 
+383 | 39 | 6539 | 2 | None |  | swashbuckling:0 pirates:1 wolski:0 jack:0 oscar:0 based:0 dvd:0 good:1 cinema:0 action:1 classic:0 
+384 | 39 | 208 | 0 | None | None | 
+385 | 39 | 648 | 0 | None | None | 
+386 | 39 | 592 | 0 | None | None | 
+387 | 39 | 596 | 2 | None | animation | oscar:0 based:0 dvd:0 muppets:0 features:0 national:0 seen:0 puppet:1 musical:1 disney:1 
+388 | 39 | 8360 | 2 | None |  | based:0 dvd:0 prince:0 book:0 features:0 seen:0 comedy:1 antonio:0 cameron:0 animation:1 
+389 | 39 | 6874 | 2 | None | action; tarantino; blood | dvd:0 good:0 thurman:0 murder:1 tense:1 killer:0 watch:0 protagonist:0 imdb:0 science:0 assassin:0 cinema:0 seen:0 
+390 | 39 | 2023 | 0 | None | None | 
+391 | 39 | 253 | 0 | None | None | 
+392 | 39 | 7438 | 0 | None | None | 
+393 | 36 | John+Legend | 1 | None | soundtracks moden jazz | tych:0 na:0 soul:1 hop:1 posluchac:0 artists:0 seen:0 alternative:0 classic:0 
+394 | 36 | Michael+Jackson | 2 | None | king of pop | hop:1 hip:1 rap:0 punk:0 jazz:1 rock:1 
+395 | 36 | Linkin+Park | 1 | None |  | death:0 metal:1 new:1 punk:0 favorite:0 pop:0 artists:0 vocalist:0 indie:0 
+396 | 36 | Leonard+Cohen | 1 | None | melodic poetic | heavy:0 twinkle:0 favorite:0 pop:0 steven:0 emerald:0 usually:0 folk:1 seen:0 vocalist:1 alternative:1 
+397 | 36 | 30+Seconds+to+Mars | 1 | None | rock pop | norweski:0 punishment:0 norweskich:0 listening:0 new:0 jazz:0 kalectwem:0 najsurowszi:0 favourite:0 screamo:0 grozaca:0 male:1 latin:0 indie:0 american:1 
+398 | 36 | Ivete+Sangalo | 1 | None | axe mpb vocalista banda eva | gosto:0 brasil:1 lixo:0 brazilian:1 macumba:0 live:0 favorite:0 vocalist:1 alternative:0 rock:0 
+399 | 36 | Miley+Cyrus | 1 | None |  | things:0 brutal:0 soundtrack:0 pop:1 female:1 seen:0 vocalist:0 alternative:0 rock:0 
+400 | 36 | Cazuza | 2 | None |  | brazilian:1 pop:1 barao-vermelho:1 rock:1 
+401 | 36 | Foo+Fighters | 1 | None | grunge | live:0 pop:1 seen:0 thrash:0 alternative:0 rock:1 
+402 | 36 | Amy+Winehouse | 2 | None |  | soul:1 british:1 jazz:1 favorite:0 pop:1 grozaca:0 vocalist:1 deepsoul:1 blues:1 indie:0 alternative:1 
+403 | 36 | Stevie+Wonder | 1 | None |  | hop:0 hip:0 live:0 california:0 argeu:0 vocalist:1 reggae:0 wilson:0 don:0 seixas:0 alternative:0 crowley:0 rock:0 
+404 | 36 | Alanis+Morissette | 1 | None |  | live:0 favorite:0 pop:1 female:1 singer-songwriter:1 love:0 rock:0 
+405 | 36 | Scorpions | 1 | None | classic rock | metal:1 live:0 electronic:0 california:0 argeu:0 boa:0 seen:0 crowley:0 rock:1 
+406 | 36 | Engenheiros+do+Hawaii | 1 | None | ruim | brazilian:0 porto-alegre:1 humberto:1 gessinger:1 progressive:0 alternative:0 rock:1 
+407 | 40 | 33493 | 2 | None | vilão; saga; guerra; naves; espaço | george:0 good:0 jackson:0 cinema:0 darth:1 skywalker:1 anakin:1 award:0 action:1 saturn:0 com:0 seen:0 
+408 | 40 | 45499 | 2 | None | heróis; trilogia; mutantes; luta; superpoderes | genetics:0 comic:1 marvel:1 mckellen:0 biology:0 based:0 dvd:0 hugh:1 miracle:0 foster:0 adaptation:1 nudity:0 good:0 
+409 | 40 | 6539 | 2 | None | jonnydeep; disney; orlandobloom | swashbuckling:0 pirates:1 wolski:0 jack:1 oscar:0 based:0 dvd:0 good:0 cinema:0 action:1 classic:0 
+410 | 40 | 208 | 0 | None | None | 
+411 | 40 | 648 | 2 | None | ação; tomcruise | mole:0 espionage:1 based:0 dvd:0 good:0 easily:0 futuristic-movie:0 brian:0 own:0 jean:0 clouseau:0 classic:0 
+412 | 40 | 592 | 1 | None | batman; saga; comics | oscar:0 booth:0 bruce:0 mask:0 joker:1 wayne:1 atmospheric:0 super-hero:1 york:0 based:0 dvd:0 adaptation:1 action:1 
+413 | 40 | 596 | 1 | None | animação; infantil | oscar:0 based:0 dvd:0 muppets:0 features:0 national:0 seen:0 puppet:0 musical:0 disney:1 
+414 | 42 | Dido | 1 | None |  | jazz:0 favorite:0 pop:1 artists:0 female:1 singer-songwriter:1 seen:0 vocalist:1 
+415 | 42 | Ricky+Martin | 2 | None | pop | favorite:0 female:0 latin:1 love:0 dance:1 indie:0 american:0 alternative:0 
+416 | 42 | Coldplay | 2 | None |  | good:0 live:0 british:1 listening:0 electronic:0 pop:1 love:1 
+417 | 42 | Queen | 2 | None |  | classic:1 rock:1 freddie:1 mercury:1 80s:1 glam:0 
+418 | 42 | Jason+Mraz | 1 | None |  | allsop:0 new:0 pop:1 seen:0 love:0 indie:0 rock:0 
+419 | 42 | Xuxa | 2 | None | infantil | live:0 roda:0 pobre:0 nacional:1 pop:0 seen:0 vocalist:1 american:0 rock:0 
+420 | 42 | John+Legend | 0 | None | None | 
+421 | 42 | Michael+Jackson | 2 | None | pop;black music | hop:0 hip:0 rap:0 punk:0 jazz:0 rock:0 
+422 | 42 | Linkin+Park | 2 | None |  | death:0 metal:1 new:1 punk:0 favorite:0 pop:0 artists:0 vocalist:0 indie:0 
+423 | 42 | Leonard+Cohen | 0 | None | None | 
+424 | 42 | 30+Seconds+to+Mars | 1 | None | rock | norweski:0 punishment:0 norweskich:0 listening:0 new:0 jazz:0 kalectwem:0 najsurowszi:0 favourite:0 screamo:1 grozaca:0 male:1 latin:0 indie:0 american:0 
+425 | 42 | Ivete+Sangalo | 1 | None | axé;pop | gosto:0 brasil:1 lixo:0 brazilian:1 macumba:0 live:0 favorite:0 vocalist:0 alternative:0 rock:0 
+426 | 42 | Miley+Cyrus | 1 | None |  | things:0 brutal:0 soundtrack:0 pop:1 female:1 seen:0 vocalist:1 alternative:0 rock:0 
+427 | 42 | Cazuza | 1 | None |  | brazilian:1 pop:1 barao-vermelho:1 rock:1 
+428 | 42 | Foo+Fighters | 1 | None |  | live:0 pop:0 seen:0 thrash:0 alternative:0 rock:1 
+429 | 42 | Amy+Winehouse | 1 | None |  | soul:1 british:0 jazz:0 favorite:0 pop:0 grozaca:0 vocalist:0 deepsoul:1 blues:1 indie:0 alternative:0 
+430 | 42 | Stevie+Wonder | 1 | None | pop;black music | hop:0 hip:0 live:0 california:0 argeu:0 vocalist:1 reggae:0 wilson:0 don:0 seixas:0 alternative:0 crowley:0 rock:0 
+431 | 42 | Alanis+Morissette | 1 | None |  | live:0 favorite:0 pop:1 female:1 singer-songwriter:1 love:1 rock:0 
+432 | 42 | Scorpions | 2 | None | hard rock | metal:0 live:0 electronic:0 california:0 argeu:0 boa:0 seen:0 crowley:0 rock:1 
+433 | 42 | Engenheiros+do+Hawaii | 1 | None | brazillian | brazilian:1 porto-alegre:1 humberto:0 gessinger:0 progressive:0 alternative:0 rock:1 
+434 | 41 | 33493 | 0 | None | None | 
+435 | 41 | 45499 | 2 | None |  | genetics:1 comic:0 marvel:0 mckellen:1 biology:0 based:0 dvd:0 hugh:0 miracle:0 foster:0 adaptation:0 nudity:0 good:0 
+436 | 41 | 6539 | 1 | None |  | swashbuckling:0 pirates:1 wolski:0 jack:1 oscar:0 based:0 dvd:0 good:0 cinema:0 action:0 classic:0 
+437 | 43 | 33493 | 1 | None | vader, star,  | george:1 good:0 jackson:0 cinema:1 darth:1 skywalker:1 anakin:1 award:0 action:1 saturn:0 com:0 seen:0 
+438 | 44 | Dido | 0 | None | None | 
+439 | 44 | Ricky+Martin | 1 | None | male | favorite:0 female:0 latin:1 love:1 dance:1 indie:0 american:0 alternative:0 
+440 | 43 | 45499 | 1 | None |  | genetics:1 comic:1 marvel:1 mckellen:0 biology:0 based:0 dvd:0 hugh:1 miracle:0 foster:0 adaptation:1 nudity:0 good:0 
+441 | 43 | 6539 | 0 | None | None | 
+442 | 43 | 208 | 0 | None | None | 
+443 | 44 | Coldplay | 2 | None |  | good:1 live:0 british:1 listening:0 electronic:0 pop:1 love:1 
+444 | 44 | Queen | 2 | None |  | classic:0 rock:1 freddie:1 mercury:1 80s:1 glam:0 
+445 | 44 | Jason+Mraz | 1 | None |  | allsop:0 new:0 pop:1 seen:0 love:1 indie:0 rock:0 
+446 | 44 | Xuxa | 2 | None | children | live:0 roda:0 pobre:0 nacional:1 pop:0 seen:0 vocalist:0 american:0 rock:0 
+447 | 44 | John+Legend | 0 | None | None | 
+448 | 44 | Michael+Jackson | 1 | None | pop; international | hop:0 hip:0 rap:0 punk:0 jazz:0 rock:0 
+449 | 44 | Linkin+Park | 1 | None | Alternative rock; nu metal; alternative metal; rap rock; electronic rock; international | death:0 metal:0 new:0 punk:0 favorite:0 pop:0 artists:0 vocalist:0 indie:0 
+450 | 44 | Leonard+Cohen | 0 | None | None | 
+451 | 44 | 30+Seconds+to+Mars | 0 | None | None | 
+452 | 44 | Ivete+Sangalo | 1 | None | female | gosto:0 brasil:1 lixo:0 brazilian:1 macumba:0 live:0 favorite:0 vocalist:0 alternative:0 rock:0 
+453 | 44 | Miley+Cyrus | 1 | None | international | things:0 brutal:0 soundtrack:0 pop:1 female:1 seen:0 vocalist:0 alternative:0 rock:0 
+454 | 44 | Cazuza | 1 | None | 80s | brazilian:1 pop:1 barao-vermelho:1 rock:1 
+455 | 41 | 208 | 0 | None | None | 
+456 | 44 | Foo+Fighters | 1 | None | international | live:0 pop:0 seen:0 thrash:0 alternative:0 rock:1 
+457 | 44 | Amy+Winehouse | 1 | None | international | soul:1 british:1 jazz:1 favorite:0 pop:1 grozaca:0 vocalist:0 deepsoul:0 blues:1 indie:0 alternative:1 
+458 | 44 | Stevie+Wonder | 1 | None | None | 
+459 | 44 | Alanis+Morissette | -1 | None | None | 
+460 | 44 | Scorpions | 1 | None | international | metal:0 live:0 electronic:0 california:0 argeu:0 boa:0 seen:0 crowley:0 rock:1 
+461 | 44 | Engenheiros+do+Hawaii | 1 | None | nacional | brazilian:1 porto-alegre:0 humberto:0 gessinger:0 progressive:0 alternative:0 rock:0 
+462 | 41 | 648 | 1 | None |  | mole:0 espionage:1 based:0 dvd:0 good:0 easily:0 futuristic-movie:0 brian:1 own:0 jean:0 clouseau:0 classic:0 
+463 | 45 | 33493 | 1 | None | lucas; disney; adventure | george:1 good:0 jackson:0 cinema:1 darth:1 skywalker:1 anakin:1 award:0 action:1 saturn:0 com:0 seen:0 
+464 | 45 | 45499 | -1 | None | None | 
+465 | 45 | 6539 | 1 | None | caribbean; comedy; adventure; family | swashbuckling:0 pirates:1 wolski:0 jack:1 oscar:0 based:0 dvd:0 good:0 cinema:1 action:0 classic:0 
+466 | 41 | 592 | 1 | None |  | oscar:0 booth:0 bruce:0 mask:0 joker:0 wayne:0 atmospheric:0 super-hero:1 york:0 based:0 dvd:0 adaptation:0 action:1 
+467 | 45 | 208 | -1 | None | None | 
+468 | 45 | 648 | -1 | None | None | 
+469 | 45 | 592 | -1 | None | None | 
+470 | 45 | 596 | 1 | None | children | oscar:0 based:0 dvd:0 muppets:0 features:0 national:0 seen:0 puppet:0 musical:1 disney:1 
+471 | 41 | 596 | 2 | None | nose; | oscar:0 based:0 dvd:0 muppets:0 features:0 national:0 seen:0 puppet:1 musical:0 disney:1 
+472 | 45 | 8360 | 1 | None | dreamworks; children | based:0 dvd:0 prince:0 book:0 features:0 seen:0 comedy:1 antonio:0 cameron:0 animation:1 
+473 | 45 | 6874 | 1 | None | action | dvd:0 good:0 thurman:0 murder:0 tense:0 killer:0 watch:0 protagonist:0 imdb:0 science:0 assassin:0 cinema:1 seen:0 
+474 | 45 | 2023 | -1 | None | None | 
+475 | 41 | 8360 | 2 | None |  | based:0 dvd:0 prince:0 book:0 features:0 seen:0 comedy:0 antonio:0 cameron:0 animation:1 
+476 | 45 | 253 | -1 | None | None | 
+477 | 45 | 7438 | 1 | None |  | dvd:0 good:0 murder:0 assassin:0 great:0 leon:0 martial:1 kirsten:0 action:1 seen:0 classic:1 
+478 | 45 | 59725 | -1 | None | None | 
+479 | 45 | 6377 | 2 | None | children; pixar; disney; family | relationship:0 screen:0 based:0 dvd:0 award:0 features:0 seen:0 animation:1 classic:0 
+480 | 41 | 6874 | 1 | None |  | dvd:0 good:0 thurman:1 murder:0 tense:0 killer:1 watch:0 protagonist:0 imdb:0 science:0 assassin:1 cinema:0 seen:0 
+481 | 45 | 150 | 1 | None | drama | end:0 howard:0 jim:0 best:0 based:1 imdb:0 futuristic-movie:0 biopic:0 action:0 seen:0 comedy:0 classic:0 
+482 | 45 | 6365 | 1 | None |  | booth:0 based:0 imdb:0 book:0 great:0 sci-fi:0 reeves:0 smith:0 evil:0 fantasy:1 action:1 com:0 
+483 | 45 | 2124 | -1 | None | None | 
+484 | 45 | 2160 | -1 | None | None | 
+485 | 45 | 6534 | -1 | None | None | 
+486 | 45 | 59784 | -1 | None | None | 
+487 | 46 | 33493 | 1 | None | Jedi;Sith | george:0 good:0 jackson:0 cinema:1 darth:1 skywalker:1 anakin:1 award:0 action:1 saturn:0 com:0 seen:0 
+488 | 41 | 2023 | 1 | None | Al Pacino | coppola:1 keaton:0 sofia:0 diane:0 ford:0 corleone:1 francis:0 oscar:1 bruce:0 nudity:0 good:0 imdb:0 seen:0 
+489 | 46 | 45499 | 1 | None |  | genetics:1 comic:0 marvel:1 mckellen:0 biology:1 based:0 dvd:0 hugh:0 miracle:0 foster:0 adaptation:1 nudity:0 good:0 
+490 | 41 | 253 | 1 | None |  | oscar:0 dunst:0 series:0 gothic:0 good:0 louis:0 7n:0 vampire:1 book:0 brad:1 banderas:1 seen:0 love:0 classic:0 
+491 | 41 | 7438 | 1 | None |  | dvd:0 good:0 murder:1 assassin:1 great:0 leon:0 martial:0 kirsten:0 action:1 seen:0 classic:0 
+492 | 46 | 6539 | 1 | None |  | swashbuckling:1 pirates:1 wolski:0 jack:1 oscar:0 based:0 dvd:0 good:0 cinema:1 action:1 classic:0 
+493 | 41 | 59725 | 1 | None |  | oscar:0 series:0 relationship:1 steve:0 failed:0 brooklyn:0 test:0 cold:0 friends:1 dvd:0 good:0 seen:0 comedy:1 
+494 | 46 | 208 | 0 | None | None | 
+495 | 41 | 6377 | 2 | None | fish; ocean | relationship:0 screen:0 based:0 dvd:0 award:0 features:0 seen:0 animation:1 classic:0 
+496 | 41 | 150 | 1 | None | NASA | end:0 howard:0 jim:0 best:0 based:0 imdb:0 futuristic-movie:1 biopic:0 action:0 seen:0 comedy:0 classic:0 
+497 | 46 | 648 | 1 | None |  | mole:0 espionage:1 based:0 dvd:0 good:0 easily:0 futuristic-movie:1 brian:0 own:0 jean:0 clouseau:0 classic:0 
+498 | 46 | 592 | 1 | None |  | oscar:0 booth:0 bruce:1 mask:1 joker:1 wayne:1 atmospheric:0 super-hero:1 york:0 based:0 dvd:0 adaptation:0 action:1 
+499 | 41 | 6365 | 1 | None |  | booth:0 based:0 imdb:0 book:0 great:0 sci-fi:0 reeves:1 smith:0 evil:0 fantasy:0 action:1 com:0 
+500 | 41 | 2124 | 1 | None | fantasy; Cousin Itt | uncle:1 based:0 dvd:0 nudity:0 good:0 book:0 charles:0 illusionist:0 resistance:0 fight:0 classic:0 
+501 | 41 | 2160 | 1 | None | pregnant; Witches; Darkness | oscar:0 versus:0 deal:1 author:0 actor:0 thrilling:0 grows:0 based:0 good:0 great:0 classic:0 
+502 | 41 | 6534 | 1 | None | green; Incredible; Super heroi | blind:0 tissue:0 dvd:0 good:0 book:0 action:1 father:0 nerd:0 breakthrough:0 aviator:0 seen:0 
+503 | 41 | 59784 | 2 | None | Kung Fu | cooking:1 refresh:0 human:0 lifestyle:0 vegan:0 horror:0 
+504 | 48 | Dido | 1 | None |  | jazz:0 favorite:0 pop:1 artists:1 female:1 singer-songwriter:1 seen:1 vocalist:0 
+505 | 49 | 33493 | 2 | None |  Ship | george:0 good:0 jackson:0 cinema:0 darth:0 skywalker:0 anakin:0 award:0 action:0 saturn:0 com:0 seen:0 
+506 | 46 | 596 | 1 | None |  | oscar:0 based:0 dvd:0 muppets:0 features:0 national:0 seen:0 puppet:0 musical:1 disney:1 
+507 | 48 | Ricky+Martin | 1 | None | male | favorite:0 female:0 latin:1 love:1 dance:1 indie:0 american:0 alternative:0 
+508 | 46 | 8360 | 2 | None |  | based:0 dvd:0 prince:1 book:0 features:0 seen:0 comedy:1 antonio:1 cameron:1 animation:1 
+509 | 48 | Coldplay | 1 | None | band | good:1 live:0 british:1 listening:1 electronic:0 pop:0 love:1 
+510 | 48 | Queen | 2 | None |  | classic:0 rock:1 freddie:1 mercury:1 80s:1 glam:0 
+511 | 48 | Jason+Mraz | 1 | None |  | allsop:0 new:0 pop:1 seen:0 love:0 indie:1 rock:0 
+512 | 48 | Xuxa | 2 | None | brazilian | live:0 roda:0 pobre:0 nacional:1 pop:0 seen:0 vocalist:1 american:0 rock:0 
+513 | 46 | 6874 | 1 | None |  | dvd:0 good:0 thurman:1 murder:0 tense:0 killer:1 watch:0 protagonist:0 imdb:0 science:0 assassin:1 cinema:1 seen:0 
+514 | 48 | John+Legend | 0 | None | None | 
+515 | 48 | Michael+Jackson | 1 | None | pop; king; singer; dancer | hop:0 hip:0 rap:0 punk:0 jazz:0 rock:0 
+516 | 46 | 2023 | 0 | None | None | 
+517 | 46 | 253 | 1 | None |  | oscar:1 dunst:0 series:0 gothic:1 good:0 louis:0 7n:0 vampire:1 book:1 brad:0 banderas:1 seen:0 love:1 classic:1 
+518 | 48 | Linkin+Park | 1 | None | rock | death:0 metal:0 new:0 punk:0 favorite:0 pop:1 artists:1 vocalist:0 indie:0 
+519 | 46 | 7438 | 1 | None |  | dvd:0 good:0 murder:1 assassin:1 great:0 leon:0 martial:1 kirsten:1 action:1 seen:0 classic:1 
+520 | 48 | Leonard+Cohen | 0 | None | None | 
+521 | 46 | 59725 | 1 | None |  | oscar:0 series:0 relationship:1 steve:0 failed:0 brooklyn:1 test:0 cold:1 friends:1 dvd:0 good:0 seen:0 comedy:1 
+522 | 46 | 6377 | 1 | None |  | relationship:1 screen:0 based:0 dvd:0 award:0 features:0 seen:0 animation:1 classic:0 
+523 | 48 | 30+Seconds+to+Mars | 1 | None | rock | norweski:0 punishment:0 norweskich:0 listening:1 new:0 jazz:0 kalectwem:0 najsurowszi:0 favourite:0 screamo:0 grozaca:0 male:1 latin:0 indie:1 american:1 
+524 | 46 | 150 | 0 | None | None | 
+525 | 46 | 6365 | 1 | None |  | booth:0 based:0 imdb:0 book:0 great:0 sci-fi:1 reeves:1 smith:1 evil:1 fantasy:0 action:1 com:0 
+526 | 46 | 2124 | 1 | None |  | uncle:1 based:0 dvd:0 nudity:0 good:0 book:0 charles:1 illusionist:1 resistance:0 fight:0 classic:1 
+527 | 48 | Ivete+Sangalo | 2 | None | axé; singer; cantora | gosto:0 brasil:1 lixo:0 brazilian:1 macumba:0 live:0 favorite:0 vocalist:0 alternative:0 rock:0 
+528 | 48 | Miley+Cyrus | 1 | None |  | things:0 brutal:0 soundtrack:0 pop:1 female:1 seen:1 vocalist:1 alternative:0 rock:0 
+529 | 48 | Cazuza | 2 | None | singer; cantor | brazilian:1 pop:0 barao-vermelho:1 rock:1 
+530 | 48 | Foo+Fighters | 2 | None |  | live:0 pop:0 seen:0 thrash:1 alternative:1 rock:1 
+531 | 48 | Amy+Winehouse | 2 | None | singer | soul:1 british:1 jazz:1 favorite:0 pop:0 grozaca:0 vocalist:1 deepsoul:1 blues:1 indie:0 alternative:0 
+532 | 46 | 2160 | 0 | None | None | 
+533 | 46 | 6534 | 0 | None | None | 
+534 | 46 | 59784 | 1 | None | Panda;Martial Arts; Kung Fu | cooking:0 refresh:0 human:0 lifestyle:0 vegan:0 horror:0 
+535 | 48 | Stevie+Wonder | 2 | None | singer; songwriter; american; soul; pop | hop:0 hip:0 live:0 california:0 argeu:0 vocalist:1 reggae:0 wilson:0 don:0 seixas:0 alternative:0 crowley:0 rock:0 
+536 | 48 | Alanis+Morissette | 0 | None | None | 
+537 | 48 | Scorpions | 2 | None | portugal; band | metal:0 live:1 electronic:0 california:0 argeu:0 boa:0 seen:0 crowley:0 rock:1 
+538 | 48 | Engenheiros+do+Hawaii | 2 | None |  | brazilian:1 porto-alegre:1 humberto:1 gessinger:1 progressive:0 alternative:0 rock:1 
+539 | 50 | 33493 | 0 | None | None | 
+540 | 50 | 45499 | 1 | None |  | genetics:0 comic:1 marvel:1 mckellen:1 biology:0 based:0 dvd:0 hugh:1 miracle:0 foster:0 adaptation:1 nudity:0 good:0 
+541 | 50 | 6539 | 1 | None |  | swashbuckling:0 pirates:1 wolski:0 jack:1 oscar:1 based:0 dvd:0 good:0 cinema:1 action:1 classic:0 
+542 | 50 | 208 | 0 | None | None | 
+543 | 50 | 648 | 1 | None | Tom Cruise | mole:0 espionage:1 based:0 dvd:0 good:0 easily:0 futuristic-movie:0 brian:0 own:0 jean:0 clouseau:0 classic:1 
+544 | 50 | 592 | 2 | None |  | oscar:1 booth:0 bruce:1 mask:0 joker:1 wayne:1 atmospheric:0 super-hero:1 york:0 based:0 dvd:0 adaptation:1 action:1 
+545 | 50 | 596 | 0 | None | None | 
+546 | 50 | 8360 | 1 | None | dreamworks | based:0 dvd:0 prince:0 book:0 features:0 seen:0 comedy:1 antonio:1 cameron:1 animation:1 
+547 | 50 | 6874 | 2 | None | Quentin Tarantino | dvd:0 good:0 thurman:1 murder:1 tense:1 killer:1 watch:0 protagonist:0 imdb:0 science:0 assassin:1 cinema:1 seen:0 
+548 | 50 | 2023 | 2 | None |  | coppola:1 keaton:0 sofia:1 diane:0 ford:1 corleone:1 francis:1 oscar:1 bruce:0 nudity:0 good:0 imdb:0 seen:0 
+549 | 50 | 253 | 1 | None |  | oscar:1 dunst:0 series:0 gothic:1 good:0 louis:0 7n:0 vampire:1 book:0 brad:1 banderas:0 seen:0 love:0 classic:1 
+550 | 50 | 7438 | 2 | None | Quentin Tarantino; Tarantino | dvd:0 good:0 murder:1 assassin:1 great:0 leon:0 martial:1 kirsten:0 action:1 seen:0 classic:0 
+551 | 50 | 59725 | 0 | None | None | 
+552 | 50 | 6377 | 2 | None | Pixar; Dory | relationship:0 screen:0 based:0 dvd:0 award:1 features:0 seen:0 animation:1 classic:0 
+553 | 50 | 150 | 0 | None | None | 
+554 | 51 | 33493 | 0 | None | None | 
+555 | 51 | 45499 | 0 | None | None | 
+556 | 50 | 6365 | 1 | None | Ghost in the Shell | booth:0 based:0 imdb:0 book:0 great:0 sci-fi:1 reeves:1 smith:1 evil:0 fantasy:0 action:1 com:0 
+557 | 50 | 2124 | 0 | None | None | 
+558 | 50 | 2160 | 0 | None | None | 
+559 | 51 | 6539 | 1 | None |  | swashbuckling:0 pirates:1 wolski:0 jack:0 oscar:0 based:0 dvd:0 good:0 cinema:0 action:1 classic:0 
+560 | 51 | 208 | 0 | None | None | 
+561 | 50 | 6534 | 1 | None | comic; super hero; Stan Lee | blind:0 tissue:0 dvd:0 good:0 book:0 action:1 father:0 nerd:1 breakthrough:1 aviator:0 seen:0 
+562 | 51 | 648 | 0 | None | None | 
+563 | 50 | 59784 | 0 | None | None | 
+564 | 51 | 592 | 0 | None | None | 
+565 | 51 | 596 | 1 | None | pinoquio; classico | oscar:0 based:0 dvd:0 muppets:0 features:0 national:0 seen:0 puppet:0 musical:0 disney:1 
+566 | 50 | 1721 | 1 | None | ship; Winslet; Cameron; Rose; Jack | oscar:1 test:0 dvd:0 chick:0 dicaprio:1 good:0 titanic:1 romance:1 seen:0 classic:1 
+567 | 50 | 5952 | 2 | None |  | adaptation:1 hobbits:1 tolkien:1 fantasy:1 action:0 classic:0 
+568 | 51 | 8360 | 1 | None |  | based:0 dvd:0 prince:0 book:0 features:0 seen:0 comedy:1 antonio:0 cameron:0 animation:1 
+569 | 50 | 4367 | 2 | None | game; lara; croft; angelina; jolie | know:0 dvd:0 nudity:0 imdb:0 neil:0 combat:1 secret:0 book:0 great:0 cinema:1 evil:0 fight:1 seen:0 
+570 | 51 | 6874 | 1 | None | ação | dvd:0 good:0 thurman:0 murder:0 tense:0 killer:0 watch:0 protagonist:0 imdb:0 science:0 assassin:0 cinema:0 seen:0 
+571 | 50 | 8361 | 1 | None | ice; New York; blizzard | disaster:1 post-apocalypt:1 day:0 doris:0 based:0 dvd:0 good:0 romance:0 science:1 cinema:0 action:1 seen:0 classic:0 
+572 | 50 | 1544 | 0 | None | None | 
+573 | 51 | 2023 | 2 | None | máfia | coppola:1 keaton:0 sofia:0 diane:0 ford:0 corleone:1 francis:0 oscar:0 bruce:0 nudity:0 good:0 imdb:0 seen:0 
+574 | 51 | 253 | 0 | None | None | 
+575 | 51 | 7438 | 0 | None | None | 
+576 | 51 | 59725 | 0 | None | None | 
+577 | 51 | 6377 | 0 | None | None | 
+578 | 50 | 40815 | 1 | None | Rowling | oscar:1 school:1 ron:1 potter:1 author:0 dvd:0 fiona:0 thompson:0 own:0 evil:0 action:1 seen:0 
+579 | 50 | 4310 | 0 | None | None | 
+580 | 51 | 150 | 2 | None | viagem espacial; nasa | end:0 howard:0 jim:0 best:0 based:0 imdb:0 futuristic-movie:0 biopic:0 action:1 seen:0 comedy:0 classic:0 
+581 | 52 | 33493 | 2 | None |  | george:0 good:0 jackson:1 cinema:1 darth:1 skywalker:1 anakin:1 award:0 action:1 saturn:0 com:0 seen:0 
+582 | 51 | 6365 | 1 | None | ficção científica | booth:0 based:0 imdb:0 book:0 great:0 sci-fi:1 reeves:0 smith:0 evil:0 fantasy:0 action:1 com:0 
+583 | 51 | 2124 | 0 | None | None | 
+584 | 50 | 34162 | 1 | None | Vaughn; Owen; Wilson; comedy | funny:1 jeremy:1 buddy:0 vince:1 ben:0 john:0 dvd:0 nudity:0 own:0 seen:0 
+585 | 51 | 2160 | 2 | None | suspense | oscar:0 versus:0 deal:0 author:0 actor:0 thrilling:1 grows:0 based:0 good:0 great:0 classic:1 
+586 | 51 | 6534 | 0 | None | None | 
+587 | 51 | 59784 | 0 | None | None | 
+588 | 53 | 33493 | 2 | None | space;sci-fi | george:0 good:0 jackson:0 cinema:0 darth:1 skywalker:1 anakin:1 award:0 action:1 saturn:0 com:0 seen:0 
+589 | 50 | 39183 | 0 | None | None | 
+590 | 52 | 45499 | 2 | None |  | genetics:1 comic:1 marvel:1 mckellen:0 biology:1 based:0 dvd:0 hugh:0 miracle:0 foster:0 adaptation:1 nudity:0 good:0 
+591 | 54 | Dido | 1 | None |  | jazz:0 favorite:0 pop:1 artists:0 female:0 singer-songwriter:0 seen:0 vocalist:0 
+592 | 52 | 6539 | 1 | None |  | swashbuckling:0 pirates:1 wolski:0 jack:1 oscar:0 based:0 dvd:0 good:0 cinema:0 action:1 classic:0 
+593 | 54 | Ricky+Martin | 1 | None | pop | favorite:0 female:0 latin:0 love:0 dance:1 indie:0 american:0 alternative:0 
+594 | 54 | Coldplay | 1 | None |  | good:0 live:0 british:0 listening:0 electronic:0 pop:1 love:0 
+595 | 53 | 45499 | 1 | None |  | genetics:1 comic:1 marvel:1 mckellen:0 biology:1 based:0 dvd:0 hugh:0 miracle:0 foster:0 adaptation:1 nudity:0 good:0 
+596 | 52 | 208 | 1 | None |  | pirates:0 based:0 dvd:0 good:0 mutant:0 budget:0 reality:0 book:0 future:1 spaceship:0 action:1 com:0 seen:0 
+597 | 54 | Queen | 2 | None |  | classic:0 rock:1 freddie:0 mercury:0 80s:1 glam:0 
+598 | 52 | 648 | 1 | None |  | mole:1 espionage:1 based:0 dvd:0 good:0 easily:0 futuristic-movie:0 brian:0 own:0 jean:0 clouseau:0 classic:0 
+599 | 54 | Jason+Mraz | 0 | None | None | 
+600 | 53 | 6539 | 1 | None |  | swashbuckling:0 pirates:1 wolski:0 jack:1 oscar:0 based:0 dvd:0 good:0 cinema:0 action:0 classic:0 
+601 | 53 | 208 | 0 | None | None | 
+602 | 53 | 648 | 0 | None | None | 
+603 | 54 | Xuxa | 2 | None | infantil | live:0 roda:0 pobre:0 nacional:0 pop:1 seen:0 vocalist:0 american:0 rock:0 
+604 | 54 | John+Legend | 0 | None | None | 
+605 | 53 | 592 | 1 | None |  | oscar:0 booth:0 bruce:1 mask:0 joker:1 wayne:1 atmospheric:0 super-hero:1 york:0 based:0 dvd:0 adaptation:1 action:0 
+606 | 52 | 592 | 1 | None |  | oscar:0 booth:0 bruce:1 mask:0 joker:1 wayne:1 atmospheric:0 super-hero:1 york:0 based:0 dvd:0 adaptation:1 action:1 
+607 | 54 | Michael+Jackson | 2 | None | pop; 80s | hop:0 hip:0 rap:1 punk:0 jazz:0 rock:0 
+608 | 52 | 596 | 0 | None | None | 
+609 | 53 | 596 | 1 | None | cartoon | oscar:0 based:0 dvd:0 muppets:0 features:0 national:0 seen:0 puppet:1 musical:0 disney:1 
+610 | 52 | 8360 | 0 | None | None | 
+611 | 54 | Linkin+Park | 1 | None | rock | death:0 metal:0 new:0 punk:0 favorite:0 pop:0 artists:0 vocalist:0 indie:0 
+612 | 53 | 8360 | 2 | None |  | based:0 dvd:0 prince:1 book:0 features:0 seen:0 comedy:1 antonio:0 cameron:0 animation:1 
+613 | 54 | Leonard+Cohen | 2 | None |  | heavy:0 twinkle:0 favorite:0 pop:1 steven:0 emerald:0 usually:0 folk:1 seen:0 vocalist:0 alternative:0 
+614 | 54 | 30+Seconds+to+Mars | 0 | None | None | 
+615 | 52 | 6874 | 1 | None |  | dvd:0 good:0 thurman:1 murder:1 tense:0 killer:1 watch:0 protagonist:0 imdb:0 science:0 assassin:1 cinema:0 seen:0 
+616 | 52 | 2023 | 2 | None |  | coppola:1 keaton:0 sofia:0 diane:0 ford:1 corleone:1 francis:1 oscar:1 bruce:0 nudity:0 good:0 imdb:0 seen:0 
+617 | 54 | Ivete+Sangalo | 2 | None | axé; carnaval | gosto:0 brasil:1 lixo:0 brazilian:0 macumba:0 live:0 favorite:0 vocalist:0 alternative:0 rock:0 
+618 | 54 | Miley+Cyrus | 0 | None | None | 
+619 | 50 | 1580 | 2 | None |  | science:1 futuristic-movie:1 jones:1 space:1 aliens:1 smith:1 award:0 action:1 seen:0 comedy:1 
+620 | 52 | 253 | 1 | None |  | oscar:0 dunst:0 series:0 gothic:1 good:0 louis:0 7n:0 vampire:1 book:0 brad:1 banderas:0 seen:0 love:0 classic:1 
+621 | 54 | Cazuza | 2 | None | 80s | brazilian:0 pop:1 barao-vermelho:0 rock:1 
+622 | 54 | Foo+Fighters | 1 | None |  | live:0 pop:0 seen:0 thrash:0 alternative:0 rock:1 
+623 | 52 | 7438 | 1 | None |  | dvd:0 good:0 murder:1 assassin:1 great:0 leon:0 martial:0 kirsten:0 action:0 seen:0 classic:0 
+624 | 54 | Amy+Winehouse | 1 | None |  | soul:1 british:0 jazz:0 favorite:0 pop:0 grozaca:0 vocalist:0 deepsoul:0 blues:0 indie:1 alternative:0 
+625 | 52 | 59725 | 0 | None | None | 
+626 | 52 | 6377 | 0 | None | None | 
+627 | 52 | 150 | 0 | None | None | 
+628 | 50 | 4370 | 1 | None | Spielberg | oscar:1 good:0 futuristic-movie:1 own:0 steven:1 aidan:0 robot:1 tale:0 stanley:0 com:0 seen:0 classic:0 
+629 | 50 | 1035 | 0 | None | None | 
+630 | 53 | 6874 | 2 | None |  | dvd:0 good:0 thurman:1 murder:1 tense:1 killer:1 watch:0 protagonist:0 imdb:0 science:0 assassin:1 cinema:0 seen:0 
+631 | 52 | 6365 | 1 | None |  | booth:0 based:0 imdb:0 book:0 great:0 sci-fi:0 reeves:1 smith:1 evil:0 fantasy:1 action:1 com:0 
+632 | 54 | Stevie+Wonder | 2 | None | soul; black music | hop:0 hip:0 live:0 california:0 argeu:0 vocalist:0 reggae:0 wilson:0 don:0 seixas:0 alternative:0 crowley:0 rock:0 
+633 | 50 | 1748 | 0 | None | None | 
+634 | 54 | Alanis+Morissette | 1 | None |  | live:0 favorite:0 pop:1 female:0 singer-songwriter:0 love:0 rock:1 
+635 | 52 | 2124 | 1 | None |  | uncle:1 based:1 dvd:0 nudity:0 good:0 book:0 charles:0 illusionist:0 resistance:0 fight:0 classic:0 
+636 | 54 | Scorpions | 2 | None | 80s | metal:0 live:0 electronic:0 california:0 argeu:0 boa:0 seen:0 crowley:0 rock:1 
+637 | 52 | 2160 | 0 | None | None | 
+638 | 54 | Engenheiros+do+Hawaii | 2 | None | pop; 80s; brasil | brazilian:0 porto-alegre:0 humberto:0 gessinger:0 progressive:0 alternative:0 rock:0 
+639 | 53 | 2023 | 1 | None | mafia | coppola:1 keaton:0 sofia:0 diane:0 ford:0 corleone:1 francis:0 oscar:0 bruce:0 nudity:0 good:0 imdb:0 seen:0 
+640 | 52 | 6534 | 1 | None |  | blind:0 tissue:0 dvd:0 good:0 book:0 action:1 father:0 nerd:0 breakthrough:0 aviator:0 seen:0 
+641 | 53 | 253 | 0 | None | None | 
+642 | 50 | 1345 | 0 | None | None | 
+643 | 52 | 59784 | 1 | None |  | cooking:1 refresh:0 human:0 lifestyle:0 vegan:0 horror:0 
+644 | 53 | 7438 | 2 | None |  | dvd:0 good:0 murder:1 assassin:1 great:0 leon:0 martial:1 kirsten:0 action:1 seen:0 classic:0 
+645 | 50 | 56145 | 0 | None | None | 
+646 | 52 | 1721 | 1 | None |  | oscar:1 test:0 dvd:0 chick:0 dicaprio:1 good:0 titanic:1 romance:1 seen:0 classic:0 
+647 | 53 | 59725 | 0 | None | None | 
+648 | 53 | 6377 | 2 | None | ocean;fish | relationship:1 screen:0 based:0 dvd:0 award:0 features:0 seen:0 animation:1 classic:0 
+649 | 52 | 5952 | 2 | None |  | adaptation:1 hobbits:1 tolkien:1 fantasy:1 action:1 classic:0 
+650 | 53 | 150 | 0 | None | None | 
+651 | 52 | 4367 | 1 | None |  | know:0 dvd:0 nudity:0 imdb:0 neil:0 combat:0 secret:1 book:0 great:0 cinema:0 evil:0 fight:0 seen:0 
+652 | 50 | 52458 | 1 | None | camera; window | emerson:0 nudity:1 killer:1 imdb:0 redbox:0 house:1 remadea:0 reality:0 reared:0 mysterious:1 serial:1 crime:1 wachkowski:0 fishburne:0 own:0 classic:0 
+653 | 50 | 26680 | 0 | None | None | 
+654 | 52 | 8361 | 1 | None |  | disaster:1 post-apocalypt:1 day:0 doris:0 based:0 dvd:0 good:0 romance:0 science:1 cinema:0 action:1 seen:0 classic:0 
+655 | 52 | 1544 | 1 | None |  | genetics:1 michael:0 ian:0 based:0 dvd:0 good:0 own:0 steven:0 action:0 classic:0 
+656 | 50 | 3108 | 0 | None | None | 
+657 | 53 | 6365 | 2 | None | dystopia;futuristic | booth:0 based:0 imdb:0 book:0 great:0 sci-fi:1 reeves:0 smith:0 evil:1 fantasy:1 action:1 com:0 
+658 | 50 | 5991 | 0 | None | None | 
+659 | 52 | 40815 | 2 | None |  | oscar:0 school:1 ron:1 potter:1 author:0 dvd:0 fiona:0 thompson:0 own:0 evil:0 action:0 seen:0 
+660 | 52 | 4310 | 0 | None | None | 
+661 | 52 | 34162 | 0 | None | None | 
+662 | 52 | 39183 | 0 | None | None | 
+663 | 52 | 1580 | 1 | None |  | science:1 futuristic-movie:0 jones:1 space:1 aliens:1 smith:1 award:0 action:1 seen:0 comedy:1 
+664 | 53 | 2124 | 0 | None | None | 
+665 | 53 | 2160 | 0 | None | None | 
+666 | 52 | 4370 | 1 | None |  | oscar:0 good:0 futuristic-movie:1 own:0 steven:0 aidan:0 robot:1 tale:0 stanley:0 com:0 seen:0 classic:0 
+667 | 52 | 1035 | 0 | None | None | 
+668 | 50 | 6281 | 1 | None | action; sniper; killer; suspense | super-hero:0 soundtrack:0 dvd:0 good:0 own:0 reeves:0 seen:0 wants:0 nicholson:0 forest:0 farrell:0 whitaker:0 
+669 | 52 | 1748 | 0 | None | None | 
+670 | 53 | 6534 | 1 | None | comics | blind:0 tissue:0 dvd:0 good:0 book:0 action:1 father:0 nerd:1 breakthrough:0 aviator:0 seen:0 
+671 | 52 | 1345 | 0 | None | None | 
+672 | 52 | 56145 | 1 | None |  | stephen:0 deceased:0 based:0 dvd:0 library:0 good:0 book:0 animation:0 
+673 | 52 | 52458 | 0 | None | None | 
+674 | 52 | 26680 | 0 | None | None | 
+675 | 52 | 3108 | -1 | None | None | 
+676 | 52 | 5991 | 1 | None |  | zeta-jon:1 lawyer:1 oscar:0 time:0 dvd:0 book:0 drama:1 seen:0 musical:1 
+677 | 52 | 6281 | 1 | None |  | super-hero:0 soundtrack:0 dvd:0 good:0 own:0 reeves:0 seen:0 wants:0 nicholson:0 forest:0 farrell:1 whitaker:0 
+678 | 52 | 170 | -1 | None | None | 
+679 | 53 | 59784 | 1 | None |  | cooking:1 refresh:0 human:0 lifestyle:1 vegan:0 horror:0 
+680 | 55 | Dido | 1 | None |  | jazz:0 favorite:0 pop:1 artists:0 female:1 singer-songwriter:0 seen:0 vocalist:1 
+681 | 55 | Ricky+Martin | 1 | None |  | favorite:0 female:0 latin:1 love:1 dance:1 indie:0 american:0 alternative:0 
+682 | 55 | Coldplay | 2 | None |  | good:0 live:0 british:1 listening:0 electronic:1 pop:1 love:0 
+683 | 55 | Queen | 2 | None |  | classic:0 rock:1 freddie:1 mercury:1 80s:1 glam:0 
+684 | 55 | Jason+Mraz | 0 | None | None | 
+685 | 55 | Xuxa | 2 | None | infantil; | live:0 roda:0 pobre:0 nacional:0 pop:0 seen:0 vocalist:1 american:0 rock:0 
+686 | 55 | John+Legend | 0 | None | None | 
+687 | 55 | Michael+Jackson | 2 | None | pop | hop:0 hip:0 rap:0 punk:0 jazz:0 rock:0 
+688 | 55 | Linkin+Park | 2 | None |  | death:0 metal:1 new:1 punk:0 favorite:0 pop:1 artists:0 vocalist:0 indie:0 
+689 | 55 | Leonard+Cohen | 1 | None |  | heavy:0 twinkle:0 favorite:0 pop:0 steven:0 emerald:0 usually:0 folk:1 seen:0 vocalist:1 alternative:0 
+690 | 55 | 30+Seconds+to+Mars | 0 | None | None | 
+691 | 55 | Ivete+Sangalo | 2 | None |  | gosto:0 brasil:1 lixo:0 brazilian:0 macumba:0 live:0 favorite:0 vocalist:1 alternative:0 rock:0 
+692 | 55 | Miley+Cyrus | 1 | None |  | things:0 brutal:0 soundtrack:0 pop:1 female:1 seen:0 vocalist:1 alternative:0 rock:0 
+693 | 55 | Cazuza | 2 | None |  | brazilian:1 pop:1 barao-vermelho:1 rock:1 
+694 | 55 | Foo+Fighters | 1 | None |  | live:0 pop:1 seen:0 thrash:0 alternative:0 rock:1 
+695 | 55 | Amy+Winehouse | 2 | None |  | soul:1 british:1 jazz:0 favorite:0 pop:1 grozaca:0 vocalist:1 deepsoul:0 blues:1 indie:0 alternative:1 
+696 | 55 | Stevie+Wonder | 1 | None |  | hop:0 hip:0 live:0 california:0 argeu:0 vocalist:0 reggae:0 wilson:0 don:0 seixas:0 alternative:0 crowley:0 rock:0 
+697 | 55 | Alanis+Morissette | 1 | None |  | live:0 favorite:0 pop:1 female:1 singer-songwriter:0 love:1 rock:0 
+698 | 55 | Scorpions | 1 | None |  | metal:1 live:0 electronic:0 california:0 argeu:0 boa:0 seen:0 crowley:0 rock:1 
+699 | 55 | Engenheiros+do+Hawaii | 2 | None |  | brazilian:1 porto-alegre:1 humberto:1 gessinger:1 progressive:0 alternative:1 rock:1 
+700 | 56 | 33493 | 0 | None | None | 
+701 | 56 | 45499 | 1 | None |  | genetics:1 comic:0 marvel:1 mckellen:0 biology:0 based:0 dvd:0 hugh:1 miracle:0 foster:0 adaptation:0 nudity:0 good:0 
+702 | 56 | 6539 | 0 | None | None | 
+703 | 56 | 208 | 0 | None | None | 
+704 | 56 | 648 | 2 | None |  | mole:0 espionage:1 based:0 dvd:0 good:1 easily:0 futuristic-movie:1 brian:0 own:0 jean:0 clouseau:0 classic:1 
+705 | 56 | 592 | 1 | None |  | oscar:0 booth:0 bruce:1 mask:1 joker:0 wayne:1 atmospheric:0 super-hero:1 york:0 based:0 dvd:0 adaptation:0 action:1 
+706 | 56 | 596 | 0 | None | None | 
+707 | 56 | 8360 | 0 | None | None | 
+708 | 56 | 6874 | 0 | None | None | 
+709 | 56 | 2023 | 0 | None | None | 
+710 | 56 | 253 | 0 | None | None | 
+711 | 56 | 7438 | 0 | None | None | 
+712 | 56 | 59725 | 0 | None | None | 
+713 | 56 | 6377 | 1 | None |  | relationship:1 screen:0 based:0 dvd:0 award:0 features:0 seen:0 animation:1 classic:0 
+714 | 56 | 150 | 0 | None | None | 
+715 | 56 | 6365 | 1 | None |  | booth:0 based:0 imdb:0 book:0 great:0 sci-fi:0 reeves:0 smith:1 evil:1 fantasy:0 action:1 com:0 
+716 | 56 | 2124 | 0 | None | None | 
+717 | 56 | 2160 | 0 | None | None | 
+718 | 56 | 6534 | 0 | None | None | 
+719 | 56 | 59784 | 0 | None | None | 
+720 | 57 | 33493 | 1 | None |  | george:1 good:1 jackson:0 cinema:1 darth:1 skywalker:1 anakin:1 award:0 action:1 saturn:0 com:0 seen:0 
+721 | 57 | 45499 | 1 | None |  | genetics:1 comic:1 marvel:1 mckellen:0 biology:0 based:0 dvd:0 hugh:1 miracle:0 foster:0 adaptation:0 nudity:0 good:0 
+722 | 57 | 6539 | 1 | None |  | swashbuckling:0 pirates:1 wolski:0 jack:1 oscar:0 based:0 dvd:0 good:0 cinema:0 action:1 classic:0 
+723 | 57 | 208 | 1 | None |  | pirates:0 based:0 dvd:0 good:0 mutant:1 budget:0 reality:0 book:0 future:1 spaceship:0 action:0 com:0 seen:0 
+724 | 57 | 648 | 1 | None |  | mole:0 espionage:1 based:0 dvd:0 good:0 easily:0 futuristic-movie:1 brian:0 own:0 jean:0 clouseau:0 classic:1 
+725 | 57 | 592 | 2 | None |  | oscar:0 booth:0 bruce:1 mask:1 joker:0 wayne:1 atmospheric:0 super-hero:1 york:0 based:0 dvd:0 adaptation:0 action:1 
+726 | 57 | 596 | 0 | None | None | 
+727 | 57 | 8360 | 1 | None |  | based:0 dvd:0 prince:1 book:0 features:0 seen:0 comedy:1 antonio:0 cameron:0 animation:1 
+728 | 57 | 6874 | 2 | None |  | dvd:0 good:0 thurman:1 murder:1 tense:1 killer:1 watch:0 protagonist:0 imdb:0 science:0 assassin:1 cinema:0 seen:0 
+729 | 57 | 2023 | 1 | None |  | coppola:0 keaton:0 sofia:0 diane:0 ford:0 corleone:1 francis:0 oscar:1 bruce:0 nudity:0 good:1 imdb:0 seen:0 
+730 | 57 | 253 | 0 | None | None | 
+731 | 57 | 7438 | 2 | None |  | dvd:0 good:0 murder:1 assassin:1 great:0 leon:0 martial:1 kirsten:0 action:1 seen:0 classic:1 
+732 | 57 | 59725 | 0 | None | None | 
+733 | 57 | 6377 | 1 | None |  | relationship:1 screen:0 based:0 dvd:0 award:1 features:0 seen:0 animation:1 classic:0 
+734 | 57 | 150 | 1 | None |  | end:0 howard:0 jim:0 best:0 based:0 imdb:0 futuristic-movie:1 biopic:0 action:1 seen:0 comedy:0 classic:1 
+735 | 57 | 6365 | 2 | None |  | booth:0 based:0 imdb:0 book:0 great:0 sci-fi:1 reeves:1 smith:1 evil:1 fantasy:1 action:1 com:0 
+736 | 57 | 2124 | 1 | None |  | uncle:1 based:0 dvd:0 nudity:0 good:0 book:0 charles:0 illusionist:0 resistance:0 fight:0 classic:1 
+737 | 57 | 2160 | 0 | None | None | 
+738 | 57 | 6534 | 1 | None |  | blind:0 tissue:0 dvd:0 good:0 book:0 action:1 father:0 nerd:1 breakthrough:0 aviator:0 seen:0 
+739 | 57 | 59784 | 0 | None | None | 
+740 | 58 | Dido | 0 | None | None | 
+741 | 58 | Ricky+Martin | 1 | None |  | favorite:0 female:0 latin:0 love:1 dance:1 indie:0 american:0 alternative:0 
+742 | 58 | Coldplay | 2 | None |  | good:0 live:0 british:1 listening:0 electronic:0 pop:1 love:1 
+743 | 58 | Queen | 1 | None |  | classic:1 rock:1 freddie:0 mercury:0 80s:1 glam:0 
+744 | 58 | Jason+Mraz | 1 | None |  | allsop:0 new:0 pop:0 seen:0 love:1 indie:1 rock:0 
+745 | 58 | Xuxa | 1 | None |  | live:0 roda:0 pobre:0 nacional:1 pop:1 seen:0 vocalist:0 american:0 rock:0 
+746 | 58 | John+Legend | 0 | None | None | 
+747 | 58 | Michael+Jackson | 1 | None |  | hop:0 hip:0 rap:0 punk:0 jazz:0 rock:0 
+748 | 58 | Linkin+Park | 0 | None | None | 
+749 | 58 | Leonard+Cohen | 2 | None |  | heavy:1 twinkle:0 favorite:1 pop:0 steven:0 emerald:0 usually:0 folk:1 seen:0 vocalist:0 alternative:1 
+750 | 58 | 30+Seconds+to+Mars | 0 | None | None | 
+751 | 58 | Ivete+Sangalo | 2 | None |  | gosto:0 brasil:1 lixo:0 brazilian:1 macumba:0 live:0 favorite:0 vocalist:1 alternative:1 rock:0 
+752 | 58 | Miley+Cyrus | 0 | None | None | 
+753 | 58 | Cazuza | 0 | None | None | 
+754 | 58 | Foo+Fighters | 1 | None |  | live:1 pop:0 seen:0 thrash:0 alternative:0 rock:1 
+755 | 58 | Amy+Winehouse | 0 | None | None | 
+756 | 58 | Stevie+Wonder | 1 | None |  | hop:1 hip:1 live:1 california:0 argeu:0 vocalist:1 reggae:0 wilson:0 don:0 seixas:0 alternative:1 crowley:0 rock:1 
+757 | 58 | Alanis+Morissette | 2 | None |  | live:0 favorite:0 pop:1 female:1 singer-songwriter:1 love:1 rock:0 
+758 | 58 | Scorpions | 1 | None |  | metal:0 live:0 electronic:0 california:0 argeu:0 boa:0 seen:0 crowley:0 rock:1 
+759 | 58 | Engenheiros+do+Hawaii | 1 | None |  | brazilian:1 porto-alegre:0 humberto:0 gessinger:0 progressive:0 alternative:0 rock:1 
+760 | 59 | Dido | 1 | None |  | jazz:0 favorite:0 pop:1 artists:1 female:1 singer-songwriter:1 seen:0 vocalist:0 
+761 | 59 | Ricky+Martin | 1 | None |  | favorite:0 female:0 latin:1 love:0 dance:0 indie:0 american:0 alternative:0 
+762 | 59 | Coldplay | 1 | None |  | good:0 live:0 british:0 listening:0 electronic:0 pop:1 love:1 
+763 | 59 | Queen | 1 | None |  | classic:0 rock:1 freddie:0 mercury:0 80s:0 glam:0 
+764 | 59 | Jason+Mraz | 0 | None | None | 
+765 | 59 | Xuxa | 1 | None |  | live:0 roda:0 pobre:0 nacional:1 pop:0 seen:0 vocalist:0 american:0 rock:0 
+766 | 59 | John+Legend | 0 | None | None | 
+767 | 59 | Michael+Jackson | 1 | None |  | hop:0 hip:0 rap:0 punk:0 jazz:0 rock:1 
+768 | 59 | Linkin+Park | 1 | None |  | death:0 metal:0 new:0 punk:0 favorite:0 pop:0 artists:0 vocalist:0 indie:0 
+769 | 59 | Leonard+Cohen | 0 | None | None | 
+770 | 59 | 30+Seconds+to+Mars | 0 | None | None | 
+771 | 59 | Ivete+Sangalo | 1 | None |  | gosto:0 brasil:1 lixo:0 brazilian:1 macumba:0 live:0 favorite:0 vocalist:0 alternative:0 rock:0 
+772 | 59 | Miley+Cyrus | 0 | None | None | 
+773 | 59 | Cazuza | 1 | None |  | brazilian:1 pop:0 barao-vermelho:0 rock:0 
+774 | 59 | Foo+Fighters | 1 | None |  | live:0 pop:0 seen:0 thrash:0 alternative:0 rock:1 
+775 | 59 | Amy+Winehouse | 0 | None | None | 
+776 | 59 | Stevie+Wonder | 1 | None |  | hop:0 hip:0 live:0 california:0 argeu:0 vocalist:1 reggae:0 wilson:0 don:0 seixas:0 alternative:0 crowley:0 rock:0 
+777 | 59 | Alanis+Morissette | 1 | None |  | live:0 favorite:0 pop:1 female:1 singer-songwriter:1 love:1 rock:0 
+778 | 59 | Scorpions | 1 | None |  | metal:1 live:0 electronic:0 california:0 argeu:0 boa:0 seen:0 crowley:0 rock:1 
+779 | 59 | Engenheiros+do+Hawaii | 1 | None |  | brazilian:1 porto-alegre:1 humberto:1 gessinger:1 progressive:0 alternative:0 rock:1 
+780 | 60 | Dido | 0 | None | None | 
+781 | 60 | Ricky+Martin | 1 | None |  | favorite:0 female:0 latin:1 love:0 dance:0 indie:0 american:0 alternative:1 
+782 | 60 | Coldplay | 2 | None |  | good:1 live:0 british:1 listening:0 electronic:0 pop:1 love:0 
+783 | 60 | Queen | 1 | None |  | classic:0 rock:0 freddie:1 mercury:1 80s:1 glam:0 
+784 | 60 | Jason+Mraz | 2 | None |  | allsop:0 new:0 pop:1 seen:0 love:1 indie:0 rock:0 
+785 | 60 | Xuxa | 2 | None |  | live:0 roda:0 pobre:0 nacional:1 pop:1 seen:0 vocalist:1 american:0 rock:0 
+786 | 60 | John+Legend | 2 | None |  | tych:0 na:0 soul:1 hop:0 posluchac:0 artists:0 seen:0 alternative:0 classic:0 
+787 | 60 | Michael+Jackson | 2 | None | pop | hop:0 hip:0 rap:0 punk:0 jazz:0 rock:0 
+788 | 60 | Linkin+Park | 1 | None | rock | death:0 metal:0 new:0 punk:0 favorite:0 pop:1 artists:0 vocalist:0 indie:0 
+789 | 60 | Leonard+Cohen | 0 | None | None | 
+790 | 60 | 30+Seconds+to+Mars | 0 | None | None | 
+791 | 60 | Ivete+Sangalo | 2 | None | axe | gosto:0 brasil:1 lixo:0 brazilian:1 macumba:0 live:0 favorite:0 vocalist:1 alternative:0 rock:0 
+792 | 60 | Miley+Cyrus | 2 | None |  | things:0 brutal:0 soundtrack:0 pop:0 female:1 seen:0 vocalist:0 alternative:1 rock:0 
+793 | 60 | Cazuza | 2 | None |  | brazilian:1 pop:1 barao-vermelho:1 rock:1 
+794 | 60 | Foo+Fighters | 0 | None | None | 
+795 | 60 | Amy+Winehouse | 1 | None |  | soul:0 british:0 jazz:0 favorite:0 pop:1 grozaca:0 vocalist:1 deepsoul:0 blues:0 indie:0 alternative:1 
+796 | 60 | Stevie+Wonder | 0 | None | None | 
+797 | 60 | Alanis+Morissette | 0 | None | None | 
+798 | 60 | Scorpions | 0 | None | None | 
+799 | 60 | Engenheiros+do+Hawaii | 2 | None |  | brazilian:1 porto-alegre:0 humberto:1 gessinger:1 progressive:0 alternative:1 rock:1 
+800 | 61 | 33493 | 2 | None | saga; naves; espaço; guerra | george:0 good:0 jackson:0 cinema:0 darth:1 skywalker:1 anakin:0 award:0 action:1 saturn:0 com:0 seen:0 
+801 | 61 | 45499 | 2 | None | mutantes; herois; saga | genetics:0 comic:1 marvel:1 mckellen:0 biology:0 based:0 dvd:0 hugh:1 miracle:0 foster:0 adaptation:0 nudity:0 good:0 
+802 | 61 | 6539 | 2 | None | disney; jonny-deep; orlando-bloom | swashbuckling:0 pirates:1 wolski:0 jack:1 oscar:0 based:0 dvd:0 good:0 cinema:0 action:1 classic:0 
+803 | 61 | 208 | 0 | None | None | 
+804 | 61 | 648 | 1 | None | tom-cruise; ação; tecnologia | mole:0 espionage:1 based:0 dvd:0 good:0 easily:0 futuristic-movie:0 brian:0 own:0 jean:0 clouseau:0 classic:0 
+805 | 61 | 592 | 2 | None | tim-burtom | oscar:0 booth:0 bruce:1 mask:1 joker:1 wayne:1 atmospheric:0 super-hero:1 york:0 based:0 dvd:0 adaptation:1 action:1 
+806 | 61 | 596 | 1 | None | animação; infantil | oscar:0 based:1 dvd:0 muppets:0 features:0 national:0 seen:0 puppet:0 musical:0 disney:1 
+807 | 61 | 8360 | 2 | None | fairy-tale; fantasia | based:0 dvd:0 prince:0 book:0 features:0 seen:0 comedy:1 antonio:0 cameron:0 animation:1 
+808 | 61 | 6874 | 2 | None | espada; luta; samurais | dvd:0 good:0 thurman:1 murder:1 tense:1 killer:1 watch:0 protagonist:0 imdb:0 science:0 assassin:1 cinema:0 seen:0 
+809 | 61 | 2023 | 1 | None | máfia; crime; relações-familiares | coppola:1 keaton:0 sofia:0 diane:0 ford:0 corleone:1 francis:0 oscar:0 bruce:0 nudity:0 good:0 imdb:0 seen:0 
+810 | 61 | 253 | 0 | None | None | 
+811 | 61 | 7438 | 1 | None | espada; luta; vingança | dvd:0 good:0 murder:1 assassin:1 great:0 leon:0 martial:1 kirsten:0 action:1 seen:0 classic:0 
+812 | 61 | 59725 | 0 | None | None | 
+813 | 61 | 6377 | 2 | None | infantil; peixes; mar; família | relationship:1 screen:0 based:0 dvd:0 award:0 features:0 seen:0 animation:1 classic:0 
+814 | 61 | 150 | 0 | None | None | 
+815 | 61 | 6365 | 2 | None | ciberpunk; saga; robôs | booth:0 based:0 imdb:0 book:0 great:0 sci-fi:1 reeves:1 smith:1 evil:0 fantasy:0 action:1 com:0 
+816 | 61 | 2124 | 2 | None | família; comédia; gótico | uncle:0 based:0 dvd:0 nudity:0 good:0 book:0 charles:0 illusionist:0 resistance:0 fight:0 classic:0 
+817 | 61 | 2160 | 0 | None | None | 
+961 | 68 | Ricky+Martin | 1 | None |  | favorite:0 female:1 latin:1 love:1 dance:1 indie:0 american:1 alternative:0 
+818 | 61 | 6534 | 2 | None | heróis; mutante; superpoderes; marvel | blind:0 tissue:0 dvd:0 good:0 book:0 action:1 father:0 nerd:1 breakthrough:0 aviator:0 seen:0 
+819 | 61 | 59784 | 2 | None | animação; infantil; animais; luta; treino | cooking:0 refresh:0 human:0 lifestyle:0 vegan:0 horror:0 
+820 | 61 | 1721 | 2 | None | navio; cameron; longo | oscar:1 test:0 dvd:0 chick:0 dicaprio:1 good:0 titanic:1 romance:1 seen:0 classic:0 
+821 | 61 | 5952 | 2 | None | livro; saga | adaptation:1 hobbits:1 tolkien:1 fantasy:1 action:1 classic:0 
+822 | 61 | 4367 | 1 | None | espionagem; videogame; heroina | know:0 dvd:0 nudity:0 imdb:0 neil:0 combat:0 secret:0 book:0 great:0 cinema:0 evil:0 fight:0 seen:0 
+823 | 61 | 8361 | 2 | None | adaptation; refilmagem | disaster:1 post-apocalypt:0 day:0 doris:0 based:0 dvd:0 good:0 romance:0 science:0 cinema:0 action:1 seen:0 classic:0 
+824 | 61 | 1544 | 1 | None | continuação; dinossauros | genetics:0 michael:0 ian:0 based:0 dvd:0 good:0 own:0 steven:0 action:1 classic:0 
+825 | 61 | 40815 | 2 | None | fantasia; adaptação; saga; heroi | oscar:0 school:1 ron:1 potter:1 author:0 dvd:0 fiona:0 thompson:1 own:0 evil:0 action:1 seen:0 
+826 | 61 | 4310 | 0 | None | None | 
+827 | 61 | 34162 | 0 | None | None | 
+828 | 61 | 39183 | 0 | None | None | 
+829 | 61 | 1580 | 2 | None |  | science:0 futuristic-movie:0 jones:0 space:0 aliens:1 smith:1 award:0 action:1 seen:0 comedy:1 
+830 | 61 | 4370 | 2 | None | spielberg; tecnologia | oscar:0 good:0 futuristic-movie:1 own:0 steven:0 aidan:0 robot:1 tale:0 stanley:0 com:0 seen:0 classic:0 
+831 | 61 | 1035 | 0 | None | None | 
+832 | 61 | 1748 | 0 | None | None | 
+833 | 61 | 1345 | 2 | None | suspense; psicológico | lib:0 veggie:0 jokes:0 confusion:0 carry:1 atmospheric:0 john:0 based:1 dvd:0 good:0 book:1 brian:0 teen:1 comedy:0 
+834 | 61 | 56145 | 0 | None | None | 
+835 | 61 | 52458 | 0 | None | None | 
+836 | 61 | 26680 | 0 | None | None | 
+837 | 61 | 3108 | 0 | None | None | 
+838 | 61 | 5991 | 1 | None |  | zeta-jon:1 lawyer:0 oscar:0 time:0 dvd:0 book:0 drama:1 seen:0 musical:1 
+839 | 61 | 6281 | 0 | None | None | 
+840 | 62 | Dido | 1 | None |  | jazz:0 favorite:0 pop:1 artists:1 female:1 singer-songwriter:1 seen:0 vocalist:1 
+841 | 62 | Ricky+Martin | 1 | None |  | favorite:0 female:0 latin:1 love:0 dance:1 indie:0 american:0 alternative:0 
+842 | 62 | Coldplay | 2 | None |  | good:0 live:1 british:1 listening:0 electronic:0 pop:1 love:1 
+843 | 62 | Queen | 1 | None |  | classic:1 rock:1 freddie:1 mercury:1 80s:0 glam:0 
+844 | 62 | Jason+Mraz | 1 | None |  | allsop:0 new:0 pop:1 seen:0 love:1 indie:0 rock:0 
+845 | 62 | Xuxa | 2 | None |  | live:0 roda:0 pobre:0 nacional:1 pop:1 seen:0 vocalist:0 american:0 rock:0 
+846 | 62 | John+Legend | 1 | None |  | tych:0 na:0 soul:1 hop:0 posluchac:0 artists:0 seen:0 alternative:0 classic:0 
+847 | 62 | Michael+Jackson | 2 | None | pop | hop:0 hip:0 rap:0 punk:0 jazz:0 rock:0 
+848 | 62 | Linkin+Park | 2 | None | new-metal | death:0 metal:1 new:0 punk:0 favorite:0 pop:0 artists:0 vocalist:0 indie:0 
+849 | 62 | Leonard+Cohen | 0 | None | None | 
+850 | 62 | 30+Seconds+to+Mars | 1 | None | rock | norweski:0 punishment:0 norweskich:0 listening:0 new:0 jazz:0 kalectwem:0 najsurowszi:0 favourite:0 screamo:0 grozaca:0 male:0 latin:0 indie:0 american:1 
+851 | 62 | Ivete+Sangalo | 2 | None | axé | gosto:0 brasil:1 lixo:0 brazilian:1 macumba:0 live:1 favorite:0 vocalist:1 alternative:0 rock:0 
+852 | 62 | Miley+Cyrus | 2 | None |  | things:0 brutal:0 soundtrack:0 pop:1 female:1 seen:0 vocalist:1 alternative:0 rock:0 
+853 | 62 | Cazuza | 2 | None |  | brazilian:1 pop:1 barao-vermelho:1 rock:1 
+854 | 62 | Foo+Fighters | 2 | None |  | live:1 pop:0 seen:0 thrash:0 alternative:0 rock:1 
+855 | 62 | Amy+Winehouse | 2 | None |  | soul:1 british:1 jazz:1 favorite:0 pop:0 grozaca:0 vocalist:1 deepsoul:0 blues:1 indie:0 alternative:0 
+856 | 62 | Stevie+Wonder | 1 | None |  | hop:0 hip:0 live:1 california:0 argeu:0 vocalist:1 reggae:1 wilson:0 don:0 seixas:0 alternative:0 crowley:0 rock:0 
+857 | 62 | Alanis+Morissette | 2 | None |  | live:1 favorite:0 pop:1 female:1 singer-songwriter:1 love:1 rock:0 
+858 | 62 | Scorpions | 0 | None | None | 
+859 | 62 | Engenheiros+do+Hawaii | 2 | None |  | brazilian:1 porto-alegre:0 humberto:1 gessinger:1 progressive:0 alternative:0 rock:1 
+860 | 63 | Dido | 0 | None | None | 
+861 | 63 | Ricky+Martin | 1 | None |  | favorite:0 female:0 latin:1 love:1 dance:0 indie:0 american:0 alternative:0 
+862 | 63 | Coldplay | 2 | None |  | good:1 live:1 british:1 listening:0 electronic:0 pop:1 love:0 
+863 | 63 | Queen | 2 | None |  | classic:1 rock:1 freddie:0 mercury:0 80s:0 glam:0 
+864 | 63 | Jason+Mraz | 1 | None |  | allsop:0 new:1 pop:1 seen:0 love:1 indie:0 rock:0 
+865 | 63 | Xuxa | 1 | None |  | live:0 roda:0 pobre:0 nacional:1 pop:0 seen:0 vocalist:0 american:0 rock:0 
+866 | 63 | John+Legend | 0 | None | None | 
+867 | 63 | Michael+Jackson | 1 | None | pop | hop:0 hip:0 rap:0 punk:0 jazz:0 rock:0 
+868 | 63 | Linkin+Park | 0 | None | None | 
+869 | 63 | Leonard+Cohen | 0 | None | None | 
+870 | 63 | 30+Seconds+to+Mars | 0 | None | None | 
+871 | 63 | Ivete+Sangalo | 2 | None | axé | gosto:0 brasil:1 lixo:0 brazilian:1 macumba:0 live:0 favorite:0 vocalist:1 alternative:0 rock:0 
+872 | 63 | Miley+Cyrus | 0 | None | None | 
+873 | 63 | Cazuza | 2 | None |  | brazilian:1 pop:1 barao-vermelho:1 rock:1 
+874 | 63 | Foo+Fighters | 0 | None | None | 
+875 | 63 | Amy+Winehouse | 1 | None |  | soul:0 british:0 jazz:0 favorite:0 pop:1 grozaca:0 vocalist:1 deepsoul:0 blues:0 indie:0 alternative:1 
+876 | 63 | Stevie+Wonder | -1 | None | None | 
+877 | 63 | Alanis+Morissette | 0 | None | None | 
+878 | 63 | Scorpions | 2 | None |  | metal:0 live:1 electronic:0 california:0 argeu:0 boa:0 seen:0 crowley:0 rock:1 
+879 | 63 | Engenheiros+do+Hawaii | 2 | None | pop;MPB | brazilian:1 porto-alegre:0 humberto:0 gessinger:0 progressive:0 alternative:0 rock:0 
+880 | 64 | 33493 | 2 | None |  | george:1 good:0 jackson:0 cinema:0 darth:1 skywalker:1 anakin:1 award:1 action:1 saturn:0 com:0 seen:0 
+881 | 64 | 45499 | 1 | None |  | genetics:1 comic:1 marvel:1 mckellen:0 biology:1 based:0 dvd:0 hugh:1 miracle:0 foster:0 adaptation:0 nudity:0 good:0 
+882 | 64 | 6539 | 1 | None |  | swashbuckling:0 pirates:1 wolski:0 jack:1 oscar:1 based:0 dvd:0 good:0 cinema:1 action:1 classic:1 
+883 | 64 | 208 | 0 | None | None | 
+884 | 64 | 648 | 1 | None | None | 
+885 | 64 | 592 | -1 | None | None | 
+886 | 64 | 596 | -1 | None | None | 
+887 | 64 | 8360 | 2 | None |  | based:0 dvd:0 prince:1 book:0 features:0 seen:0 comedy:1 antonio:0 cameron:1 animation:1 
+888 | 64 | 6874 | 2 | None |  | dvd:0 good:0 thurman:1 murder:1 tense:1 killer:1 watch:0 protagonist:0 imdb:0 science:0 assassin:1 cinema:1 seen:0 
+889 | 64 | 2023 | -1 | None | None | 
+890 | 64 | 253 | -1 | None | None | 
+891 | 64 | 7438 | 2 | None |  | dvd:0 good:0 murder:1 assassin:1 great:0 leon:0 martial:1 kirsten:1 action:1 seen:0 classic:1 
+892 | 64 | 59725 | -1 | None | None | 
+893 | 64 | 6377 | 2 | None |  | relationship:1 screen:0 based:0 dvd:0 award:1 features:0 seen:0 animation:1 classic:1 
+894 | 64 | 150 | -1 | None | None | 
+895 | 64 | 6365 | 2 | None |  | booth:1 based:0 imdb:0 book:0 great:0 sci-fi:1 reeves:1 smith:1 evil:1 fantasy:1 action:1 com:0 
+896 | 64 | 2124 | -1 | None | None | 
+897 | 64 | 2160 | -1 | None | None | 
+898 | 64 | 6534 | 1 | None | None | 
+899 | 64 | 59784 | 2 | None | fight | cooking:1 refresh:0 human:0 lifestyle:0 vegan:0 horror:0 
+900 | 65 | 33493 | 0 | None | None | 
+901 | 65 | 45499 | 1 | None |  | genetics:0 comic:0 marvel:1 mckellen:0 biology:0 based:0 dvd:0 hugh:1 miracle:0 foster:0 adaptation:0 nudity:0 good:0 
+902 | 65 | 6539 | 1 | None |  | swashbuckling:0 pirates:1 wolski:0 jack:1 oscar:0 based:0 dvd:0 good:0 cinema:0 action:0 classic:0 
+903 | 65 | 208 | 0 | None | None | 
+904 | 65 | 648 | 1 | None |  | mole:0 espionage:1 based:0 dvd:0 good:0 easily:0 futuristic-movie:0 brian:0 own:0 jean:0 clouseau:0 classic:0 
+905 | 65 | 592 | 1 | None |  | oscar:0 booth:0 bruce:1 mask:1 joker:1 wayne:1 atmospheric:0 super-hero:1 york:0 based:0 dvd:0 adaptation:0 action:0 
+906 | 65 | 596 | 0 | None | None | 
+907 | 65 | 8360 | 1 | None |  | based:0 dvd:0 prince:0 book:0 features:0 seen:0 comedy:0 antonio:0 cameron:0 animation:1 
+908 | 65 | 6874 | 1 | None |  | dvd:0 good:0 thurman:1 murder:0 tense:0 killer:1 watch:0 protagonist:0 imdb:0 science:0 assassin:1 cinema:0 seen:0 
+909 | 65 | 2023 | 0 | None | None | 
+910 | 65 | 253 | 1 | None |  | oscar:0 dunst:0 series:0 gothic:1 good:0 louis:0 7n:0 vampire:1 book:1 brad:1 banderas:0 seen:0 love:0 classic:0 
+911 | 65 | 7438 | 1 | None | quentin | dvd:0 good:0 murder:1 assassin:1 great:0 leon:0 martial:0 kirsten:0 action:0 seen:0 classic:0 
+912 | 65 | 59725 | 0 | None | None | 
+913 | 65 | 6377 | 1 | None |  | relationship:0 screen:0 based:0 dvd:0 award:0 features:0 seen:0 animation:1 classic:0 
+914 | 65 | 150 | 0 | None | None | 
+915 | 65 | 6365 | 1 | None |  | booth:0 based:0 imdb:0 book:0 great:0 sci-fi:1 reeves:1 smith:0 evil:0 fantasy:0 action:0 com:0 
+916 | 65 | 2124 | 0 | None | None | 
+917 | 65 | 2160 | 1 | None |  | oscar:0 versus:0 deal:0 author:0 actor:0 thrilling:1 grows:0 based:1 good:0 great:0 classic:1 
+918 | 65 | 6534 | 1 | None |  | blind:0 tissue:0 dvd:0 good:0 book:0 action:0 father:0 nerd:0 breakthrough:0 aviator:0 seen:0 
+919 | 65 | 59784 | 0 | None | None | 
+920 | 66 | 33493 | 2 | None | sci-fi | george:1 good:0 jackson:0 cinema:1 darth:1 skywalker:1 anakin:1 award:0 action:0 saturn:0 com:0 seen:0 
+921 | 66 | 45499 | 2 | None | mutants | genetics:0 comic:1 marvel:1 mckellen:1 biology:0 based:0 dvd:0 hugh:1 miracle:0 foster:1 adaptation:0 nudity:0 good:0 
+922 | 66 | 6539 | 2 | None |  | swashbuckling:0 pirates:1 wolski:0 jack:1 oscar:0 based:0 dvd:0 good:0 cinema:0 action:1 classic:0 
+923 | 66 | 208 | 2 | None | distopy; | pirates:1 based:0 dvd:0 good:0 mutant:0 budget:0 reality:0 book:0 future:1 spaceship:0 action:0 com:0 seen:0 
+924 | 66 | 648 | 1 | None |  | mole:0 espionage:1 based:0 dvd:0 good:0 easily:0 futuristic-movie:0 brian:0 own:0 jean:0 clouseau:0 classic:0 
+925 | 66 | 592 | 2 | None | comic;dc | oscar:0 booth:0 bruce:1 mask:0 joker:1 wayne:1 atmospheric:0 super-hero:1 york:0 based:0 dvd:0 adaptation:1 action:0 
+926 | 66 | 596 | 1 | None | fairy tail | oscar:0 based:0 dvd:0 muppets:0 features:0 national:0 seen:0 puppet:0 musical:0 disney:1 
+927 | 66 | 8360 | 2 | None | fairy tail;ogre | based:0 dvd:0 prince:1 book:0 features:0 seen:0 comedy:1 antonio:1 cameron:0 animation:1 
+928 | 66 | 6874 | 2 | None | tarantino | dvd:0 good:0 thurman:1 murder:1 tense:0 killer:1 watch:0 protagonist:0 imdb:0 science:0 assassin:1 cinema:0 seen:0 
+929 | 66 | 2023 | 2 | None | mafia;italian | coppola:1 keaton:1 sofia:1 diane:1 ford:1 corleone:1 francis:1 oscar:0 bruce:0 nudity:0 good:0 imdb:0 seen:0 
+930 | 66 | 253 | 1 | None | anne;rice | oscar:0 dunst:0 series:0 gothic:0 good:0 louis:0 7n:0 vampire:1 book:1 brad:0 banderas:1 seen:0 love:0 classic:0 
+931 | 66 | 7438 | 2 | None | tarantino;thurman | dvd:0 good:0 murder:1 assassin:1 great:0 leon:0 martial:1 kirsten:0 action:0 seen:0 classic:0 
+932 | 66 | 59725 | 0 | None | None | 
+933 | 66 | 6377 | 1 | None | disney;pixar | relationship:1 screen:0 based:0 dvd:0 award:0 features:0 seen:0 animation:1 classic:0 
+934 | 66 | 150 | 1 | None |  | end:0 howard:0 jim:0 best:0 based:0 imdb:0 futuristic-movie:0 biopic:0 action:0 seen:0 comedy:0 classic:1 
+935 | 66 | 6365 | 2 | None | distopy;plato;cave;myth; | booth:0 based:0 imdb:0 book:0 great:0 sci-fi:1 reeves:1 smith:1 evil:0 fantasy:1 action:1 com:0 
+936 | 66 | 2124 | 1 | None | ghost; | uncle:1 based:0 dvd:0 nudity:0 good:1 book:0 charles:0 illusionist:0 resistance:0 fight:0 classic:0 
+937 | 66 | 2160 | 1 | None | terror;demon; | oscar:0 versus:0 deal:0 author:0 actor:0 thrilling:1 grows:0 based:0 good:0 great:0 classic:1 
+938 | 66 | 6534 | 0 | None | None | 
+939 | 66 | 59784 | 1 | None | panda;martial; | cooking:1 refresh:0 human:0 lifestyle:0 vegan:0 horror:0 
+940 | 67 | 33493 | 2 | None | star; wars; | george:1 good:0 jackson:0 cinema:1 darth:1 skywalker:1 anakin:1 award:0 action:1 saturn:0 com:0 seen:0 
+941 | 67 | 45499 | 2 | None |  | genetics:1 comic:1 marvel:1 mckellen:0 biology:1 based:0 dvd:0 hugh:1 miracle:0 foster:0 adaptation:1 nudity:0 good:0 
+942 | 67 | 6539 | 2 | None |  | swashbuckling:0 pirates:1 wolski:0 jack:1 oscar:0 based:0 dvd:0 good:0 cinema:1 action:1 classic:1 
+943 | 67 | 208 | 1 | None |  | pirates:1 based:0 dvd:0 good:0 mutant:1 budget:0 reality:0 book:0 future:1 spaceship:0 action:1 com:0 seen:0 
+944 | 67 | 648 | 2 | None |  | mole:0 espionage:1 based:0 dvd:1 good:0 easily:0 futuristic-movie:1 brian:0 own:0 jean:0 clouseau:0 classic:1 
+945 | 67 | 592 | 2 | None |  | oscar:0 booth:0 bruce:1 mask:1 joker:1 wayne:1 atmospheric:0 super-hero:1 york:0 based:0 dvd:1 adaptation:1 action:1 
+946 | 67 | 596 | 2 | None |  | oscar:0 based:0 dvd:1 muppets:0 features:0 national:0 seen:0 puppet:0 musical:1 disney:1 
+947 | 67 | 8360 | 2 | None |  | based:0 dvd:1 prince:1 book:0 features:0 seen:0 comedy:1 antonio:1 cameron:1 animation:1 
+948 | 67 | 6874 | 2 | None |  | dvd:1 good:0 thurman:1 murder:1 tense:0 killer:1 watch:0 protagonist:0 imdb:1 science:0 assassin:1 cinema:1 seen:0 
+949 | 67 | 2023 | 2 | None |  | coppola:1 keaton:1 sofia:1 diane:1 ford:1 corleone:1 francis:1 oscar:0 bruce:0 nudity:0 good:0 imdb:1 seen:0 
+950 | 67 | 253 | 2 | None |  | oscar:0 dunst:0 series:0 gothic:0 good:0 louis:0 7n:0 vampire:1 book:1 brad:1 banderas:1 seen:0 love:1 classic:1 
+951 | 67 | 7438 | 1 | None |  | dvd:1 good:0 murder:1 assassin:1 great:0 leon:0 martial:0 kirsten:1 action:1 seen:0 classic:1 
+952 | 67 | 59725 | 0 | None | None | 
+953 | 67 | 6377 | 2 | None |  | relationship:1 screen:1 based:0 dvd:1 award:0 features:0 seen:0 animation:1 classic:1 
+954 | 67 | 150 | 0 | None | None | 
+955 | 67 | 6365 | 2 | None |  | booth:0 based:0 imdb:1 book:0 great:0 sci-fi:1 reeves:1 smith:1 evil:1 fantasy:1 action:1 com:0 
+956 | 67 | 2124 | 2 | None |  | uncle:1 based:0 dvd:1 nudity:0 good:0 book:0 charles:1 illusionist:1 resistance:0 fight:0 classic:1 
+957 | 67 | 2160 | 0 | None | None | 
+958 | 67 | 6534 | 2 | None |  | blind:0 tissue:0 dvd:1 good:0 book:0 action:1 father:0 nerd:1 breakthrough:0 aviator:0 seen:0 
+959 | 67 | 59784 | 2 | None |  | cooking:1 refresh:0 human:0 lifestyle:1 vegan:0 horror:0 
+960 | 68 | Dido | 1 | None |  | jazz:0 favorite:0 pop:1 artists:1 female:1 singer-songwriter:0 seen:0 vocalist:1 
+962 | 68 | Coldplay | 1 | None |  | good:0 live:0 british:1 listening:0 electronic:0 pop:1 love:1 
+963 | 68 | Queen | 2 | None |  | classic:1 rock:1 freddie:1 mercury:1 80s:1 glam:0 
+964 | 68 | Jason+Mraz | 0 | None | None | 
+965 | 68 | Xuxa | 1 | None |  | live:0 roda:0 pobre:0 nacional:1 pop:1 seen:0 vocalist:1 american:0 rock:0 
+966 | 68 | John+Legend | 0 | None | None | 
+967 | 68 | Michael+Jackson | 2 | None |  | hop:1 hip:1 rap:1 punk:0 jazz:1 rock:1 
+968 | 68 | Linkin+Park | 1 | None |  | death:0 metal:0 new:0 punk:0 favorite:0 pop:1 artists:1 vocalist:0 indie:0 
+969 | 68 | Leonard+Cohen | 0 | None | None | 
+970 | 68 | 30+Seconds+to+Mars | 0 | None | None | 
+971 | 68 | Ivete+Sangalo | 2 | None |  | gosto:0 brasil:1 lixo:0 brazilian:1 macumba:0 live:0 favorite:0 vocalist:1 alternative:0 rock:0 
+972 | 68 | Miley+Cyrus | 0 | None | None | 
+973 | 68 | Cazuza | 2 | None |  | brazilian:1 pop:1 barao-vermelho:1 rock:1 
+974 | 68 | Foo+Fighters | 1 | None |  | live:0 pop:1 seen:0 thrash:0 alternative:0 rock:1 
+975 | 68 | Amy+Winehouse | 1 | None |  | soul:1 british:1 jazz:1 favorite:0 pop:1 grozaca:0 vocalist:1 deepsoul:0 blues:1 indie:0 alternative:0 
+976 | 68 | Stevie+Wonder | 1 | None |  | hop:0 hip:0 live:0 california:0 argeu:0 vocalist:1 reggae:0 wilson:0 don:0 seixas:0 alternative:0 crowley:0 rock:0 
+977 | 68 | Alanis+Morissette | 1 | None |  | live:0 favorite:0 pop:1 female:1 singer-songwriter:0 love:1 rock:1 
+978 | 68 | Scorpions | 1 | None |  | metal:0 live:0 electronic:0 california:0 argeu:0 boa:0 seen:0 crowley:0 rock:1 
+979 | 68 | Engenheiros+do+Hawaii | 2 | None |  | brazilian:1 porto-alegre:1 humberto:1 gessinger:1 progressive:0 alternative:0 rock:1 
+980 | 69 | 33493 | 2 | None | scifi;jedi;vader;wars;star; | george:1 good:1 jackson:0 cinema:1 darth:1 skywalker:1 anakin:1 award:1 action:1 saturn:0 com:0 seen:0 
+981 | 69 | 45499 | 1 | None | wolverine;xavier;magneto;jean | genetics:1 comic:1 marvel:1 mckellen:0 biology:0 based:0 dvd:0 hugh:0 miracle:0 foster:0 adaptation:0 nudity:0 good:0 
+982 | 69 | 6539 | 1 | None | sparrow | swashbuckling:1 pirates:1 wolski:0 jack:1 oscar:0 based:0 dvd:0 good:1 cinema:1 action:1 classic:0 
+983 | 69 | 208 | 1 | None | landless;kevin; | pirates:0 based:0 dvd:1 good:1 mutant:0 budget:0 reality:0 book:0 future:0 spaceship:0 action:1 com:0 seen:0 
+984 | 69 | 648 | 1 | None |  | mole:1 espionage:1 based:0 dvd:0 good:1 easily:0 futuristic-movie:0 brian:0 own:0 jean:0 clouseau:0 classic:0 
+985 | 70 | Dido | 0 | None | None | 
+986 | 70 | Ricky+Martin | 1 | None |  | favorite:0 female:0 latin:1 love:0 dance:0 indie:0 american:0 alternative:0 
+987 | 70 | Coldplay | 2 | None |  | good:0 live:0 british:1 listening:0 electronic:0 pop:1 love:1 
+988 | 71 | 33493 | 2 | None | star wars | george:1 good:0 jackson:1 cinema:1 darth:1 skywalker:1 anakin:1 award:0 action:1 saturn:0 com:0 seen:1 
+989 | 70 | Queen | 1 | None |  | classic:0 rock:1 freddie:1 mercury:1 80s:0 glam:0 
+990 | 71 | 45499 | 2 | None | x men | genetics:1 comic:1 marvel:1 mckellen:1 biology:1 based:0 dvd:0 hugh:1 miracle:0 foster:0 adaptation:1 nudity:0 good:0 
+991 | 70 | Jason+Mraz | 1 | None |  | allsop:0 new:0 pop:1 seen:0 love:1 indie:0 rock:0 
+992 | 71 | 6539 | 1 | None |  | swashbuckling:1 pirates:1 wolski:0 jack:1 oscar:0 based:0 dvd:0 good:0 cinema:0 action:1 classic:0 
+993 | 71 | 208 | 1 | None |  | pirates:1 based:0 dvd:0 good:0 mutant:1 budget:1 reality:0 book:0 future:1 spaceship:0 action:0 com:0 seen:1 
+994 | 70 | Xuxa | 2 | None | infantil | live:0 roda:0 pobre:0 nacional:1 pop:1 seen:0 vocalist:0 american:0 rock:0 
+995 | 71 | 648 | 1 | None | tom cruise action mission impossible | mole:0 espionage:1 based:0 dvd:0 good:0 easily:0 futuristic-movie:0 brian:0 own:0 jean:0 clouseau:1 classic:0 
+996 | 70 | John+Legend | 0 | None | None | 
+997 | 71 | 592 | 2 | None | batman classic | oscar:0 booth:0 bruce:1 mask:0 joker:1 wayne:1 atmospheric:1 super-hero:1 york:1 based:1 dvd:0 adaptation:1 action:1 
+998 | 71 | 596 | 1 | None |  | oscar:1 based:0 dvd:0 muppets:0 features:0 national:0 seen:0 puppet:1 musical:1 disney:1 
+999 | 71 | 8360 | 1 | None | cartoon shrek eddie murphy  | based:0 dvd:0 prince:1 book:0 features:0 seen:0 comedy:1 antonio:1 cameron:0 animation:1 
+1000 | 71 | 6874 | 2 | None | tarantino kill bill bloody classic swords | dvd:0 good:1 thurman:1 murder:1 tense:1 killer:1 watch:1 protagonist:1 imdb:0 science:0 assassin:1 cinema:1 seen:1 
+1001 | 71 | 2023 | 2 | None | great classic  | coppola:1 keaton:0 sofia:1 diane:1 ford:1 corleone:1 francis:1 oscar:1 bruce:0 nudity:0 good:1 imdb:0 seen:1 
+1002 | 71 | 253 | 1 | None |  | oscar:0 dunst:1 series:0 gothic:1 good:0 louis:1 7n:0 vampire:1 book:1 brad:1 banderas:1 seen:0 love:0 classic:1 
+1003 | 70 | Michael+Jackson | 2 | None |  | hop:1 hip:1 rap:0 punk:0 jazz:0 rock:1 
+1004 | 70 | Linkin+Park | 0 | None | None | 
+1005 | 71 | 7438 | 2 | None | western tarantino kill bill | dvd:0 good:1 murder:1 assassin:1 great:1 leon:0 martial:1 kirsten:0 action:1 seen:0 classic:1 
+1006 | 71 | 59725 | 0 | None | None | 
+1007 | 70 | Leonard+Cohen | 0 | None | None | 
+1008 | 70 | 30+Seconds+to+Mars | 0 | None | None | 
+1009 | 71 | 6377 | 2 | None | fish nemo great oscar funny  | relationship:0 screen:0 based:0 dvd:0 award:1 features:0 seen:1 animation:1 classic:1 
+1010 | 70 | Ivete+Sangalo | 2 | None | axe;carnaval | gosto:0 brasil:1 lixo:0 brazilian:1 macumba:0 live:0 favorite:0 vocalist:0 alternative:0 rock:0 
+1011 | 71 | 150 | 2 | None | space true story | end:0 howard:1 jim:1 best:0 based:1 imdb:0 futuristic-movie:0 biopic:1 action:1 seen:1 comedy:0 classic:1 
+1012 | 70 | Miley+Cyrus | 1 | None |  | things:0 brutal:0 soundtrack:0 pop:1 female:1 seen:0 vocalist:0 alternative:0 rock:0 
+1013 | 70 | Cazuza | 2 | None |  | brazilian:1 pop:1 barao-vermelho:1 rock:1 
+1014 | 70 | Foo+Fighters | 0 | None | None | 
+1015 | 71 | 6365 | 2 | None | alternate reality classic wachowski brothers  | booth:0 based:0 imdb:0 book:0 great:0 sci-fi:1 reeves:1 smith:1 evil:0 fantasy:1 action:1 com:0 
+1016 | 70 | Amy+Winehouse | 1 | None |  | soul:0 british:0 jazz:0 favorite:0 pop:1 grozaca:0 vocalist:0 deepsoul:0 blues:0 indie:0 alternative:0 
+1017 | 70 | Stevie+Wonder | 0 | None | None | 
+1018 | 71 | 2124 | 1 | None | funny comedy gothic | uncle:1 based:1 dvd:0 nudity:0 good:1 book:0 charles:0 illusionist:0 resistance:0 fight:0 classic:1 
+1019 | 71 | 2160 | 1 | None | terror | oscar:1 versus:0 deal:0 author:0 actor:0 thrilling:1 grows:0 based:0 good:0 great:0 classic:1 
+1020 | 70 | Alanis+Morissette | 1 | None |  | live:0 favorite:0 pop:1 female:1 singer-songwriter:0 love:0 rock:0 
+1021 | 71 | 6534 | 0 | None | None | 
+1022 | 70 | Scorpions | 0 | None | None | 
+1023 | 71 | 59784 | 1 | None | classic animation funny comedy jack black | cooking:0 refresh:0 human:0 lifestyle:0 vegan:0 horror:0 
+1024 | 70 | Engenheiros+do+Hawaii | 2 | None |  | brazilian:1 porto-alegre:0 humberto:1 gessinger:0 progressive:0 alternative:0 rock:1 
+1025 | 72 | 33493 | 1 | None |  | george:0 good:0 jackson:0 cinema:0 darth:1 skywalker:1 anakin:1 award:0 action:0 saturn:0 com:0 seen:0 
+1026 | 72 | 45499 | 0 | None | None | 
+1027 | 72 | 6539 | 0 | None | None | 
+1028 | 72 | 208 | 0 | None | None | 
+1029 | 72 | 648 | 0 | None | None | 
+1030 | 72 | 592 | 1 | None |  | oscar:0 booth:0 bruce:1 mask:0 joker:1 wayne:1 atmospheric:0 super-hero:1 york:0 based:0 dvd:0 adaptation:0 action:1 
+1031 | 72 | 596 | 1 | None |  | oscar:0 based:0 dvd:0 muppets:0 features:0 national:0 seen:0 puppet:0 musical:0 disney:1 
+1032 | 72 | 8360 | 0 | None | None | 
+1033 | 72 | 6874 | 1 | None |  | dvd:1 good:0 thurman:1 murder:0 tense:0 killer:0 watch:0 protagonist:0 imdb:0 science:0 assassin:0 cinema:0 seen:0 
+1034 | 72 | 2023 | 0 | None | None | 
+1035 | 72 | 253 | 1 | None |  | oscar:0 dunst:0 series:0 gothic:0 good:0 louis:0 7n:0 vampire:1 book:0 brad:1 banderas:1 seen:0 love:0 classic:0 
+1036 | 72 | 7438 | 1 | None |  | dvd:1 good:0 murder:1 assassin:0 great:1 leon:0 martial:1 kirsten:0 action:1 seen:0 classic:0 
+1037 | 72 | 59725 | 0 | None | None | 
+1038 | 72 | 6377 | 2 | None |  | relationship:0 screen:0 based:0 dvd:1 award:0 features:0 seen:0 animation:1 classic:1 
+1039 | 72 | 150 | 0 | None | None | 
+1040 | 72 | 6365 | 1 | None |  | booth:0 based:0 imdb:0 book:0 great:1 sci-fi:1 reeves:1 smith:0 evil:0 fantasy:0 action:1 com:0 
+1041 | 72 | 2124 | 1 | None |  | uncle:0 based:0 dvd:0 nudity:0 good:1 book:0 charles:0 illusionist:0 resistance:0 fight:0 classic:1 
+1042 | 72 | 2160 | 0 | None | None | 
+1043 | 72 | 6534 | 2 | None |  | blind:0 tissue:0 dvd:1 good:0 book:0 action:1 father:0 nerd:0 breakthrough:0 aviator:0 seen:0 
+1044 | 72 | 59784 | 1 | None |  | cooking:0 refresh:0 human:0 lifestyle:0 vegan:0 horror:0 
+1045 | 74 | Dido | 1 | None |  | jazz:0 favorite:0 pop:1 artists:0 female:1 singer-songwriter:0 seen:0 vocalist:0 
+1046 | 73 | 33493 | 2 | None | sith;vader | george:0 good:0 jackson:0 cinema:1 darth:1 skywalker:1 anakin:1 award:0 action:0 saturn:0 com:0 seen:0 
+1047 | 74 | Ricky+Martin | 1 | None |  | favorite:0 female:0 latin:1 love:0 dance:0 indie:0 american:0 alternative:1 
+1048 | 74 | Coldplay | 1 | None |  | good:0 live:1 british:0 listening:0 electronic:0 pop:1 love:0 
+1049 | 73 | 45499 | 1 | None | wolverine;cyclops | genetics:1 comic:0 marvel:1 mckellen:0 biology:0 based:0 dvd:0 hugh:1 miracle:0 foster:0 adaptation:1 nudity:0 good:0 
+1050 | 74 | Queen | 2 | None | may;brian;roger;taylor;  | classic:1 rock:1 freddie:1 mercury:1 80s:1 glam:0 
+1051 | 73 | 6539 | 1 | None |  | swashbuckling:1 pirates:1 wolski:0 jack:1 oscar:0 based:0 dvd:0 good:0 cinema:0 action:0 classic:0 
+1052 | 74 | Jason+Mraz | 0 | None | None | 
+1053 | 73 | 208 | 0 | None | None | 
+1054 | 74 | Xuxa | 1 | None |  | live:0 roda:0 pobre:0 nacional:1 pop:0 seen:0 vocalist:0 american:0 rock:0 
+1055 | 74 | John+Legend | 0 | None | None | 
+1056 | 73 | 648 | 1 | None |  | mole:0 espionage:1 based:0 dvd:0 good:0 easily:0 futuristic-movie:1 brian:0 own:0 jean:0 clouseau:0 classic:0 
+1057 | 74 | Michael+Jackson | 2 | None | pop; | hop:0 hip:0 rap:0 punk:0 jazz:0 rock:0 
+1058 | 73 | 592 | 1 | None |  | oscar:0 booth:0 bruce:1 mask:0 joker:1 wayne:1 atmospheric:0 super-hero:1 york:0 based:0 dvd:0 adaptation:1 action:0 
+1059 | 74 | Linkin+Park | 1 | None |  | death:0 metal:0 new:1 punk:0 favorite:0 pop:1 artists:0 vocalist:0 indie:0 
+1060 | 74 | Leonard+Cohen | 0 | None | None | 
+1061 | 73 | 596 | 0 | None | None | 
+1062 | 74 | 30+Seconds+to+Mars | 0 | None | None | 
+1063 | 74 | Ivete+Sangalo | 1 | None |  | gosto:0 brasil:1 lixo:0 brazilian:1 macumba:0 live:0 favorite:0 vocalist:0 alternative:0 rock:0 
+1064 | 73 | 8360 | 1 | None |  | based:0 dvd:0 prince:1 book:0 features:0 seen:0 comedy:1 antonio:1 cameron:1 animation:1 
+1065 | 74 | Miley+Cyrus | 1 | None | crazy | things:0 brutal:0 soundtrack:0 pop:1 female:1 seen:0 vocalist:0 alternative:0 rock:0 
+1066 | 73 | 6874 | 1 | None |  | dvd:0 good:0 thurman:1 murder:1 tense:1 killer:1 watch:0 protagonist:0 imdb:0 science:0 assassin:1 cinema:0 seen:0 
+1067 | 74 | Cazuza | 2 | None |  | brazilian:1 pop:1 barao-vermelho:1 rock:1 
+1068 | 73 | 2023 | 1 | None |  | coppola:1 keaton:0 sofia:0 diane:0 ford:1 corleone:1 francis:0 oscar:0 bruce:0 nudity:0 good:0 imdb:0 seen:0 
+1069 | 73 | 253 | 1 | None |  | oscar:0 dunst:0 series:0 gothic:1 good:0 louis:0 7n:0 vampire:1 book:0 brad:1 banderas:0 seen:0 love:0 classic:0 
+1070 | 74 | Foo+Fighters | 2 | None | drum;dave;grohl | live:0 pop:0 seen:0 thrash:0 alternative:1 rock:1 
+1071 | 73 | 7438 | 1 | None |  | dvd:0 good:0 murder:1 assassin:1 great:0 leon:0 martial:1 kirsten:0 action:1 seen:0 classic:0 
+1072 | 74 | Amy+Winehouse | 1 | None | singer | soul:0 british:1 jazz:1 favorite:0 pop:1 grozaca:0 vocalist:0 deepsoul:0 blues:0 indie:0 alternative:1 
+1073 | 73 | 59725 | 0 | None | None | 
+1074 | 73 | 6377 | 1 | None |  | relationship:0 screen:0 based:0 dvd:0 award:0 features:0 seen:0 animation:1 classic:0 
+1075 | 74 | Stevie+Wonder | 2 | None | piano | hop:0 hip:0 live:1 california:0 argeu:0 vocalist:0 reggae:0 wilson:0 don:0 seixas:0 alternative:0 crowley:0 rock:0 
+1076 | 74 | Alanis+Morissette | 1 | None |  | live:0 favorite:0 pop:1 female:1 singer-songwriter:0 love:0 rock:0 
+1077 | 73 | 150 | 1 | None |  | end:0 howard:1 jim:1 best:0 based:0 imdb:0 futuristic-movie:1 biopic:0 action:0 seen:0 comedy:0 classic:1 
+1078 | 73 | 6365 | 1 | None |  | booth:0 based:0 imdb:0 book:0 great:0 sci-fi:1 reeves:1 smith:1 evil:0 fantasy:1 action:1 com:0 
+1079 | 73 | 2124 | 0 | None | None | 
+1080 | 73 | 2160 | 0 | None | None | 
+1081 | 73 | 6534 | 1 | None |  | blind:0 tissue:0 dvd:0 good:0 book:0 action:1 father:0 nerd:1 breakthrough:0 aviator:0 seen:0 
+1082 | 73 | 59784 | 1 | None |  | cooking:0 refresh:0 human:0 lifestyle:0 vegan:0 horror:0 
+1083 | 74 | Scorpions | 2 | None | germany;hannover;schenker;meine;jabs;hurricane;hard-rock;heavy-metal; | metal:1 live:1 electronic:0 california:0 argeu:0 boa:0 seen:0 crowley:0 rock:1 
+1084 | 75 | Dido | 0 | None | None | 
+1085 | 75 | Ricky+Martin | 1 | None |  | favorite:0 female:0 latin:1 love:0 dance:1 indie:0 american:0 alternative:0 
+1086 | 74 | Engenheiros+do+Hawaii | 2 | None | pouca-vogal; | brazilian:1 porto-alegre:1 humberto:1 gessinger:1 progressive:0 alternative:1 rock:1 
+1087 | 75 | Coldplay | 1 | None |  | good:0 live:0 british:1 listening:0 electronic:1 pop:1 love:0 
+1088 | 75 | Queen | 2 | None |  | classic:1 rock:1 freddie:1 mercury:1 80s:1 glam:0 
+1089 | 75 | Jason+Mraz | 1 | None |  | allsop:0 new:0 pop:1 seen:0 love:0 indie:1 rock:0 
+1090 | 75 | Xuxa | 0 | None | None | 
+1091 | 75 | John+Legend | 0 | None | None | 
+1092 | 75 | Michael+Jackson | 1 | None |  | hop:0 hip:0 rap:0 punk:0 jazz:0 rock:0 
+1093 | 75 | Linkin+Park | 1 | None |  | death:0 metal:0 new:0 punk:0 favorite:0 pop:1 artists:0 vocalist:0 indie:0 
+1094 | 75 | Leonard+Cohen | 0 | None | None | 
+1095 | 75 | 30+Seconds+to+Mars | 0 | None | None | 
+1096 | 75 | Ivete+Sangalo | 1 | None |  | gosto:0 brasil:1 lixo:0 brazilian:1 macumba:0 live:0 favorite:0 vocalist:1 alternative:0 rock:0 
+1097 | 75 | Miley+Cyrus | 0 | None | None | 
+1098 | 75 | Cazuza | 2 | None |  | brazilian:1 pop:1 barao-vermelho:1 rock:1 
+1099 | 75 | Foo+Fighters | 1 | None |  | live:0 pop:0 seen:0 thrash:0 alternative:0 rock:1 
+1100 | 75 | Amy+Winehouse | 0 | None | None | 
+1101 | 75 | Stevie+Wonder | 0 | None | None | 
+1102 | 75 | Alanis+Morissette | 0 | None | None | 
+1103 | 75 | Scorpions | 1 | None |  | metal:0 live:0 electronic:0 california:0 argeu:0 boa:0 seen:0 crowley:0 rock:1 
+1104 | 75 | Engenheiros+do+Hawaii | 1 | None |  | brazilian:1 porto-alegre:1 humberto:1 gessinger:1 progressive:1 alternative:1 rock:1 
+1105 | 76 | 33493 | 1 | None |  | george:0 good:0 jackson:0 cinema:0 darth:1 skywalker:0 anakin:1 award:0 action:0 saturn:0 com:0 seen:0 
+1106 | 76 | 45499 | 1 | None |  | genetics:0 comic:0 marvel:1 mckellen:0 biology:0 based:0 dvd:0 hugh:0 miracle:0 foster:0 adaptation:0 nudity:0 good:0 
+1107 | 76 | 6539 | 1 | None |  | swashbuckling:0 pirates:1 wolski:0 jack:1 oscar:0 based:0 dvd:0 good:0 cinema:0 action:0 classic:0 
+1108 | 76 | 208 | 0 | None | None | 
+1109 | 76 | 648 | 0 | None | None | 
+1110 | 76 | 592 | 1 | None |  | oscar:0 booth:0 bruce:1 mask:0 joker:1 wayne:1 atmospheric:0 super-hero:1 york:0 based:0 dvd:0 adaptation:0 action:0 
+1111 | 76 | 596 | 1 | None |  | oscar:0 based:0 dvd:0 muppets:1 features:0 national:0 seen:0 puppet:0 musical:0 disney:1 
+1112 | 76 | 8360 | 1 | None |  | based:0 dvd:0 prince:1 book:0 features:0 seen:0 comedy:1 antonio:1 cameron:1 animation:1 
+1113 | 76 | 6874 | 1 | None |  | dvd:0 good:0 thurman:1 murder:1 tense:0 killer:1 watch:0 protagonist:0 imdb:0 science:0 assassin:1 cinema:0 seen:0 
+1114 | 76 | 2023 | 1 | None |  | coppola:1 keaton:0 sofia:0 diane:0 ford:0 corleone:1 francis:0 oscar:1 bruce:0 nudity:1 good:0 imdb:0 seen:0 
+1115 | 76 | 253 | 1 | None |  | oscar:0 dunst:0 series:0 gothic:0 good:0 louis:1 7n:0 vampire:1 book:0 brad:1 banderas:0 seen:0 love:0 classic:1 
+1116 | 76 | 7438 | 1 | None |  | dvd:0 good:0 murder:1 assassin:1 great:0 leon:0 martial:0 kirsten:0 action:0 seen:0 classic:0 
+1117 | 76 | 59725 | 1 | None |  | oscar:0 series:0 relationship:1 steve:0 failed:0 brooklyn:0 test:0 cold:0 friends:1 dvd:0 good:0 seen:0 comedy:1 
+1118 | 76 | 6377 | 1 | None | nemo; fish; pixar | relationship:0 screen:0 based:0 dvd:0 award:0 features:0 seen:0 animation:1 classic:0 
+1119 | 76 | 150 | 0 | None | None | 
+1120 | 76 | 6365 | 2 | None | neo | booth:0 based:0 imdb:0 book:0 great:0 sci-fi:1 reeves:1 smith:1 evil:0 fantasy:0 action:0 com:0 
+1121 | 76 | 2124 | 1 | None | commedy; hand | uncle:1 based:0 dvd:0 nudity:0 good:0 book:0 charles:0 illusionist:0 resistance:0 fight:0 classic:0 
+1122 | 76 | 2160 | 0 | None | None | 
+1123 | 76 | 6534 | 2 | None | scientist; hero; experiment; green | blind:0 tissue:0 dvd:0 good:0 book:0 action:0 father:0 nerd:0 breakthrough:0 aviator:0 seen:0 
+1124 | 76 | 59784 | 1 | None | panda; kung fu; animals | cooking:0 refresh:0 human:0 lifestyle:0 vegan:0 horror:0 
+1125 | 77 | 33493 | 2 | None | ficçao | george:1 good:0 jackson:0 cinema:0 darth:1 skywalker:0 anakin:0 award:0 action:1 saturn:0 com:0 seen:0 
+1126 | 77 | 45499 | 1 | None | heros | genetics:1 comic:1 marvel:1 mckellen:0 biology:1 based:0 dvd:0 hugh:0 miracle:0 foster:0 adaptation:1 nudity:0 good:0 
+1127 | 77 | 6539 | 2 | None |  | swashbuckling:0 pirates:1 wolski:0 jack:1 oscar:0 based:0 dvd:0 good:0 cinema:0 action:1 classic:0 
+1128 | 77 | 208 | 1 | None | sea | pirates:0 based:0 dvd:0 good:0 mutant:1 budget:0 reality:0 book:0 future:1 spaceship:0 action:1 com:0 seen:0 
+1129 | 77 | 648 | 1 | None |  | mole:0 espionage:1 based:0 dvd:0 good:0 easily:0 futuristic-movie:0 brian:0 own:0 jean:0 clouseau:0 classic:0 
+1130 | 77 | 592 | 1 | None | gotham | oscar:0 booth:0 bruce:1 mask:0 joker:0 wayne:1 atmospheric:0 super-hero:1 york:0 based:0 dvd:0 adaptation:0 action:1 
+1131 | 77 | 596 | 1 | None |  | oscar:0 based:0 dvd:0 muppets:0 features:0 national:0 seen:0 puppet:0 musical:0 disney:1 
+1132 | 77 | 8360 | 2 | None | Fiona;Ogre | based:0 dvd:0 prince:1 book:0 features:0 seen:0 comedy:1 antonio:0 cameron:0 animation:1 
+1133 | 77 | 6874 | 2 | None |  | dvd:0 good:0 thurman:1 murder:0 tense:0 killer:1 watch:0 protagonist:0 imdb:0 science:0 assassin:1 cinema:0 seen:0 
+1134 | 77 | 2023 | 0 | None | None | 
+1135 | 77 | 253 | 1 | None |  | oscar:0 dunst:0 series:0 gothic:1 good:0 louis:0 7n:0 vampire:1 book:0 brad:1 banderas:0 seen:0 love:0 classic:0 
+1136 | 77 | 7438 | 2 | None |  | dvd:0 good:0 murder:1 assassin:1 great:0 leon:0 martial:1 kirsten:0 action:0 seen:0 classic:0 
+1137 | 77 | 59725 | 2 | None | Carrie;Bradshaw | oscar:0 series:1 relationship:1 steve:0 failed:0 brooklyn:0 test:0 cold:0 friends:1 dvd:0 good:0 seen:0 comedy:1 
+1138 | 77 | 6377 | 2 | None | sea, father | relationship:1 screen:0 based:0 dvd:0 award:0 features:0 seen:0 animation:1 classic:0 
+1139 | 77 | 150 | 0 | None | None | 
+1140 | 77 | 6365 | 1 | None |  | booth:0 based:0 imdb:0 book:0 great:0 sci-fi:1 reeves:0 smith:0 evil:0 fantasy:0 action:1 com:0 
+1141 | 77 | 2124 | 1 | None | weird | uncle:1 based:0 dvd:0 nudity:0 good:0 book:0 charles:0 illusionist:0 resistance:0 fight:0 classic:0 
+1142 | 77 | 2160 | 0 | None | None | 
+1143 | 77 | 6534 | 1 | None |  | blind:0 tissue:0 dvd:0 good:0 book:0 action:0 father:0 nerd:1 breakthrough:0 aviator:0 seen:0 
+1144 | 77 | 59784 | 0 | None | None | 
+1145 | 77 | 1721 | 2 | None |  | oscar:0 test:0 dvd:0 chick:0 dicaprio:1 good:0 titanic:1 romance:1 seen:0 classic:0 
+1146 | 77 | 5952 | 2 | None | frodo | adaptation:0 hobbits:1 tolkien:0 fantasy:1 action:1 classic:0 
+1147 | 77 | 4367 | 0 | None | None | 
+1148 | 77 | 8361 | 1 | None |  | disaster:1 post-apocalypt:0 day:0 doris:0 based:0 dvd:0 good:0 romance:0 science:1 cinema:0 action:1 seen:0 classic:0 
+1149 | 77 | 1544 | 2 | None |  Dinosaurs | genetics:1 michael:0 ian:0 based:0 dvd:0 good:0 own:0 steven:0 action:1 classic:0 
+1150 | 77 | 40815 | 2 | None | hermine;spell;magic | oscar:0 school:1 ron:1 potter:1 author:0 dvd:0 fiona:0 thompson:0 own:0 evil:0 action:0 seen:0 
+1151 | 77 | 4310 | 0 | None | None | 
+1152 | 77 | 34162 | 0 | None | None | 
+1153 | 77 | 39183 | 1 | None |  | jack:0 oscar:0 relationship:1 mountain:0 library:0 said:0 del:0 nudity:0 good:0 imdb:0 classic:0 
+1154 | 77 | 1580 | 2 | None |  | science:1 futuristic-movie:1 jones:0 space:0 aliens:1 smith:1 award:0 action:1 seen:0 comedy:0 
+1155 | 77 | 4370 | 1 | None |  | oscar:0 good:0 futuristic-movie:0 own:0 steven:0 aidan:0 robot:0 tale:0 stanley:0 com:0 seen:0 classic:0 
+1156 | 77 | 1035 | 1 | None |  | failed:0 registry:0 julie:0 von:0 dvd:0 clergi:1 robert:0 war:0 seen:0 musical:1 classic:1 
+1157 | 77 | 1748 | 0 | None | None | 
+1158 | 77 | 1345 | 1 | None |  | lib:0 veggie:0 jokes:0 confusion:1 carry:1 atmospheric:0 john:0 based:0 dvd:0 good:0 book:0 brian:0 teen:1 comedy:0 
+1159 | 77 | 56145 | 0 | None | None | 
+1160 | 77 | 52458 | 0 | None | None | 
+1161 | 77 | 26680 | 0 | None | None | 
+1162 | 77 | 3108 | 0 | None | None | 
+1163 | 77 | 5991 | 1 | None |  | zeta-jon:0 lawyer:0 oscar:0 time:0 dvd:0 book:0 drama:0 seen:0 musical:1 
+1164 | 77 | 6281 | 2 | None | phone;shooter | super-hero:0 soundtrack:0 dvd:0 good:0 own:0 reeves:0 seen:0 wants:0 nicholson:0 forest:0 farrell:0 whitaker:0 
+1165 | 78 | Dido | 0 | None | None | 
+1166 | 78 | Ricky+Martin | 0 | None | None | 
+1167 | 78 | Coldplay | 0 | None | None | 
+1168 | 78 | Queen | 0 | None | None | 
+1169 | 78 | Jason+Mraz | 0 | None | None | 
+1170 | 78 | Xuxa | 1 | None |  | live:0 roda:0 pobre:0 nacional:1 pop:1 seen:0 vocalist:0 american:0 rock:0 
+1171 | 78 | John+Legend | 0 | None | None | 
+1172 | 78 | Michael+Jackson | 1 | None |  | hop:0 hip:0 rap:0 punk:0 jazz:0 rock:0 
+1173 | 78 | Linkin+Park | 0 | None | None | 
+1174 | 78 | Leonard+Cohen | 0 | None | None | 
+1175 | 78 | 30+Seconds+to+Mars | 0 | None | None | 
+1176 | 78 | Ivete+Sangalo | 1 | None |  | gosto:0 brasil:1 lixo:0 brazilian:1 macumba:0 live:0 favorite:0 vocalist:0 alternative:0 rock:0 
+1177 | 78 | Miley+Cyrus | 0 | None | None | 
+1178 | 78 | Cazuza | 1 | None |  | brazilian:1 pop:1 barao-vermelho:1 rock:1 
+1179 | 78 | Foo+Fighters | 0 | None | None | 
+1180 | 78 | Amy+Winehouse | 0 | None | None | 
+1181 | 78 | Stevie+Wonder | 0 | None | None | 
+1182 | 78 | Alanis+Morissette | 0 | None | None | 
+1183 | 78 | Scorpions | 0 | None | None | 
+1184 | 78 | Engenheiros+do+Hawaii | 0 | None | None | 
+1185 | 80 | 33493 | 0 | None | None | 
+1186 | 80 | 45499 | 1 | None | mutant | genetics:0 comic:1 marvel:1 mckellen:0 biology:0 based:0 dvd:0 hugh:0 miracle:0 foster:0 adaptation:0 nudity:0 good:0 
+1187 | 80 | 6539 | 1 | None | sea; adventure | swashbuckling:0 pirates:1 wolski:0 jack:1 oscar:0 based:0 dvd:0 good:0 cinema:1 action:1 classic:0 
+1188 | 80 | 208 | 0 | None | None | 
+1189 | 80 | 648 | 0 | None | None | 
+1190 | 80 | 592 | 1 | None |  | oscar:0 booth:0 bruce:1 mask:0 joker:0 wayne:1 atmospheric:0 super-hero:1 york:0 based:0 dvd:0 adaptation:0 action:1 
+1191 | 80 | 596 | 0 | None | None | 
+1192 | 80 | 8360 | 2 | None | ogre; fairy tale | based:0 dvd:0 prince:1 book:0 features:0 seen:0 comedy:1 antonio:0 cameron:0 animation:1 
+1193 | 80 | 6874 | 0 | None | None | 
+1194 | 80 | 2023 | 0 | None | None | 
+1195 | 80 | 253 | 0 | None | None | 
+1196 | 80 | 7438 | 0 | None | None | 
+1197 | 80 | 59725 | 0 | None | None | 
+1198 | 80 | 6377 | 2 | None | fish; nemo; sea; lost; adventure | relationship:0 screen:0 based:0 dvd:0 award:0 features:0 seen:0 animation:1 classic:1 
+1199 | 80 | 150 | 0 | None | None | 
+1200 | 80 | 6365 | 1 | None |  | booth:0 based:0 imdb:0 book:0 great:0 sci-fi:1 reeves:0 smith:0 evil:0 fantasy:1 action:1 com:0 
+1201 | 80 | 2124 | 0 | None | None | 
+1202 | 80 | 2160 | 0 | None | None | 
+1203 | 80 | 6534 | 1 | None | monster; mutant; strength  | blind:0 tissue:0 dvd:0 good:0 book:0 action:1 father:0 nerd:0 breakthrough:0 aviator:0 seen:0 
+1204 | 80 | 59784 | 2 | None | panda; animal; kung fu; fight; animation  | cooking:1 refresh:0 human:0 lifestyle:0 vegan:0 horror:0 
+1205 | 81 | 33493 | 2 | None |  | george:0 good:0 jackson:0 cinema:1 darth:0 skywalker:1 anakin:1 award:0 action:0 saturn:0 com:0 seen:0 
+1206 | 81 | 45499 | 1 | None |  | genetics:0 comic:0 marvel:1 mckellen:0 biology:0 based:0 dvd:0 hugh:0 miracle:0 foster:0 adaptation:0 nudity:0 good:0 
+1207 | 81 | 6539 | 2 | None |  | swashbuckling:0 pirates:1 wolski:0 jack:1 oscar:0 based:0 dvd:0 good:0 cinema:1 action:1 classic:0 
+1208 | 81 | 208 | 0 | None | None | 
+1209 | 81 | 648 | 2 | None | action | mole:0 espionage:1 based:0 dvd:0 good:0 easily:0 futuristic-movie:0 brian:0 own:0 jean:0 clouseau:0 classic:0 
+1210 | 81 | 592 | 2 | None |  | oscar:0 booth:0 bruce:1 mask:0 joker:1 wayne:1 atmospheric:0 super-hero:1 york:0 based:0 dvd:0 adaptation:0 action:0 
+1211 | 81 | 596 | 1 | None | cartoon | oscar:0 based:0 dvd:0 muppets:0 features:0 national:0 seen:0 puppet:0 musical:0 disney:1 
+1212 | 81 | 8360 | 2 | None |  | based:0 dvd:0 prince:0 book:0 features:0 seen:0 comedy:1 antonio:0 cameron:0 animation:1 
+1213 | 81 | 6874 | 2 | None |  | dvd:0 good:0 thurman:0 murder:0 tense:0 killer:1 watch:0 protagonist:0 imdb:0 science:0 assassin:0 cinema:1 seen:0 
+1214 | 81 | 2023 | 2 | None |  | coppola:1 keaton:0 sofia:0 diane:0 ford:0 corleone:1 francis:1 oscar:0 bruce:0 nudity:0 good:0 imdb:0 seen:0 
+1215 | 81 | 253 | 2 | None |  | oscar:0 dunst:0 series:0 gothic:1 good:0 louis:0 7n:0 vampire:1 book:0 brad:0 banderas:0 seen:0 love:0 classic:1 
+1216 | 81 | 7438 | 2 | None |  | dvd:0 good:0 murder:1 assassin:0 great:0 leon:0 martial:1 kirsten:0 action:1 seen:0 classic:0 
+1217 | 81 | 59725 | 1 | None |  | oscar:0 series:0 relationship:1 steve:0 failed:0 brooklyn:0 test:0 cold:0 friends:1 dvd:0 good:0 seen:0 comedy:0 
+1218 | 81 | 6377 | 2 | None |  | relationship:0 screen:0 based:0 dvd:0 award:0 features:0 seen:0 animation:1 classic:0 
+1219 | 81 | 150 | 0 | None | None | 
+1220 | 81 | 6365 | 2 | None |  | booth:0 based:0 imdb:0 book:0 great:0 sci-fi:1 reeves:1 smith:0 evil:0 fantasy:0 action:1 com:0 
+1221 | 81 | 2124 | 2 | None |  | uncle:0 based:0 dvd:0 nudity:0 good:0 book:0 charles:0 illusionist:0 resistance:0 fight:0 classic:1 
+1222 | 81 | 2160 | 0 | None | None | 
+1223 | 81 | 6534 | 0 | None | None | 
+1224 | 81 | 59784 | 2 | None | animation;comedy | cooking:0 refresh:0 human:0 lifestyle:0 vegan:0 horror:0 
+1225 | 82 | Dido | 0 | None | None | 
+1226 | 82 | Ricky+Martin | 2 | None |  | favorite:0 female:0 latin:1 love:0 dance:1 indie:0 american:0 alternative:0 
+1227 | 82 | Coldplay | 2 | None |  | good:0 live:0 british:0 listening:0 electronic:0 pop:1 love:1 
+1228 | 82 | Queen | 2 | None |  | classic:1 rock:1 freddie:1 mercury:1 80s:1 glam:0 
+1229 | 82 | Jason+Mraz | 2 | None |  | allsop:0 new:0 pop:1 seen:0 love:1 indie:0 rock:0 
+1230 | 82 | Xuxa | 2 | None |  | live:1 roda:0 pobre:0 nacional:1 pop:0 seen:0 vocalist:1 american:0 rock:0 
+1231 | 82 | John+Legend | 2 | None |  | tych:0 na:0 soul:1 hop:0 posluchac:0 artists:1 seen:0 alternative:0 classic:0 
+1232 | 82 | Michael+Jackson | 2 | None | dance;pop;singer | hop:0 hip:0 rap:0 punk:0 jazz:0 rock:0 
+1233 | 82 | Linkin+Park | 2 | None | rock | death:0 metal:0 new:0 punk:0 favorite:0 pop:0 artists:0 vocalist:0 indie:0 
+1234 | 82 | Leonard+Cohen | 0 | None | None | 
+1235 | 82 | 30+Seconds+to+Mars | 2 | None | rock | norweski:0 punishment:0 norweskich:0 listening:0 new:0 jazz:0 kalectwem:0 najsurowszi:0 favourite:0 screamo:0 grozaca:0 male:0 latin:0 indie:0 american:1 
+1236 | 82 | Ivete+Sangalo | 2 | None |  | gosto:0 brasil:1 lixo:0 brazilian:1 macumba:0 live:1 favorite:0 vocalist:1 alternative:0 rock:0 
+1237 | 82 | Miley+Cyrus | 2 | None |  | things:0 brutal:0 soundtrack:0 pop:1 female:1 seen:0 vocalist:1 alternative:0 rock:0 
+1238 | 82 | Cazuza | 2 | None |  | brazilian:1 pop:0 barao-vermelho:1 rock:1 
+1239 | 82 | Foo+Fighters | 2 | None |  | live:1 pop:0 seen:0 thrash:0 alternative:0 rock:1 
+1240 | 82 | Amy+Winehouse | 2 | None |  | soul:1 british:1 jazz:0 favorite:0 pop:1 grozaca:0 vocalist:1 deepsoul:1 blues:0 indie:1 alternative:1 
+1241 | 82 | Stevie+Wonder | 2 | None | soul | hop:0 hip:0 live:0 california:0 argeu:0 vocalist:1 reggae:0 wilson:0 don:0 seixas:0 alternative:1 crowley:0 rock:0 
+1242 | 82 | Alanis+Morissette | 2 | None |  | live:0 favorite:0 pop:1 female:1 singer-songwriter:1 love:0 rock:1 
+1243 | 82 | Scorpions | 2 | None |  | metal:1 live:1 electronic:0 california:0 argeu:0 boa:0 seen:0 crowley:0 rock:1 
+1244 | 82 | Engenheiros+do+Hawaii | 2 | None |  | brazilian:1 porto-alegre:1 humberto:1 gessinger:1 progressive:1 alternative:1 rock:1 
+1245 | 83 | 33493 | 1 | None |  | george:0 good:1 jackson:0 cinema:1 darth:1 skywalker:1 anakin:1 award:0 action:0 saturn:0 com:0 seen:0 
+1246 | 83 | 45499 | 2 | None |  | genetics:0 comic:1 marvel:1 mckellen:0 biology:0 based:0 dvd:0 hugh:0 miracle:0 foster:0 adaptation:1 nudity:0 good:0 
+1247 | 83 | 6539 | 0 | None | None | 
+1248 | 83 | 208 | 0 | None | None | 
+1249 | 83 | 648 | 1 | None |  | mole:0 espionage:1 based:0 dvd:0 good:0 easily:0 futuristic-movie:0 brian:0 own:0 jean:0 clouseau:0 classic:1 
+1250 | 83 | 592 | 1 | None |  | oscar:0 booth:0 bruce:1 mask:0 joker:1 wayne:1 atmospheric:0 super-hero:1 york:0 based:0 dvd:0 adaptation:0 action:1 
+1251 | 83 | 596 | 2 | None |  | oscar:0 based:0 dvd:0 muppets:0 features:0 national:0 seen:0 puppet:0 musical:0 disney:1 
+1252 | 83 | 8360 | 2 | None |  | based:0 dvd:0 prince:1 book:0 features:0 seen:0 comedy:1 antonio:0 cameron:0 animation:1 
+1253 | 83 | 6874 | 2 | None |  | dvd:0 good:0 thurman:0 murder:0 tense:1 killer:1 watch:0 protagonist:0 imdb:0 science:0 assassin:1 cinema:1 seen:0 
+1254 | 83 | 2023 | 0 | None | None | 
+1255 | 83 | 253 | 0 | None | None | 
+1256 | 83 | 7438 | 2 | None | violência; luta; traição | dvd:0 good:1 murder:0 assassin:1 great:0 leon:0 martial:1 kirsten:0 action:1 seen:0 classic:1 
+1257 | 83 | 59725 | 0 | None | None | 
+1258 | 83 | 6377 | 1 | None |  | relationship:1 screen:0 based:0 dvd:0 award:1 features:0 seen:0 animation:1 classic:0 
+1259 | 83 | 150 | 0 | None | None | 
+1260 | 83 | 6365 | 2 | None |  | booth:0 based:0 imdb:0 book:0 great:0 sci-fi:1 reeves:0 smith:1 evil:0 fantasy:1 action:0 com:0 
+1261 | 83 | 2124 | 1 | None |  | uncle:1 based:0 dvd:0 nudity:0 good:1 book:1 charles:0 illusionist:0 resistance:0 fight:0 classic:1 
+1262 | 83 | 2160 | 0 | None | None | 
+1263 | 83 | 6534 | 1 | None |  | blind:0 tissue:0 dvd:0 good:0 book:1 action:0 father:1 nerd:1 breakthrough:0 aviator:0 seen:0 
+1264 | 83 | 59784 | 2 | None | artes marciais; animação | cooking:1 refresh:0 human:0 lifestyle:0 vegan:0 horror:0 

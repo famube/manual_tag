@@ -1,0 +1,34 @@
+190 | 20 | 648 | 1 | None |  | easily:0 good:0 based:0 classic:0 dvd:0 futuristic-movie:0 brian:0 own:0 jean:0 clouseau:0 mole:1 espionage:1 
+191 | 20 | 592 | -1 | None |  | booth:0 based:0 bruce:1 oscar:0 mask:0 joker:1 wayne:1 adaptation:0 dvd:0 action:1 atmospheric:0 super-hero:1 york:0 
+192 | 20 | 596 | 2 | None | pinnochio whale gepeto  | muppets:0 based:0 features:0 oscar:0 national:0 puppet:1 dvd:0 seen:0 musical:0 disney:1 
+193 | 20 | 8360 | 2 | None | ogre | comedy:1 based:0 features:0 dvd:0 antonio:1 book:0 cameron:0 seen:0 animation:0 prince:0 
+194 | 20 | 6874 | -1 | None |  | 
+195 | 20 | 2023 | -1 | None |  | good:0 coppola:0 bruce:0 oscar:0 keaton:0 sofia:0 diane:0 ford:0 corleone:0 imdb:0 nudity:0 seen:0 francis:0 
+196 | 20 | 253 | -1 | None |  | good:0 love:0 dunst:0 classic:0 series:0 louis:0 7n:0 vampire:0 seen:0 book:0 gothic:0 brad:0 banderas:0 oscar:0 
+197 | 20 | 7438 | -1 | None |  | great:0 murder:0 classic:0 dvd:0 leon:0 martial:0 good:0 action:0 seen:0 assassin:0 kirsten:0 
+198 | 20 | 59725 | -1 | None |  | good:0 relationship:0 dvd:0 steve:0 failed:0 brooklyn:0 series:0 test:0 seen:0 cold:0 comedy:0 friends:0 oscar:0 
+199 | 20 | 6377 | 2 | None |  | 
+200 | 20 | 150 | 2 | None | space; nasa; tom hanks; moon | futuristic-movie:0 end:0 howard:0 jim:0 biopic:0 imdb:0 classic:0 action:0 seen:0 comedy:0 best:0 based:0 
+201 | 21 | Dido | 1 | None | English | jazz:1 favorite:0 pop:1 artists:0 female:1 singer-songwriter:0 seen:0 vocalist:0 
+202 | 21 | Ricky+Martin | 2 | None | Menudo | latin:1 love:1 dance:1 favorite:0 indie:0 american:0 female:0 alternative:0 
+203 | 21 | Coldplay | 2 | None | Olympics | good:1 love:1 american:0 pop:1 norwegian:0 live:0 british:1 listening:0 electronic:1 
+204 | 21 | Fatboy+Slim | 0 | None |  | 
+205 | 21 | Queen | 2 | None | best bands; all time | classic:1 rock:1 freddie:0 mercury:1 80s:1 glam:0 
+206 | 21 | Creed | 0 | None |  | 
+207 | 21 | Jason+Mraz | 1 | None |  | love:1 indie:1 rock:0 allsop:0 pop:1 new:0 seen:0 
+208 | 21 | Xuxa | 2 | None |  | roda:1 merda:0 pobre:0 pop:1 nacional:1 seen:0 live:0 que:0 rock:0 american:0 macumba:0 vocalist:0 
+209 | 21 | John+Legend | 2 | None | oscar; grammy | classic:0 tych:0 na:0 artists:0 soul:1 hop:1 posluchac:0 seen:0 alternative:1 
+210 | 21 | Michael+Jackson | 2 | None |  | hip:0 hop:0 rap:0 rock:0 punk:0 jazz:0 
+211 | 21 | Linkin+Park | 1 | None |  | death:0 punk:1 indie:0 metal:1 favorite:0 pop:1 artists:0 new:1 vocalist:0 
+212 | 21 | Leonard+Cohen | -1 | None |  | 
+213 | 21 | 30+Seconds+to+Mars | -1 | None |  | 
+214 | 21 | Ivete+Sangalo | 2 | None |  | gosto:0 brasil:1 rock:0 favorite:0 live:0 lixo:0 brazilian:1 alternative:1 macumba:0 vocalist:1 
+215 | 21 | Miley+Cyrus | 1 | None |  | things:0 brutal:0 soundtrack:0 pop:1 female:0 rock:0 seen:0 alternative:1 vocalist:0 
+216 | 21 | Cazuza | 2 | None |  | pop:1 rock:1 brazilian:1 barao-vermelho:1 
+217 | 21 | Foo+Fighters | 1 | None |  | pop:0 live:0 rock:1 thrash:0 seen:0 alternative:1 
+218 | 21 | Amy+Winehouse | 2 | None |  | deepsoul:1 blues:1 indie:1 jazz:1 favorite:1 soul:1 pop:0 british:1 grozaca:0 alternative:1 vocalist:1 
+219 | 21 | Stevie+Wonder | 2 | None |  | hip:0 reggae:1 wilson:0 don:0 live:0 seixas:0 crowley:0 california:0 hop:0 rock:0 alternative:1 argeu:0 vocalist:1 
+220 | 21 | Alanis+Morissette | 2 | None |  | love:1 favorite:1 pop:1 live:1 female:1 rock:1 singer-songwriter:1 
+221 | 24 | 1441 | 0 | None | None | 
+222 | 24 | 1013 | 0 | None | None | 
+223 | 24 | 33493 | 1 | None | None | 

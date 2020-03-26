@@ -5,13 +5,21 @@
 <script>
     function enableSending() {
         var html_str = ""
-        html_str += " <p></p> <h6> {{ questions.second }} </h6> <table> <tbody> <tr> {% for tag in obj.tags[:7] %} <td> <input type=\"checkbox\" id=\"id_{{ tag.string }}\" name=\"{{ tag.string }}\"> {{ tag.string }} </input> </td> {% endfor %} </tr>";
+        html_str += " <p></p> <h6> {{ questions.second }} </h6> <table> <tbody> <tr> {% for tag in obj.tags[:6] %} <td> <input type=\"checkbox\" id=\"id_{{ tag.string }}\" name=\"{{ tag.string }}\"> {{ tag.string }} </input> </td> {% endfor %} </tr>";
         
-        html_str += " <tr> {% for tag in obj.tags[7:] %} <td> <input type=\"checkbox\" id=\"id_{{ tag.string }}\" name=\"{{ tag.string }}\"> {{ tag.string }} </input> </td> {% endfor %} </tr> </table> </tbody> <p></p> ";
+        html_str += " <tr> {% for tag in obj.tags[6:12] %} <td> <input type=\"checkbox\" id=\"id_{{ tag.string }}\" name=\"{{ tag.string }}\"> {{ tag.string }} </input> </td> {% endfor %} </tr> </table> </tbody> <p></p> ";
+
+        html_str += " <tr> {% for tag in obj.tags[12:18] %} <td> <input type=\"checkbox\" id=\"id_{{ tag.string }}\" name=\"{{ tag.string }}\"> {{ tag.string }} </input> </td> {% endfor %} </tr> </table> </tbody> <p></p> ";
+
+        html_str += " <tr> {% for tag in obj.tags[18:24] %} <td> <input type=\"checkbox\" id=\"id_{{ tag.string }}\" name=\"{{ tag.string }}\"> {{ tag.string }} </input> </td> {% endfor %} </tr> </table> </tbody> <p></p> ";
+
+        html_str += " <tr> {% for tag in obj.tags[24:] %} <td> <input type=\"checkbox\" id=\"id_{{ tag.string }}\" name=\"{{ tag.string }}\"> {{ tag.string }} </input> </td> {% endfor %} </tr> </table> </tbody> <p></p> ";
+
+
         
-        html_str += " <h6> (Opcional) Inclua até 5 tags em inglês (palavras separadas por \";\") que você considera relevantes e que não foram citadas acima:</h6> ";
+        html_str += " <h6> (Opcional) Inclua até 5 palavras-chave separadas por \";\" que você considera relevantes e que não foram citadas acima:</h6> ";
         
-        html_str += "<p> Tags adicionais: <input id=\"addtags\" name=\"addtags\" type=\"text\" value=\"\"> </p>";
+        html_str += "<p> Palavras-chave adicionais: <input id=\"addtags\" name=\"addtags\" type=\"text\" value=\"\"> </p>";
         
         html_str += "<input id=\"submit\" name=\"submit\" type=\"submit\" value=\"Enviar\">"
         
@@ -42,6 +50,26 @@
         
           {% if obj.obj_type == "artist" %}
               <center><img class="img" src="{{ updated_info[3] }}"></center>
+
+          {% elif obj.obj_type == "product" %}
+              <table>
+              <col width="50%">
+              <tbody id= "img_tab">
+              <tr>
+              <td>
+                  <center><img class="img" src="{{ updated_info[3] }}"></center>
+              </td>
+
+              <td>
+                  {{ updated_info[4][:300] }}
+                  <h6> ... </h6>
+              </td>
+              </tr>
+              </tbody>
+              </table>
+
+               
+
           {% else %}
               <center><iframe width="560" height="315" src="https://www.youtube.com/embed/{{ updated_info[3] }}" frameborder="0" allowfullscreen></iframe></center>
           
@@ -50,6 +78,9 @@
           <p id="test"> </p>
           
           <form action="" method="post" name="evaluate">
+
+           {% if obj.obj_type != "product" %}
+
           <p>
           <h6> {{ questions.first }} </h6>
           </p>
@@ -74,11 +105,39 @@
               </tr>
               </table>
               </tbody>            
+      {% endif %}
 
       </section>
 
 
-<section id="second_part"> </section>
+<section id="second_part">
+
+{% if obj.obj_type == "product" %}
+
+        <p></p> <h6> {{ questions.second }} </h6> <table> <tbody>
+
+        {% for i in range(0, 47, 3) %}
+
+        <tr> {% for tag in obj.tags[i:i+3] %} <td> <input type="checkbox" id="id_{{ tag.string }}" name="{{ tag.string }}"> {{ tag.string }} </input> </td> {% endfor %} 
+        </tr>
+        {% endfor %}
+
+
+        </tbody> </table> <p></p>
+
+
+
+        <h6> (Opcional) Inclua até 5 palavras-chave separadas por ";" que você considera relevantes e que não foram citadas acima:</h6>
+
+        <p> Palavras-chave adicionais: <input id="addtags" name="addtags" type="text" value=""> </p>
+
+        <input id="submit" name="submit" type="submit" value="Enviar">
+
+
+{% endif %}
+
+
+ </section>
 
 <section id="third_part"> </section>
 
@@ -92,3 +151,4 @@
   </div>
 
 {%endblock%}
+
