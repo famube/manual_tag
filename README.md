@@ -1,5 +1,5 @@
 # manual_tag
-Web aplication for manual inspection of tags assigned to Web 2.0 objects
+Web application for manual inspection of tags assigned to Web 2.0 objects
 
 
 Instructions
